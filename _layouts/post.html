@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article>
+  <hgroup>
+    <h1>{{ page.title }}</h1>
+    <h3>
+      {% if page.previous %}
+      <a class="prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}"><i class="fa fa-angle-left"></i></a>
+      {% else %}
+      <a class="prev hidden" href="#"><i class="fa fa-angle-left"></i></a>
+      {% endif %}
+      {% if page.updated %}
+      <span class="date" title="Updated on {{ page.updated | date: "%B %d, %Y" }}">Written on {{ page.date | date: "%B %d, %Y" }}</span>
+      {% else %}
+      <span class="date">Written on {{ page.date | date: "%B %d, %Y" }}</span>
+      {% endif %}
+      {% if page.next %}
+      <a class="next" href="{{ page.next.url }}" title="{{ page.next.title }}"><i class="fa fa-angle-right"></i></a>
+      {% else %}
+      <a class="next hidden" href="#"><i class="fa fa-angle-right"></i></a>
+      {% endif %}
+    </h3>
+  </hgroup>
+  <div class="post">
+    {{ content }}
+  </div>
+  <div class="social">
+    <hr>
+    Share this on <a class="share twitter" target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url | append: page.url | uri_escape }}&via={{ site.twitter | uri_escape }}">Twitter</a>, <a class="share facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | append: page.url | uri_escape }}">Facebook</a>, <a class="share google" target="_blank" href="https://plus.google.com/share?url={{ site.url | append: page.url | uri_escape }}">Google+</a> or <a class="share hackernews" target="_blank" href="https://news.ycombinator.com/submitlink?u={{ site.url | append: page.url | uri_escape }}&t={{ page.title | uri_escape }}">Hacker News</a>.
+  </div>
+</article>
+
+{% include author.html %}

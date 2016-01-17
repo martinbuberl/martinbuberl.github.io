@@ -1,0 +1,11 @@
+title: Martin Buberl
+author: Martin Buberl
+highlighter: pygments
+permalink: /blog/:title/
+url: https://martinbuberl.com
+twitter: martinbuberl
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+gems:
+  - jekyll-redirect-from

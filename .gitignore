@@ -1,0 +1,4 @@
+_site
+.idea
+*.db
+node_modules

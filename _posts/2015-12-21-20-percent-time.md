@@ -11,7 +11,7 @@ You might have heard about the concept of “20 percent time” before. It basic
 
 The premise is that you ideally pick up new skills you wouldn’t have otherwise. By doing so 20 percent time can be a significant contributor to making your company more innovative by driving new and emerging technologies into your product.
 
-Sometimes these pet projects even turn into real products. Probably the most famous example being Gmail, Google’s email service, which serves today about 900 million users worldwide and is one of their flagship products. If you give knowledge workers - whose job it is to “think for a living” - enough time and space to tinker, you might be positively surprised by the outcome.
+Sometimes these pet projects even turn into real products. Probably the most famous example being Gmail, Google’s email service, which serves today about 900 million users worldwide and is one of their flagship products. If you give smart creatives <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> - employees that don't chase compensation but rather the ability to cause change and disrupt industries - enough time and space to tinker, you might be pleasantly surprised by the outcome.
 
 Personally, I’m a huge fan of the concept and truly believe in its benefits. It’s a cornerstone of our engineering culture at my workplace and definitely the perk I get most asked about.
 
@@ -51,3 +51,7 @@ Overall, your company is trusting you by giving you the freedom to learn on your
 Note that this is a suggestion, and never let it inhibit your creativity. Afterall, nobody knows what types of projects eventually benefit your company - and that’s part of the charm here.
 
 Enjoy your 20 percent time.
+
+<ol class="reference">
+  <li id="cite_note-1">The term “smart creatives” was coined in a book, called <a target="_blank" href="http://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=as_li_ss_tl?ie=UTF8&qid=1462409890&sr=8-1&keywords=how+google+works&linkCode=ll1&tag=martinbuberl-20&linkId=88a48c2a02fd376aac223414e3bf78d4">How Google Works</a>, by Joshua Rosenberg and former Google CEO Eric Schmidt.</li>
+<ol>

@@ -1,4 +1,3 @@
 _site
-.idea
-*.db
+/.bundle/
 node_modules

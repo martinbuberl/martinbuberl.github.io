@@ -49,7 +49,6 @@ Here are my bookmarks of software and services, the essentials if you will, for 
     <ul>
       <li><a target="_blank" href="https://www.google.com/chrome/browser/">Chrome</a> - Browser of Choice (also <a target="_blank" href="https://www.google.com/intl/en/chrome/browser/canary.html">Canary</a>)
         <ul>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli">PageSpeed Insights</a> - Performance Analyzing</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/dhc-resthttp-api-client/aejoelaoggembcahagimdiliamlcdmfm">DHC</a> - REST/HTTP Client (also <a target="_blank" href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">Postman</a>)</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher</a> - Spoof &amp; Mimic User-Agents</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje">JavaScript Switcher</a> - Enable/Disable JavaScript</li>
@@ -78,6 +77,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
   <div class="wrapper">
     <h3 id="software-services-web-development" class="has-permalink">Web Development<a class="permalink" title="Permalink" href="#software-services-web-development">#</a></h3>
     <ul>
+      <li><a target="_blank" href="https://developers.google.com/speed/pagespeed/">PageSpeed Insights</a> - Performance Analyzing</li>
       <li><a target="_blank" href="http://www.jslint.com/">JSLint</a> - JavaScript Code Quality Tool</li>
       <li><a target="_blank" href="http://jsfiddle.net/">JSFiddle</a> - Prototyping &amp; Code Share</li>
       <li><a target="_blank" href="https://filezilla-project.org/">FileZilla</a> - FTP Client</li>

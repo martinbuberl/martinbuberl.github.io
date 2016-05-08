@@ -76,7 +76,6 @@ Here are my bookmarks of software and services, the essentials if you will, for 
   <div class="wrapper">
     <h3 id="software-services-web-development" class="has-permalink">Web Development<a class="permalink" title="Permalink" href="#software-services-web-development">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://codeclimate.com/">Code Climate</a> - Code Analysis Tool</li>
       <li><a target="_blank" href="http://www.jslint.com/">JSLint</a> - JavaScript Code Quality Tool</li>
       <li><a target="_blank" href="http://jsfiddle.net/">JSFiddle</a> - Prototyping &amp; Code Share</li>
       <li><a target="_blank" href="https://filezilla-project.org/">FileZilla</a> - FTP Client</li>

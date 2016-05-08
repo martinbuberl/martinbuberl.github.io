@@ -56,6 +56,8 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc">JSONView</a> - Validate &amp; View JSON Documents</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/hangouts/nckgahadagoaajjgafhacjanaoiihapd/">Hangouts</a> - Messaging and Video Conferences</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd">Google Cast</a> - Cast to <a target="_blank" href="https://www.google.com/chrome/devices/chromecast/">Chromecast</a></li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep</a> - Save things to Keep</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb">Authy</a> - Two Factor Authentication</li>
           <li><a target="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker (also <a target="_blank" href="https://chrome.google.com/webstore/detail/%C2%B5block/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock</a>)</li>
         </ul>
       </li>

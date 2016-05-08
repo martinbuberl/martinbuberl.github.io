@@ -162,7 +162,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li><a target="_blank" href="https://newrelic.com/">New Relic</a> - Performance Management &amp; Monitoring</li>
       <li><a target="_blank" href="https://codeclimate.com/">Code Climate</a> - Automated Code Reviews</li>
       <li><a target="_blank" href="https://mixpanel.com/">Mixpanel</a> - Analytics &amp; A/B Testing</li>
-      <li><a target="_blank" href="https://www.optimizely.com/">Optimizely</a> - A/B Testing</li>
+      <li><a target="_blank" href="https://www.optimizely.com/">Optimizely</a> - A/B Testing (also <a target="_blank" href="https://vwo.com/">VWO</a>)</li>
       <li><a target="_blank" href="https://loader.io/">loader.io</a> - Cloud-based Load Testing</li>
       <li><a target="_blank" href="http://www.browserstack.com/">BrowserStack</a> - Cross-browser Testing</li>
       <li><a target="_blank" href="http://polarb.com/">Polar Polls</a> - Opinion &amp; A/B Testing (also <a target="_blank" href="http://www.boll.co/">Boll</a>)</li>

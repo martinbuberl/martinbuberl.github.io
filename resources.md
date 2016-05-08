@@ -193,7 +193,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
   <div class="wrapper">
     <h3 id="software-services-security" class="has-permalink">Security<a class="permalink" title="Permalink" href="#software-services-security">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://www.safe-in-cloud.com/">Safe In Cloud</a> - Password Manager</li>
+      <li><a target="_blank" href="https://www.safe-in-cloud.com/">Safe In Cloud</a> - Password Manager (also <a target="_blank" href="https://lastpass.com/">LastPass</a>)</li>
       <li><a target="_blank" href="https://www.coinbase.com/join/martinbuberl">Coinbase</a> - Bitcoin Wallet</li>
       <li><a target="_blank" href="https://www.authy.com/">Authy</a> - Two Factor Authentication</li>
       <li><a target="_blank" href="https://keybase.io/">Keybase</a> - Public Key Crypto</li>

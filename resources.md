@@ -55,9 +55,9 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep</a> - Save things to Google Keep</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb">Authy</a> - Two Factor Authentication</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/dhc-resthttp-api-client/aejoelaoggembcahagimdiliamlcdmfm">DHC</a> - REST/HTTP Client (also <a target="_blank" href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">Postman</a>)</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc">JSONView</a> - Validate &amp; View JSON Documents</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher</a> - Spoof &amp; Mimic User-Agents</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje">JavaScript Switcher</a> - Enable/Disable JavaScript</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc">JSONView</a> - Validate &amp; View JSON Documents</li>
         </ul>
       </li>
       <li><a target="_blank" href="https://www.firefox.com/">Firefox</a> - First Love</li>

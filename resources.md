@@ -60,7 +60,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje">JavaScript Switcher</a> - Enable/Disable JavaScript</li>
         </ul>
       </li>
-      <li><a target="_blank" href="https://www.firefox.com/">Firefox</a> - First Love</li>
+      <li><a target="_blank" href="https://www.mozilla.org/firefox/developer/">Firefox</a> - Developer Edition for Testing</li>
     </ul>
   </div>
   <div class="wrapper win">

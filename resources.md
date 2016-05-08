@@ -57,7 +57,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-drive/apdfllckaahabafndbhieahigkjlhalf">Google Drive</a> - Cloud Storage &amp; Google Docs</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep</a> - Save things to Google Keep</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb">Authy</a> - Two Factor Authentication</li>
-          <li><a target="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker (also <a target="_blank" href="https://chrome.google.com/webstore/detail/%C2%B5block/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock</a>)</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker (also <a target="_blank" href="https://chrome.google.com/webstore/detail/%C2%B5block/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock</a>)</li>
         </ul>
       </li>
       <li><a target="_blank" href="https://www.firefox.com/">Firefox</a> - First Love</li>

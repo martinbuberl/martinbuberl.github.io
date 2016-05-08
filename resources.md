@@ -367,7 +367,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
         </ul>
       </li>
       <li><a target="_blank" href="http://www.google.com/recaptcha/">reCAPTCHA</a> - Spam &amp; Abuse Protection</li>
-      <li><a target="_blank" href="http://htmlemailboilerplate.com/">HTML Email Boilerplate</a>
+      <li><a target="_blank" href="http://htmlemailboilerplate.com/">HTML Email Boilerplate</a></li>
       <li><a target="_blank" href="http://caniuse.com/">Can I use...</a> - HTML5, CSS3 &amp; SVG Compatibility</li>
       <li><a target="_blank" href="http://tympanus.net/codrops/category/blueprints/">Codrops Blueprints</a> - Concepts &amp; Layouts</li>
       <li><a target="_blank" href="http://www.javascriptoo.com/">JavaScriptOO</a> - Popular JavaScript Libraries</li>

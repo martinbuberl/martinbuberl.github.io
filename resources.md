@@ -128,6 +128,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li><a target="_blank" href="https://circleci.com/">CircleCI</a> - CI &amp; Deployment Service</li>
       <li><a target="_blank" href="https://www.docker.com/">Docker</a> - Build, Ship and Run in Containers</li>
       <li><a target="_blank" href="https://travis-ci.org/">Travis CI</a> - CI &amp; Deployment Service</li>
+      <li><a target="_blank" href="https://www.appveyor.com/">AppVeyor</a> - Continuous Delivery Service for Windows</li>
       <li><a target="_blank" href="https://www.jetbrains.com/teamcity/">TeamCity</a> - Continuous Integration Server</li>
       <li class="win"><a target="_blank" href="http://www.iis.net/downloads/microsoft/web-deploy">Web Deploy</a> - IIS Deployment <a href="/blog/deploy-aspnet-mvc-on-amazon-ec2-with-web-deploy/">done right</a></li>
       <li><a target="_blank" href="https://octopusdeploy.com/">Octopus Deploy</a> - Deployment Service for .NET</li>

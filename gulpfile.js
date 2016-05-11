@@ -9,14 +9,14 @@ const rename = require('gulp-rename');
 const concat = require('gulp-concat');
 
 // Node tasks
-gulp.task('node-david', function () {
+gulp.task('node-david', () => {
   return gulp.src('package.json')
     .pipe(david())
     .on('error', (err) => console.error(err));
 });
 
 // JS tasks
-gulp.task('js-process', function () {
+gulp.task('js-process', () => {
   return gulp.src(['content/js/base.js'])
     .pipe(concat('base.js'))
     .pipe(uglify({ compress: { drop_debugger: false } }))
@@ -25,7 +25,7 @@ gulp.task('js-process', function () {
 });
 
 // CSS tasks
-gulp.task('css-process', function () {
+gulp.task('css-process', () => {
   return gulp.src([
       'content/css/import.scss',
       'content/normalize.css',

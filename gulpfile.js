@@ -17,7 +17,7 @@ gulp.task('node-david', function () {
 });
 
 // JS tasks
-gulp.task('js-prepare', function () {
+gulp.task('js-process', function () {
   return gulp.src(['content/js/base.js'])
     .pipe(concat('base.js'))
     .pipe(uglify({ compress: { drop_debugger: false } }))
@@ -26,16 +26,14 @@ gulp.task('js-prepare', function () {
 });
 
 // CSS tasks
-gulp.task('css-prepare', function () {
-  return gulp.src(['content/css/import.scss', 'content/css/base.scss'])
+gulp.task('css-process', function () {
+  return gulp.src(['content/css/import.scss', 'content/normalize.css', 'content/css/base.scss'])
     .pipe(sass())
-    .pipe(gulp.dest('content/css/'))
-    .pipe(rename({ suffix: '.min' }))
-    .pipe(cleancss({ keepSpecialComments: false, processImport: false, advanced: false }))
-    .pipe(gulp.dest('content'));
-});
-gulp.task('css-combine', function() {
-  return gulp.src(['content/import.min.css', 'content/normalize.min.css', 'content/base.min.css'])
+    .pipe(cleancss({
+      keepSpecialComments: false,
+      processImport: false,
+      advanced: false
+    }))
     .pipe(concat('all.min.css'))
     .pipe(gulp.dest('content'));
 });
@@ -43,5 +41,5 @@ gulp.task('css-combine', function() {
 // The default task (called when you run `gulp` from cli)
 // Using 'run-sequence' to run tasks in order
 gulp.task('default', function (callback) {
-  sequence('node-david', 'js-prepare', 'css-prepare', 'css-combine', callback);
+  sequence('node-david', 'js-process', 'css-process', callback);
 });

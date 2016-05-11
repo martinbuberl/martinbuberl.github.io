@@ -7,7 +7,7 @@
 body {
   background-color: #FFFFFF;
   color: #212121;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 28px;
@@ -41,7 +41,7 @@ img {
   border: 0; }
 
 h1, h2, h3, h4 {
-  font-family: 'Volkhov', serif;
+  font-family: "Volkhov", serif;
   font-weight: 700;
   font-style: italic;
   margin: 60px 0 40px 0; }
@@ -165,7 +165,7 @@ article {
       margin: 0;
       text-align: center; }
     article hgroup h3 {
-      font-family: 'Source Sans Pro', sans-serif;
+      font-family: "Source Sans Pro", sans-serif;
       font-style: normal;
       font-size: 14px;
       font-weight: normal;
@@ -219,8 +219,10 @@ article {
   -ms-transition: color 0.15s ease-in;
   -o-transition: color 0.15s ease-in;
   transition: color 0.15s ease-in; }
+
 .content a:hover {
   color: #03A9F4; }
+
 .content img {
   max-width: 100%;
   margin: 40px auto;
@@ -246,7 +248,7 @@ article {
     float: left;
     width: 54px; }
   .author .avatar {
-    background: url('/content/img/avatar.jpg');
+    background: url("/content/img/avatar.jpg");
     background-size: auto 54px;
     width: 54px;
     height: 54px;
@@ -255,7 +257,7 @@ article {
     margin-left: 72px; }
   .author h4 {
     margin: 0;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-style: normal;
     font-weight: 400; }
   .author p {
@@ -277,7 +279,7 @@ article {
 
 /* code */
 code, kbd, pre {
-  font-family: 'Source Code Pro', monospace;
+  font-family: "Source Code Pro", monospace;
   font-size: 14px;
   word-wrap: break-word;
   white-space: nowrap; }
@@ -343,7 +345,7 @@ table {
   .posts li {
     font-size: 27px;
     letter-spacing: -1px;
-    font-family: 'Volkhov', serif;
+    font-family: "Volkhov", serif;
     font-weight: 700;
     font-style: italic;
     list-style-type: none;
@@ -357,7 +359,7 @@ ul.the-culture-test {
 
 /* about */
 .about {
-  background: url('/content/img/about.jpg');
+  background: url("/content/img/about.jpg");
   background-size: auto 200px;
   background-position: right;
   height: 200px;
@@ -458,9 +460,9 @@ h2#software-services {
 /* retina */
 @media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
   .author .avatar {
-    background-image: url('/content/img/avatar@2x.jpg'); }
+    background-image: url("/content/img/avatar@2x.jpg"); }
   .about {
-    background-image: url('/content/img/about@2x.jpg'); } }
+    background-image: url("/content/img/about@2x.jpg"); } }
 
 /* print */
 @media print {

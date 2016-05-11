@@ -8,8 +8,8 @@ const uglify = require('gulp-uglify');
 const rename = require('gulp-rename');
 const concat = require('gulp-concat');
 const sequence = require('run-sequence');
-const jshint = require('gulp-jshint');
 
+// Node tasks
 gulp.task('node-david', function () {
   return gulp.src('package.json')
     .pipe(david())
@@ -23,11 +23,6 @@ gulp.task('js-prepare', function () {
     .pipe(uglify({ compress: { drop_debugger: false } }))
     .pipe(rename({ suffix: '.min' }))
     .pipe(gulp.dest('content'));
-});
-gulp.task('js-lint', function() {
-  return gulp.src(['content/js/base.js'])
-    .pipe(jshint())
-    .pipe(jshint.reporter('default'));
 });
 
 // CSS tasks
@@ -48,5 +43,5 @@ gulp.task('css-combine', function() {
 // The default task (called when you run `gulp` from cli)
 // Using 'run-sequence' to run tasks in order
 gulp.task('default', function (callback) {
-  sequence('node-david', 'js-lint', 'js-prepare', 'css-prepare', 'css-combine', callback);
+  sequence('node-david', 'js-prepare', 'css-prepare', 'css-combine', callback);
 });

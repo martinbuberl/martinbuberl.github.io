@@ -1,29 +1,19 @@
 'use strict';
 
 const gulp = require('gulp');
-const david = require('gulp-david');
 const sass = require('gulp-sass');
 const cleancss = require('gulp-clean-css');
 const uglify = require('gulp-uglify');
 const concat = require('gulp-concat');
 
-// Node tasks
-gulp.task('node-david', () => {
-  return gulp.src('package.json')
-    .pipe(david())
-    .on('error', (err) => console.error(err));
-});
-
-// JS tasks
-gulp.task('js-process', () => {
+gulp.task('scripts', () => {
   return gulp.src(['content/js/base.js'])
     .pipe(concat('base.min.js'))
     .pipe(uglify({ compress: { drop_debugger: false } }))
     .pipe(gulp.dest('content'));
 });
 
-// CSS tasks
-gulp.task('css-process', () => {
+gulp.task('styles', () => {
   return gulp.src([
       'content/css/import.scss',
       'content/normalize.css',
@@ -40,4 +30,4 @@ gulp.task('css-process', () => {
 });
 
 // The default task (called when you run `gulp` from cli)
-gulp.task('default', ['node-david', 'js-process', 'css-process']);
+gulp.task('default', ['scripts', 'styles']);

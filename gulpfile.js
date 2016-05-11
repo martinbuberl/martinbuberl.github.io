@@ -30,9 +30,9 @@ gulp.task('css-process', function () {
   return gulp.src(['content/css/import.scss', 'content/normalize.css', 'content/css/base.scss'])
     .pipe(sass())
     .pipe(cleancss({
-      keepSpecialComments: false,
+      advanced: false,
       processImport: false,
-      advanced: false
+      keepSpecialComments: false
     }))
     .pipe(concat('all.min.css'))
     .pipe(gulp.dest('content'));

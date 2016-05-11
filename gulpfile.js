@@ -1,11 +1,11 @@
-var gulp = require('gulp'),
-    sass = require('gulp-sass'),
-    cleancss = require('gulp-clean-css'),
-    uglify = require('gulp-uglify'),
-    rename = require('gulp-rename'),
-    concat = require('gulp-concat'),
-    sequence = require('run-sequence'),
-    jshint = require('gulp-jshint');
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const cleancss = require('gulp-clean-css');
+const uglify = require('gulp-uglify');
+const rename = require('gulp-rename');
+const concat = require('gulp-concat');
+const sequence = require('run-sequence');
+const jshint = require('gulp-jshint');
 
 // JS tasks
 gulp.task('js-prepare', function () {
@@ -38,14 +38,14 @@ gulp.task('css-combine', function() {
 
 // Watch and rerun the task when a file changes
 gulp.task('watch', function () {
-    gulp.watch('content/js/*.js', ['watch-js']);
-    gulp.watch('content/css/*.scss', ['watch-css']);
+  gulp.watch('content/js/*.js', ['watch-js']);
+  gulp.watch('content/css/*.scss', ['watch-css']);
 });
 gulp.task('watch-js', function (callback) {
-    sequence('js-lint', 'js-prepare', callback);
+  sequence('js-lint', 'js-prepare', callback);
 });
 gulp.task('watch-css', function (callback) {
-    sequence('css-prepare','css-combine', callback);
+  sequence('css-prepare','css-combine', callback);
 });
 
 // The default task (called when you run `gulp` from cli)

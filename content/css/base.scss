@@ -2,9 +2,9 @@
  * Variables
  */
 
-$font-sans-serif:     'Source Sans Pro', sans-serif;
-$font-serif:          'Volkhov', serif;
-$font-monospace:      'Source Code Pro', monospace;
+$font-sans-serif:     "Source Sans Pro", sans-serif;
+$font-serif:          "Volkhov", serif;
+$font-monospace:      "Source Code Pro", monospace;
 
 $color-bg:            #FFFFFF;
 $color-fg:            #212121; // Grey 900
@@ -328,7 +328,7 @@ article {
     width: 54px;
   }
   .avatar {
-    background: url('/content/img/avatar.jpg');
+    background: url("/content/img/avatar.jpg");
     background-size: auto 54px;
     width: 54px;
     height: 54px;
@@ -474,7 +474,7 @@ ul.the-culture-test {
 /* about */
 
 .about {
-  background: url('/content/img/about.jpg');
+  background: url("/content/img/about.jpg");
   background-size: auto 200px;
   background-position: right;
   height: 200px;
@@ -592,10 +592,10 @@ h2#software-services {
 
 @media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
   .author .avatar {
-    background-image: url('/content/img/avatar@2x.jpg');
+    background-image: url("/content/img/avatar@2x.jpg");
   }
   .about {
-    background-image: url('/content/img/about@2x.jpg');
+    background-image: url("/content/img/about@2x.jpg");
   }
 }
 

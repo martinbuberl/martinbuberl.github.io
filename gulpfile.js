@@ -40,5 +40,4 @@ gulp.task('css-process', () => {
 });
 
 // The default task (called when you run `gulp` from cli)
-// Using 'run-sequence' to run tasks in order
 gulp.task('default', ['node-david', 'js-process', 'css-process']);

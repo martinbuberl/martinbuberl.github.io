@@ -36,20 +36,8 @@ gulp.task('css-combine', function() {
     .pipe(gulp.dest('content'));
 });
 
-// Watch and rerun the task when a file changes
-gulp.task('watch', function () {
-  gulp.watch('content/js/*.js', ['watch-js']);
-  gulp.watch('content/css/*.scss', ['watch-css']);
-});
-gulp.task('watch-js', function (callback) {
-  sequence('js-lint', 'js-prepare', callback);
-});
-gulp.task('watch-css', function (callback) {
-  sequence('css-prepare','css-combine', callback);
-});
-
 // The default task (called when you run `gulp` from cli)
 // Using 'run-sequence' to run tasks in order
 gulp.task('default', function (callback) {
-  sequence('js-lint', 'js-prepare', 'css-prepare', 'css-combine', 'watch', callback);
+  sequence('js-lint', 'js-prepare', 'css-prepare', 'css-combine', callback);
 });

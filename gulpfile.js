@@ -7,7 +7,6 @@ const cleancss = require('gulp-clean-css');
 const uglify = require('gulp-uglify');
 const rename = require('gulp-rename');
 const concat = require('gulp-concat');
-const sequence = require('run-sequence');
 
 // Node tasks
 gulp.task('node-david', function () {
@@ -27,7 +26,11 @@ gulp.task('js-process', function () {
 
 // CSS tasks
 gulp.task('css-process', function () {
-  return gulp.src(['content/css/import.scss', 'content/normalize.css', 'content/css/base.scss'])
+  return gulp.src([
+      'content/css/import.scss',
+      'content/normalize.css',
+      'content/css/base.scss'
+    ])
     .pipe(sass())
     .pipe(cleancss({
       advanced: false,
@@ -40,6 +43,4 @@ gulp.task('css-process', function () {
 
 // The default task (called when you run `gulp` from cli)
 // Using 'run-sequence' to run tasks in order
-gulp.task('default', function (callback) {
-  sequence('node-david', 'js-process', 'css-process', callback);
-});
+gulp.task('default', ['node-david', 'js-process', 'css-process']);

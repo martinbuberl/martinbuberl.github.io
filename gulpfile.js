@@ -9,7 +9,9 @@ const concat = require('gulp-concat');
 gulp.task('scripts', () => {
   return gulp.src(['content/js/base.js'])
     .pipe(concat('base.min.js'))
-    .pipe(uglify({ compress: { drop_debugger: false } }))
+    .pipe(uglify({
+      compress: { drop_debugger: false }
+    }))
     .pipe(gulp.dest('content'));
 });
 
@@ -20,12 +22,12 @@ gulp.task('styles', () => {
       'content/css/base.scss'
     ])
     .pipe(sass())
+    .pipe(concat('all.min.css'))
     .pipe(cleancss({
       advanced: false,
       processImport: false,
       keepSpecialComments: false
     }))
-    .pipe(concat('all.min.css'))
     .pipe(gulp.dest('content'));
 });
 

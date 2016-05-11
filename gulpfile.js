@@ -5,7 +5,6 @@ const david = require('gulp-david');
 const sass = require('gulp-sass');
 const cleancss = require('gulp-clean-css');
 const uglify = require('gulp-uglify');
-const rename = require('gulp-rename');
 const concat = require('gulp-concat');
 
 // Node tasks
@@ -18,9 +17,8 @@ gulp.task('node-david', () => {
 // JS tasks
 gulp.task('js-process', () => {
   return gulp.src(['content/js/base.js'])
-    .pipe(concat('base.js'))
+    .pipe(concat('base.min.js'))
     .pipe(uglify({ compress: { drop_debugger: false } }))
-    .pipe(rename({ suffix: '.min' }))
     .pipe(gulp.dest('content'));
 });
 

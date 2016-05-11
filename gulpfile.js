@@ -1,6 +1,6 @@
 var gulp = require('gulp'),
     sass = require('gulp-sass'),
-    minifycss = require('gulp-minify-css'),
+    cleancss = require('gulp-clean-css'),
     uglify = require('gulp-uglify'),
     rename = require('gulp-rename'),
     concat = require('gulp-concat'),
@@ -27,7 +27,7 @@ gulp.task('css-prepare', function () {
     .pipe(sass())
     .pipe(gulp.dest('content/css/'))
     .pipe(rename({ suffix: '.min' }))
-    .pipe(minifycss({ processImport: false }))
+    .pipe(cleancss({ keepSpecialComments: false, processImport: false, advanced: false }))
     .pipe(gulp.dest('content'));
 });
 gulp.task('css-combine', function() {

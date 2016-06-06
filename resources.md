@@ -26,6 +26,8 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://packagecontrol.io/packages/Babel">Babel</a> - Language definitions for ES6</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/Sass">Sass</a> - Syntax Highlighting (also <a target="_blank" href="https://packagecontrol.io/packages/LESS">LESS</a>)</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/EditorConfig">EditorConfig</a> - Consistent Coding Styles</li>
+          <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter">SublimeLinter</a> - Linting Framework</li>
+          <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-contrib-eslint">SublimeLinter ESLint</a> - Linter Plugin</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/TrailingSpaces">Trailing​Spaces</a> - Highlight Trailing Spaces</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/Theme%20-%20amCoder">am​Coder</a> - Hyperminimal UI Theme</li>
         </ul>

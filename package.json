@@ -9,5 +9,8 @@
     "gulp-sass": "^2.3.1",
     "gulp-uglify": "^1.5.3"
   },
+  "scripts": {
+    "build": "gulp"
+  },
   "private": true
 }

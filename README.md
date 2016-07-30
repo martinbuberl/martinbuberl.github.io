@@ -20,4 +20,4 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
-Then, load [http://localhost:4000/](http://localhost:4000/) on your browser.
+Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.

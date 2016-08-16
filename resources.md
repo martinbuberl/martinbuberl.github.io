@@ -23,9 +23,9 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li><a target="_blank" href="http://www.sublimetext.com/">Sublime Text</a> - Cross-platform Text Editor
         <ul>
           <li><a target="_blank" href="https://packagecontrol.io/">Package Control</a> - Package Manager</li>
+          <li><a target="_blank" href="https://packagecontrol.io/packages/EditorConfig">EditorConfig</a> - Consistent Coding Styles</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/Babel">Babel</a> - Language definitions for ES6</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/Sass">Sass</a> - Syntax Highlighting (also <a target="_blank" href="https://packagecontrol.io/packages/LESS">LESS</a>)</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/EditorConfig">EditorConfig</a> - Consistent Coding Styles</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter">SublimeLinter</a> - Linting Framework</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-contrib-eslint">SublimeLinter ESLint</a> - Linter Plugin</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/TrailingSpaces">Trailing​Spaces</a> - Highlight Trailing Spaces</li>
@@ -34,35 +34,26 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       </li>
       <li class="win"><a target="_blank" href="https://www.visualstudio.com/">Visual Studio</a> - Windows IDE of Choice
         <ul>
+          <li><a target="_blank" href="http://www.nuget.org/">NuGet</a> - Package Manager</li>
+          <li><a target="_blank" href="https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328">EditorConfig</a> - Consistent Coding Styles</li>
           <li><a target="_blank" href="https://www.jetbrains.com/resharper/">ReSharper</a> - Productivity &amp; Refactoring</li>
           <li><a target="_blank" href="https://github.com/Microsoft/nodejstools">Node.js Tools</a> - Integration &amp; Debugging</li>
           <li><a target="_blank" href="http://visualstudiogallery.msdn.microsoft.com/69023d00-a4f9-4a34-a6cd-7e854ba318b5">SlowCheetah</a> - XML Transformations</li>
-          <li><a target="_blank" href="https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328">EditorConfig</a> - Consistent Coding Styles</li>
-          <li><a target="_blank" href="http://www.nuget.org/">NuGet</a> - Package Manager</li>
         </ul>
       </li>
-      <li><a target="_blank" href="https://www.jetbrains.com/webstorm/">WebStorm</a> - JavaScript IDE for Node.js</li>
-      <li><a target="_blank" href="http://www.scootersoftware.com/">Beyond Compare</a> - File Compare &amp; Merge</a></li>
-      <li><a target="_blank" href="http://dillinger.io/">Dillinger</a> - Cloud-enabled Markdown Editor</li>
     </ul>
   </div>
   <div class="wrapper">
     <h3 id="software-services-browsers-extensions" class="has-permalink">Browsers &amp; Extensions<a class="permalink" title="Permalink" href="#software-services-browsers-extensions">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://www.google.com/chrome/browser/">Chrome</a> - Browser of Choice (also <a target="_blank" href="https://www.google.com/intl/en/chrome/browser/canary.html">Canary</a>)
+      <li><a target="_blank" href="https://www.google.com/chrome/browser/">Chrome</a> - Browser of Choice (particularly <a target="_blank" href="https://www.google.com/intl/en/chrome/browser/canary.html">Canary</a>)
         <ul>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker (also <a target="_blank" href="https://chrome.google.com/webstore/detail/%C2%B5block/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock</a>)</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd">Google Cast</a> - Cast to <a target="_blank" href="https://www.google.com/chrome/devices/chromecast/">Chromecast</a></li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-drive/apdfllckaahabafndbhieahigkjlhalf">Google Drive</a> - Cloud Storage &amp; Google Docs</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi">Google Keep</a> - Save things to Google Keep</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb">Authy</a> - Two Factor Authentication</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/dhc-resthttp-api-client/aejoelaoggembcahagimdiliamlcdmfm">DHC</a> - REST/HTTP Client (also <a target="_blank" href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">Postman</a>)</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc">JSONView</a> - Validate &amp; View JSON Documents</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher</a> - Spoof &amp; Mimic User-Agents</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje">JavaScript Switcher</a> - Enable/Disable JavaScript</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">Postman</a> - REST/HTTP Client</li>
         </ul>
       </li>
-      <li><a target="_blank" href="https://www.mozilla.org/firefox/developer/">Firefox</a> - Developer Edition for Testing</li>
     </ul>
   </div>
   <div class="wrapper win">

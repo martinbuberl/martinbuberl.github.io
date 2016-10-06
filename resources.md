@@ -209,9 +209,9 @@ Here are my bookmarks of software and services, the essentials if you will, for 
   <div class="wrapper">
     <h3 id="software-services-productivity" class="has-permalink">Productivity<a class="permalink" title="Permalink" href="#software-services-productivity">#</a></h3>
     <ul>
-      <li><a target="_blank" href="http://goo.gl/xfPFhk">Google Apps for Work</a> - Communicate &amp; Collaborate
+      <li><a target="_blank" href="http://goo.gl/xfPFhk">G Suite</a> - Communicate &amp; Collaborate
         <ul>
-          <li><a target="_blank" href="https://toolbox.googleapps.com/">Google Apps Toolbox</a> - Debugging Tools</li>
+          <li><a target="_blank" href="https://toolbox.googleapps.com/">Toolbox</a> - Debugging Tools</li>
         </ul>
       </li>
       <li><a target="_blank" href="https://db.tt/lwHYI3m">Dropbox</a> - File Sync, Anywhere</li>

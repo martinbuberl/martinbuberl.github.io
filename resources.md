@@ -72,7 +72,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
     <ul>
       <li><a target="_blank" href="https://requestb.in/">RequestBin</a> - Inspect HTTP Requests</li>
       <li><a target="_blank" href="https://developers.google.com/speed/pagespeed/">PageSpeed Insights</a> - Performance Analyzing</li>
-      <li><a target="_blank" href="http://www.jslint.com/">JSLint</a> - JavaScript Code Quality Tool</li>
+      <li><a target="_blank" href="http://eslint.org/">ESLint</a> - JavaScript Code Quality Tool</li>
       <li><a target="_blank" href="http://jsfiddle.net/">JSFiddle</a> - Prototyping &amp; Code Share</li>
       <li><a target="_blank" href="https://filezilla-project.org/">FileZilla</a> - FTP Client</li>
       <li class="win"><a target="_blank" href="http://www.telerik.com/fiddler">Fiddler</a> - Web Debugging Proxy</li>

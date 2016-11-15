@@ -70,6 +70,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
   <div class="wrapper">
     <h3 id="software-services-web-development" class="has-permalink">Web Development<a class="permalink" title="Permalink" href="#software-services-web-development">#</a></h3>
     <ul>
+      <li><a target="_blank" href="https://requestb.in/">RequestBin</a> - Inspect HTTP Requests</li>
       <li><a target="_blank" href="https://developers.google.com/speed/pagespeed/">PageSpeed Insights</a> - Performance Analyzing</li>
       <li><a target="_blank" href="http://www.jslint.com/">JSLint</a> - JavaScript Code Quality Tool</li>
       <li><a target="_blank" href="http://jsfiddle.net/">JSFiddle</a> - Prototyping &amp; Code Share</li>

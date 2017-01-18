@@ -48,6 +48,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
     <ul>
       <li><a target="_blank" href="https://www.google.com/chrome/browser/">Chrome</a> - Browser of Choice (particularly <a target="_blank" href="https://www.google.com/intl/en/chrome/browser/canary.html">Canary</a>)
         <ul>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/inbox-by-gmail/gkljgfmjocfalijkgoogmfffkhmkbgol">Inbox</a> - Save for Later</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd">Google Cast</a> - Cast to <a target="_blank" href="https://www.google.com/chrome/devices/chromecast/">Chromecast</a></li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb">Authy</a> - Two Factor Authentication</li>
@@ -98,7 +99,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
     <ul>
       <li class="win"><a target="_blank" href="https://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx">SQL Server Express</a> - Relational Database Server
         <ul>
-          <li><a target="_blank" href="http://www.linqpad.net/">LINQPad</a> - Query Databases</a></li>
+          <li><a target="_blank" href="http://www.linqpad.net/">LINQPad</a> - Query Databases</li>
         </ul>
       </li>
       <li><a target="_blank" href="http://www.mongodb.org/">MongoDB</a> - Document Database
@@ -175,15 +176,15 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       </li>
       <li class="win"><a target="_blank" href="http://technet.microsoft.com/en-us/sysinternals/bb842062">Sysinternals Suite</a> - Troubleshooting Utilities</li>
       <li class="win"><a target="_blank" href="http://www.peazip.org/">PeaZip</a> - Zip Files Utility</li>
-      <li><a target="_blank" href="https://handbrake.fr/">HandBrake</a> - Video Transcoder</li>
+      <li><a target="_blank" href="https://handbrake.fr/">HandBrake</a> - Video Transcoder</li>∏
       <li><a target="_blank" href="http://www.mirovideoconverter.com/">Micro Video Converter</a> - Convert Videos for Mobile</li>
       <li class="win"><a target="_blank" href="http://www.emptyloop.com/unlocker/">Unlocker</a> - Unlock Locked Files (also <a target="_blank" href="http://lockhunter.com/">LockHunter</a>)</li>
       <li class="osx"><a target="_blank" href="http://brew.sh/">Homebrew</a> - OS X Package Manager</li>
       <li class="osx"><a target="_blank" href="http://www.bresink.com/osx/TinkerTool.html">Tinker Tool</a> - OS X Preferences</li>
-      <li class="osx"><a target="_blank" href="http://ohmyz.sh/">Oh My Zsh</a> - Terminal Awesomeness</a></li>
+      <li class="osx"><a target="_blank" href="http://ohmyz.sh/">Oh My Zsh</a> - Terminal Awesomeness</li>
       <li class="win"><a target="_blank" href="http://www.brianapps.net/sizer/">Sizer</a> - Resizes Any Window</li>
       <li class="osx"><a target="_blank" href="http://spectacleapp.com/">Spectate</a> - Move and Resize Windows</li>
-      <li class="win"><a target="_blank" href="http://www.angusj.com/resourcehacker/">Resource Hacker</a> - Modify Windows Resources</a></li>
+      <li class="win"><a target="_blank" href="http://www.angusj.com/resourcehacker/">Resource Hacker</a> - Modify Windows Resources</li>
     </ul>
   </div>
   <div class="wrapper">
@@ -214,6 +215,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
     <ul>
       <li><a target="_blank" href="http://goo.gl/xfPFhk">G Suite</a> - Communicate &amp; Collaborate
         <ul>
+          <li><a target="_blank" href="https://www.google.com/inbox/">Inbox</a> - Gmail Alternative</li>
           <li><a target="_blank" href="https://toolbox.googleapps.com/">Toolbox</a> - Debugging Tools</li>
         </ul>
       </li>

@@ -410,6 +410,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
     <ul>
       <li><a target="_blank" href="http://theleanstartup.com/">The Lean Startup</a></li>
       <li><a target="_blank" href="http://www.crisp.se/gratis-material-och-guider/scrum-checklist">Scrum Checklist</a></li>
+      <li><a target="_blank" href="http://jpattonassociates.com/opportunity-canvas/">Opportunity Canvas</a></li>
       <li><a target="_blank" href="http://businessmodelgeneration.com/canvas/bmc">Business Model Canvas</a></li>
       <li><a target="_blank" href="http://www.mvpdesignhacks.com/resources/">MVP Design Canvas</a></li>
       <li><a target="_blank" href="http://5whys.com/">Elastic Leadership</a></li>

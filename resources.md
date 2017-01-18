@@ -132,12 +132,13 @@ Here are my bookmarks of software and services, the essentials if you will, for 
   <div class="wrapper">
     <h3 id="software-services-cloud-hosting-services" class="has-permalink">Cloud Hosting &amp; Services<a class="permalink" title="Permalink" href="#software-services-cloud-hosting-services">#</a></h3>
     <ul>
-      <li><a target="_blank" href="http://aws.amazon.com/">Amazon Web Services</a> - Cloud Computing Services
+      <li><a target="_blank" href="http://aws.amazon.com/">Amazon Web Services</a> - Cloud Services
         <ul>
           <li><a target="_blank" href="https://aws.amazon.com/cli/">Command Line Interface</a> - Manage AWS Services</li>
         </ul>
       </li>
-      <li><a target="_blank" href="http://azure.microsoft.com/">Azure</a> - Microsoft's Cloud Platform</li>
+      <li><a target="_blank" href="https://cloud.google.com/">Google Cloud Platform</a> - Cloud Services
+      <li><a target="_blank" href="http://azure.microsoft.com/">Microsoft Azure</a> - Cloud Services</li>
       <li><a target="_blank" href="https://www.compose.io/">Compose</a> - DBaaS for MongoDB &amp; Redis</li>
       <li><a target="_blank" href="https://appharbor.com/">AppHarbor</a> - Cloud PaaS for .NET</li>
       <li><a target="_blank" href="https://www.heroku.com/">Heroku</a> - Cloud PaaS for Ruby, Node.js &amp; Python

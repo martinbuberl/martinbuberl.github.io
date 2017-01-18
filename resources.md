@@ -177,7 +177,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       </li>
       <li class="win"><a target="_blank" href="http://technet.microsoft.com/en-us/sysinternals/bb842062">Sysinternals Suite</a> - Troubleshooting Utilities</li>
       <li class="win"><a target="_blank" href="http://www.peazip.org/">PeaZip</a> - Zip Files Utility</li>
-      <li><a target="_blank" href="https://handbrake.fr/">HandBrake</a> - Video Transcoder</li>∏
+      <li><a target="_blank" href="https://handbrake.fr/">HandBrake</a> - Video Transcoder</li>
       <li><a target="_blank" href="http://www.mirovideoconverter.com/">Micro Video Converter</a> - Convert Videos for Mobile</li>
       <li class="win"><a target="_blank" href="http://www.emptyloop.com/unlocker/">Unlocker</a> - Unlock Locked Files (also <a target="_blank" href="http://lockhunter.com/">LockHunter</a>)</li>
       <li class="osx"><a target="_blank" href="http://brew.sh/">Homebrew</a> - OS X Package Manager</li>

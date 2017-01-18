@@ -139,7 +139,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://aws.amazon.com/cli/">Command Line Interface</a> - Manage AWS Services</li>
         </ul>
       </li>
-      <li><a target="_blank" href="https://cloud.google.com/">Google Cloud Platform</a> - Cloud Services
+      <li><a target="_blank" href="https://cloud.google.com/">Google Cloud Platform</a> - Cloud Services</li>
       <li><a target="_blank" href="http://azure.microsoft.com/">Microsoft Azure</a> - Cloud Services</li>
       <li><a target="_blank" href="https://www.compose.io/">Compose</a> - DBaaS for MongoDB &amp; Redis</li>
       <li><a target="_blank" href="https://appharbor.com/">AppHarbor</a> - Cloud PaaS for .NET</li>

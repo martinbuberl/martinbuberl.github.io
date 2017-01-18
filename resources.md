@@ -97,6 +97,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
   <div class="wrapper">
     <h3 id="software-services-database-development" class="has-permalink">Database Development<a class="permalink" title="Permalink" href="#software-services-database-development">#</a></h3>
     <ul>
+      <li><a target="_blank" href="https://www.jetbrains.com/datagrip/">DataGrip</a> - Database IDE</li>
       <li class="win"><a target="_blank" href="https://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx">SQL Server Express</a> - Relational Database Server
         <ul>
           <li><a target="_blank" href="http://www.linqpad.net/">LINQPad</a> - Query Databases</li>

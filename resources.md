@@ -164,6 +164,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li><a target="_blank" href="https://loader.io/">loader.io</a> - Cloud-based Load Testing</li>
       <li><a target="_blank" href="http://www.browserstack.com/">BrowserStack</a> - Cross-browser Testing</li>
       <li><a target="_blank" href="http://polarb.com/">Polar Polls</a> - Opinion &amp; A/B Testing (also <a target="_blank" href="http://www.boll.co/">Boll</a>)</li>
+      <li><a target="_blank" href="https://www.google.com/alerts">Google Alerts</a> - Monitor the Web</li>
     </ul>
   </div>
   <div class="wrapper">

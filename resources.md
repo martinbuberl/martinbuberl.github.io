@@ -28,6 +28,8 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://packagecontrol.io/packages/Sass">Sass</a> - Syntax Highlighting (also <a target="_blank" href="https://packagecontrol.io/packages/LESS">LESS</a>)</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter">SublimeLinter</a> - Linting Framework</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-contrib-eslint">SublimeLinter ESLint</a> - Linter Plugin</li>
+          <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-pylint">Sublime​Linter-pylint</a> - Linter Plugin</li>
+          <li><a target="_blank" href="https://packagecontrol.io/packages/Emmet"></a> - High-Speed Markup</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/TrailingSpaces">Trailing​Spaces</a> - Highlight Trailing Spaces</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/Theme%20-%20amCoder">am​Coder</a> - Hyperminimal UI Theme</li>
         </ul>

@@ -30,6 +30,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
           <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-contrib-eslint">SublimeLinter ESLint</a> - Linter Plugin</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-pylint">Sublime​Linter-pylint</a> - Linter Plugin</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a> - High-Speed Markup</li>
+          <li><a target="_blank" href="https://packagecontrol.io/packages/Markdown%20Preview">Markdown Preview</a> - Browser Preview</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/TrailingSpaces">Trailing​Spaces</a> - Highlight Trailing Spaces</li>
           <li><a target="_blank" href="https://packagecontrol.io/packages/Theme%20-%20amCoder">am​Coder</a> - Hyperminimal UI Theme</li>
         </ul>

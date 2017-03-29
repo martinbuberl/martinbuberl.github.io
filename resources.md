@@ -186,6 +186,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li><a target="_blank" href="http://www.mirovideoconverter.com/">Micro Video Converter</a> - Convert Videos for Mobile</li>
       <li class="win"><a target="_blank" href="http://www.emptyloop.com/unlocker/">Unlocker</a> - Unlock Locked Files (also <a target="_blank" href="http://lockhunter.com/">LockHunter</a>)</li>
       <li class="osx"><a target="_blank" href="http://brew.sh/">Homebrew</a> - OS X Package Manager</li>
+      <li class="osx"><a target="_blank" href="https://github.com/direnv/direnv">direnv</a> - Unclutter .profile</li>
       <li class="osx"><a target="_blank" href="http://www.bresink.com/osx/TinkerTool.html">Tinker Tool</a> - OS X Preferences</li>
       <li class="osx"><a target="_blank" href="http://ohmyz.sh/">Oh My Zsh</a> - Terminal Awesomeness</li>
       <li class="win"><a target="_blank" href="http://www.brianapps.net/sizer/">Sizer</a> - Resizes Any Window</li>

@@ -231,6 +231,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li><a target="_blank" href="https://db.tt/lwHYI3m">Dropbox</a> - File Sync, Anywhere</li>
       <li><a target="_blank" href="https://ifttt.com/">IFTTT</a> - Automate the Web</li>
       <li><a target="_blank" href="https://gist.github.com/">Gist</a> - Snippet Sharing (also <a target="_blank" href="http://pastie.org/">Pastie</a>)</li>
+      <li><a target="_blank" href="https://justgetflux.com/">f.lux</a> - Display Brightness Adapter</li>
     </ul>
   </div>
   <div class="wrapper">

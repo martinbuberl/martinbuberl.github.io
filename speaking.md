@@ -18,4 +18,4 @@ I occasionally stand in front of people and talk about the things that I'm passi
 [AWS Summit 2017](https://aws.amazon.com/summits/stockholm/), Stockholm, Sweden, May 2017 ([Slides](https://docs.google.com/presentation/d/1Xf25X7TSbSDJgr2A-sdOJixml8WnSRAqrWqVl0LixEM/edit?usp=sharing))
 
 **Building a Serverless Data Lake on AWS**<br/>
-[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/236413711/), Copenhagen, Denmark, January 2017 ([Slides](https://docs.google.com/a/martinbuberl.com/presentation/d/1K6kpmY-2RiMowEs-8jVmTxZuG42b4WvsBK1du6rSAnA/edit?usp=sharing))
+[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/236413711/), Copenhagen, Denmark, January 2017 ([Slides](https://docs.google.com/presentation/d/1K6kpmY-2RiMowEs-8jVmTxZuG42b4WvsBK1du6rSAnA/edit?usp=sharing))

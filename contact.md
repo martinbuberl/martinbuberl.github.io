@@ -10,6 +10,8 @@ redirect_from: "/hire/index.html"
 
 You can shoot me an email at <a href="mailto:hello@martinbuberl.com">hello@martinbuberl.com</a>, but please read [the fine print](#the-fine-print) below first.
 
+Alternatively, feel free to get in touch with me on <a target="_blank" href="https://twitter.com/martinbuberl">Twitter</a>, <a target="_blank" href="https://github.com/martinbuberl">GitHub</a> and <a href="https://www.linkedin.com/in/martinbuberl/">LinkedIn</a>.
+
 If you're based in Copenhagen, don't be a stranger. Let's grab a <a target="_blank" href="https://www.google.com/maps/d/edit?mid=1m7aKRR3_tNcR6r6iZYpNhjIhVkE">coffee or a beer</a>. I love to network.
 
 <h2 id="the-fine-print" class="has-permalink">The fine print<a class="permalink" title="Permalink" href="#the-fine-print">#</a></h2>

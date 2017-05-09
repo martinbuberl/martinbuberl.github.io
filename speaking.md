@@ -5,6 +5,8 @@ title:  "Speaking"
 permalink: /speaking/
 ---
 
+<h2 id="speaking" class="has-permalink">Speaking<a class="permalink" title="Permalink" href="#speaking">#</a></h2>
+
 I occasionally stand in front of people and talk about the things that I'm passionate about. It's my favorite way to share knowledge.
 
 <h2 id="2017" class="has-permalink">2017<a class="permalink" title="Permalink" href="#2017">#</a></h2>

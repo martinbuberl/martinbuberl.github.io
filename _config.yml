@@ -3,7 +3,7 @@ author: Martin Buberl
 highlighter: rouge
 permalink: /blog/:title/
 url: https://martinbuberl.com
-repository: https://github.com/martinbuberl/martinbuberl.com
+repository: martinbuberl/martinbuberl.com
 twitter: martinbuberl
 markdown: kramdown
 gems:

@@ -21,3 +21,10 @@ If you prefer to contact me securely, feel free to verify my identity on <a targ
 Please don't directly send me code or issues. Instead, ask a question on <a target="_blank" href="http://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
 
 I am currently **not looking for work**.
+
+<h2 id="the-legal-side" class="has-permalink">The legal side<a class="permalink" title="Permalink" href="#the-legal-side">#</a></h2>
+
+This is my personal blog. The opinions expressed herein represent my own, and not those of any employer, group, or organization.
+
+All original content on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a> attributable to <a rel="cc:attributionName" href="https://martinbuberl.com">Martin Buberl</a>.<br/>
+All code available on <a target="_blank" href="https://github.com/martinbuberl/martinbuberl.com">GitHub</a> is licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.

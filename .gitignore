@@ -3,3 +3,6 @@ _site/
 node_modules/
 
 *.log
+
+# dotenv
+.env

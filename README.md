@@ -21,3 +21,8 @@ $ bundle exec jekyll serve
 ```
 
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
+
+## License
+
+* Content: [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)
+* Code: [MIT](https://opensource.org/licenses/MIT)

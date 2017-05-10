@@ -21,15 +21,3 @@ If you prefer to contact me securely, feel free to verify my identity on <a targ
 Please don't directly send me code or issues. Instead, ask a question on <a target="_blank" href="http://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
 
 I am currently **not looking for work**.
-
-{% comment %}
-
-## Availability
-
-I am currently accepting new projects starting **November, 2014**.
-
-## Recruiters
-
-I’m always excited to learn about new opportunities. Nevertheless, please have a look at my <a target="_blank" href="http://careers.stackoverflow.com/martinbuberl">experience</a> and [technology stacks](/resources/) **before** reaching out to make sure I’m a good fit.
-
-{% endcomment %}

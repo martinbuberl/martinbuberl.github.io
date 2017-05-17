@@ -471,10 +471,17 @@ ul.the-culture-test {
   margin: 20px 0 40px 0;
 }
 
-/* about */
+/* hero */
 
-.about {
+.hero.about {
   background: url("/content/img/about.jpg");
+  background-size: auto 200px;
+  background-position: right;
+  height: 200px;
+  -webkit-print-color-adjust: exact;
+}
+.hero.speaking {
+  background: url("/content/img/speaking.jpg");
   background-size: auto 200px;
   background-position: right;
   height: 200px;
@@ -559,7 +566,11 @@ h2#software-services {
   }
 }
 @media all and (min-width: 480px) {
-  .about {
+  .hero.about {
+    background-size: auto 300px;
+    height: 300px;
+  }
+  .hero.speaking {
     background-size: auto 300px;
     height: 300px;
   }
@@ -594,8 +605,11 @@ h2#software-services {
   .author .avatar {
     background-image: url("/content/img/avatar@2x.jpg");
   }
-  .about {
+  .hero.about {
     background-image: url("/content/img/about@2x.jpg");
+  }
+  .hero.speaking {
+    background-image: url("/content/img/speaking@2x.jpg");
   }
 }
 

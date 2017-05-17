@@ -5,7 +5,7 @@ title:  "About me"
 permalink: /about/
 ---
 
-<p class="about"></p>
+<p class="hero about"></p>
 
 Hi, I'm Martin Buberl and this is my little corner of the Internet. Living and working in lovely Copenhagen, I bring the New York hustle to Scandinavia. As a <a target="_blank" href="https://stackoverflow.com/story/martinbuberl">Director of Engineering at Trustpilot</a> I'm doing whatever I can to make it even more awesome.
 

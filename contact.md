@@ -27,4 +27,6 @@ I am currently **not looking for work**.
 This is my personal blog. The opinions expressed herein represent my own, and not those of any employer, group, or organization.
 
 All original content on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a> attributable to <a rel="cc:attributionName" href="https://martinbuberl.com">Martin Buberl</a>.<br/>
+[Speaking](/speaking) photo &copy; 2017 <a target="_blank" href="http://camsty.se/">Camilla Styrstr&ouml;m</a>.<br/>
 All code available on <a target="_blank" href="https://github.com/martinbuberl/martinbuberl.com">GitHub</a> is licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.
+

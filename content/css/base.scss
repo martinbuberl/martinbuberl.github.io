@@ -20,6 +20,7 @@ $color-grey-dark:     #757575; // Grey 600
 $color-grey-darker:   #616161; // Grey 700
 
 $color-code-bg:       #F5F5F5; // Grey 100
+$color-highlight-bg:  #ffe399;
 
 $color-table-bg:      #FFFFFF;
 $color-table-fg:      $color-grey-lighter;
@@ -398,6 +399,11 @@ pre {
     overflow: auto;
     width: auto;
   }
+}
+
+/* highlight */
+.highlight {
+  background-color: $color-highlight-bg;
 }
 
 /* table */

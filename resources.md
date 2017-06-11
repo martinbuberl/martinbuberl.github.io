@@ -472,7 +472,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li><a target="_blank" href="https://medium.com/@ftrain">Paul Ford</a></li>
       <li><a target="_blank" href="http://randsinrepose.com/">Michael Lopp</a></li>
       <li><a target="_blank" href="http://martinfowler.com/">Martin Fowler</a></li>
-      <li><a target="_blank" href="http://weblogs.asp.net/scottgu/">Scott Guthrie</a></li>
+      <li><a target="_blank" href="http://ben.balter.com/">Ben Balter</a></li>
       <li><a target="_blank" href="http://dashes.com/">Anil Dash</a></li>
       <li><a target="_blank" href="http://500hats.com/">Dave McClure</a></li>
       <li><a target="_blank" href="http://blog.garrytan.com/">Garry Tan</a></li>

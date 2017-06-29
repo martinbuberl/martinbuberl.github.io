@@ -13,4 +13,4 @@ For over a decade I've been passionate about elegant code and how to make the we
 
 In the analog world I unwind with cooking and exploration of the world's <a target="_blank" href="https://www.google.com/maps/d/viewer?mid=1m7aKRR3_tNcR6r6iZYpNhjIhVkE">most livable city</a>. When I want to get away from it all I love to globe trot, especially when snorkeling or outdoor adventure is involved.
 
-Follow me on <a target="_blank" href="https://twitter.com/martinbuberl">Twitter</a> and see my <a target="_blank" href="http://stackoverflow.com/users/135441/martin-buberl">Stack Overflow</a>, <a target="_blank" href="https://github.com/martinbuberl">GitHub</a> or <a href="https://www.linkedin.com/in/martinbuberl/">LinkedIn</a> profiles to see what I'm up to.
+Follow me on <a target="_blank" href="https://twitter.com/martinbuberl">Twitter</a> and see my <a target="_blank" href="http://stackoverflow.com/users/135441/martin-buberl">Stack Overflow</a>, <a target="_blank" href="https://github.com/martinbuberl">GitHub</a> or <a target="_blank" href="https://www.linkedin.com/in/martinbuberl/">LinkedIn</a> profiles to see what I'm up to.

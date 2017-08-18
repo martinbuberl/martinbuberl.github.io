@@ -20,6 +20,8 @@ If you prefer to contact me securely, feel free to verify my identity on <a targ
 
 Please don't directly send me code or issues. Instead, ask a question on <a target="_blank" href="http://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
 
+I'm an LGBTQ+ <a target="_blank" href="https://en.wikipedia.org/wiki/Straight_ally">ally</a> and my preferred pronouns are he/him/his.
+
 I am currently **not looking for work**.
 
 <h2 id="the-legal-side" class="has-permalink">The legal side<a class="permalink" title="Permalink" href="#the-legal-side">#</a></h2>

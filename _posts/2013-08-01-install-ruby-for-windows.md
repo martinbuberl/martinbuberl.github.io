@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Install Ruby for Windows"
 description: "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity and probably best known for its excellent web application framework Ruby on Rails."
-image: "og-b28adb7fc71640c6ac8975a3268c4f95.jpg"
+image: "og-install-ruby-for-windows.jpg"
 date: 2013-08-01
 ---
 

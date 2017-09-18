@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Overview of globally installed npm packages"
 description: "Whenever I ask myself “Wait, what npm packages do I have installed globally?“ I find myself baffled to remember the exact command syntax. Everytime."
-image: "og-de1c1b35eabb4c9a98fb9a12e7fb8c78.jpg"
+image: "og-RlYsCMbF6EI.jpg"
 date: 2015-03-18
 ---
 

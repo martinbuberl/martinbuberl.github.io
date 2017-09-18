@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "The Culture Test&#58; Eight steps to better company culture"
 description: "An eight-question quality metric focused on your company’s culture that determines its current state and identifies areas for improvement."
-image: "og-84c045a345ea48128305ee92d34b496b.jpg"
+image: "og-jwIk4Z3Msi4.jpg"
 date: 2015-06-04
 ---
 

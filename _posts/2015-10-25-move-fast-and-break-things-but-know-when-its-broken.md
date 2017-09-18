@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Move fast and break things, but know when it’s broken"
 description: "I love moving fast. Living in New York City only seems to strengthen this habit. It needs to be fast here, and most everything certainly is. It really annoys me if it isn’t."
-image: "og-move-fast-and-break-things-but-know-when-its-broken.jpg"
+image: "og-j0g8taxHZa0.jpg"
 date: 2015-10-25
 ---
 

@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Setup Android SDK in Unity with Android Studio"
 description: "To build Unity projects for Android the Android SDK (Software Development Kit) needs to be installed. If you're using Android Studio the SDK will be already part of that installation."
-image: "og-df023b51bfaf4e7891e1279ff888dbe7.jpg"
+image: "og-QP1dUyQ8WsI.jpg"
 date: 2014-09-04
 ---
 

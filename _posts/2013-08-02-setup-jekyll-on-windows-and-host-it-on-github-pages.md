@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: Setup Jekyll on Windows and host it on GitHub Pages
 description: "Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through converters like Markdown and Liquid, and spits out a complete, ready-to-publish static website for your favorite web server."
-image: "og-9750673004724055a71bd3965d5ff6dc.jpg"
+image: "og-xiTFENI0dMY.jpg"
 date: 2013-08-02
 updated: 2015-02-27
 ---

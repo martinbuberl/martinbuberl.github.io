@@ -2,12 +2,12 @@
 layout: post
 navigation: "blog"
 title: "Poor man's sampling"
-description: "I recently had the challenge to only load a particular third party JavaScript library for just 0.10% of our actual website traffic. That's 1 out of 1,000 page views."
+description: "I recently had the challenge to just load a JavaScript library for only 0.10% of our actual website traffic. That's 1 out of 1,000 page views."
 image: "og-k1AFA4N8O0g.jpg"
 date: 2017-09-18
 ---
 
-I recently had the challenge to only load a particular third party JavaScript library for just 0.10% of our actual website traffic. That's <a target="_blank" href="https://www.google.com/search?q=%281*100%29%2F1000">1 out of 1,000</a> page views.
+I recently had the challenge to just load a JavaScript library for only 0.10% of our actual website traffic. That's <a target="_blank" href="https://www.google.com/search?q=%281*100%29%2F1000">1 out of 1,000</a> page views.
 
 The library I'm referring to is part of a very popular performance monitoring SaaS product. Their pricing model is tight to actual invocations and therefore our costs were skyrocketing with an increased usage of their product.
 

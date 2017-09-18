@@ -4,7 +4,7 @@ navigation: "blog"
 title: "Getting started with Chocolatey"
 description: "Chocolatey sounds yummy and just like the real deal it can be addictive. But what is it?"
 date: 2013-12-08
-image: "og-89385df8ea154efcaad8d2caeb19ade2.jpg"
+image: "og-2f5Ktwb8YXk.jpg"
 updated: 2014-11-19
 ---
 

@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Poor man's sampling"
 description: "I recently had the challenge to only load a particular third party JavaScript library for just 0.10% of our actual website traffic. That's 1 out of 1,000 page views."
-image: "og-poor-mans-sampling.jpg"
+image: "og-k1AFA4N8O0g.jpg"
 date: 2017-09-18
 ---
 

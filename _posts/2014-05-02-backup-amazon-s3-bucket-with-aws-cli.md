@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Backup Amazon S3 bucket with AWS CLI"
 description: "If you want to backup or download an entire Amazon S3 bucket you'll probably notice that this isn't possible through the AWS Management Console. Fortunately this is super easy using the AWS Command Line Interface (CLI)."
-image: "og-af21a5a352144bdda7efd588bf653a65.jpg"
+image: "og-mnF75FoPBWY.jpg"
 date: 2014-05-02
 ---
 

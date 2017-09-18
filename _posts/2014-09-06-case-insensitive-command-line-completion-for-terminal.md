@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Case insensitive command-line completion for Terminal"
 description: "You might call me stubborn - coming from a strong Windows background - but I find it annoying that OS X's Terminal is case sensitive if it comes to command-line completion."
-image: "og-4f71b3607f1c4881853047e9d97b1bb1.jpg"
+image: "og-DNXWtB33WWE.jpg"
 date: 2014-09-06
 updated: 2014-09-18
 ---

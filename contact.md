@@ -31,4 +31,9 @@ This is my personal blog. The opinions expressed herein represent my own, and no
 All original content on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a> attributable to <a rel="cc:attributionName" href="https://martinbuberl.com">Martin Buberl</a>.<br/>
 All code samples on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> are licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.<br/>
 All code available on <a target="_blank" href="https://github.com/martinbuberl/martinbuberl.com">GitHub</a> is licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.<br/>
-[Speaking](/speaking) photo courtesy of <a target="_blank" href="http://camsty.se/">Camilla Styrstr&ouml;m</a>, &copy; 2017.
+
+<h3 id="credit">Credit</h3>
+
+[Speaking](/speaking) photo courtesy of <a target="_blank" href="http://camsty.se/">Camilla Styrstr&ouml;m</a>, &copy; 2017.<br/>
+<a target="_blank" href="http://ogp.me/">Open Graph</a> photos by <a target="_blank" href="https://unsplash.com/@samuelzeller?photo=j0g8taxHZa0">Samuel Zeller</a>, <a target="_blank" href="https://unsplash.com/@ryansearle?photo=k1AFA4N8O0g">Ryan Searle</a> on <a target="_blank" rel="license" href="https://unsplash.com/license">Unsplash</a>.
+

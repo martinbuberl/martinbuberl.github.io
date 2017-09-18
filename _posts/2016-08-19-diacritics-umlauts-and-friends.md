@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Diacritics, umlauts and friends"
 description: "As a German, living in New York, working for a Danish startup, I often find myself having to deal with diacritics, umlauts and friends on a keyboard with a US layout."
-image: "og-65aa979f20444e33bd6c4949ca095acb.jpg"
+image: "og-BVyNlchWqzs.jpg"
 date: 2016-08-20
 ---
 

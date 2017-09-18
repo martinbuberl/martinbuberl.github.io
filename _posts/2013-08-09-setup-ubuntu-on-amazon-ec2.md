@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: Setup Ubuntu on Amazon EC2
 description: "Ubuntu is an operating system based on Linux and is distributed as free and open source software. Amazon Elastic Compute Cloud (EC2) is part of Amazon.com's cloud computing platform, Amazon Web Services (AWS)."
-image: "og-3aaf6ea7e7194a918692b74be35b24dd.jpg"
+image: "og-setup-ubuntu-on-amazon-ec2.jpg"
 date: 2013-08-09
 updated: 2013-12-28
 ---

@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Invert Windows scroll direction"
 description: "I'm running Windows 8 on a Macbook Pro via Boot Camp. One thing you'll notice - and it will quickly become annoying if you switch back and forth a lot - is that the trackpad's scroll direction on Windows is the opposite of OS X."
-image: "og-8a92dffeb98e4f189f9a4c896a9c7384.jpg"
+image: "og-liiqOto_Dw8.jpg"
 date: 2014-09-03
 ---
 

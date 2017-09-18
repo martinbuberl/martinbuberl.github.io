@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Why every startup should have a culture manifesto"
 description: "I've recently kept myself busy thinking a lot about companies and their cultures. What it means, why it is important, and what I believe an “ideal” company should stand for today."
-image: "og-c6671ed4ebba4e1d889d466173f8f09b.jpg"
+image: "og-TIrXot28Znc.jpg"
 date: 2015-02-10
 updated: 2015-04-11
 ---

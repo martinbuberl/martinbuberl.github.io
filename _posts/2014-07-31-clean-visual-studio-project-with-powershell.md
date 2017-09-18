@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Clean Visual Studio workspace with PowerShell"
 description: "When working in Visual Studio all sorts of temporary files get created in your workspace. From user specific *.suo, *.user and *.docstates files, to the build results in the bin/ and obj/ directories up to extension specific files for e.g. ReSharper."
-image: "og-7a9bec25a483417e94d9d72f1969dc9d.jpg"
+image: "og-9EwxGJdTJNo.jpg"
 date: 2014-07-31
 ---
 

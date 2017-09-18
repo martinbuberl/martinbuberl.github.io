@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Install Node.js for Windows"
 description: "Node.js is a platform built on Chrome's V8 JavaScript engine for easily building fast and scalable network (especially server-side) applications."
-image: "og-cb776f9c8b004ff9a4edd5ddf3dd0e12.jpg"
+image: "og-8WClaa1CmZ0.jpg"
 date: 2013-09-23
 ---
 

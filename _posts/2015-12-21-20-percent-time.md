@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "20 percent time"
 description: "You might have heard about the concept of “20 percent time” before. It basically means that you’re encouraged to work on pet projects, during 20 percent of your regular work hours."
-image: "og-c09e1d0528704bfe929769d6a0a7ac07.jpg"
+image: "og-RTx8o-kk4RA.jpg"
 date: 2015-12-21
 ---
 

@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "TortoiseGit icons not showing workaround"
 description: "Sometimes the TortoiseGit overlay icons are just not showing up in Windows Explorer. While this issue is officially still open, there are workarounds to make it happen."
-image: "og-6a9df606ed3f4cb7be5e304912946b97.jpg"
+image: "og-FOeDIUwYiSw.jpg"
 date: 2014-11-19
 ---
 

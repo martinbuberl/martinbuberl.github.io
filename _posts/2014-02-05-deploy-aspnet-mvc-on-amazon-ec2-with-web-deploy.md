@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Deploy ASP.NET MVC on Amazon EC2 with Web Deploy"
 description: "If you're still using FTP to deploy your web application or site to IIS (Internet Information Services) - you're doing it wrong."
-image: "og-dd92f94e2c1a481f8c47f61cc2329206.jpg"
+image: "og-OIVuAKXW9VA.jpg"
 date: 2014-02-05
 updated: 2014-09-12
 ---

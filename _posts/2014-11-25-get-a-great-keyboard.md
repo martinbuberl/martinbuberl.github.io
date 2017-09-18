@@ -3,7 +3,7 @@ layout: post
 navigation: "blog"
 title: "Get a great keyboard"
 description: "The pride and joy of every chef is a set of kick ass knives, just like a true craftsman wouldn’t consider anything other than the best drill out there to get the job done."
-image: "og-1f4ca94ec1e94200a18dc0a2ed36d50d.jpg"
+image: "og-E0Spm6XXn2Y.jpg"
 date: 2014-11-25
 updated: 2014-12-01
 ---

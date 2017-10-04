@@ -12,7 +12,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 <h2 id="2017" class="has-permalink">2017<a class="permalink" title="Permalink" href="#2017">#</a></h2>
 
 **Serverless First**<br/>
-[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/243107963/), Copenhagen, Denmark, October 2017
+[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/243107963/), Copenhagen, Denmark, October 2017 ([Slides](https://goo.gl/C9tAZk))
 
 **Building a Serverless Data Lake**<br/>
 [DevDays](http://devdays.lt/), Vilnius, Lithuania, May 2017 ([Slides](https://goo.gl/sCWDrR), [Video](https://youtu.be/eZcgt0XaDfI))

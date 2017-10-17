@@ -159,6 +159,12 @@ Here are my bookmarks of software and services, the essentials if you will, for 
     </ul>
   </div>
   <div class="wrapper">
+    <h3 id="software-services-data-science" class="has-permalink">Data Science<a class="permalink" title="Permalink" href="#software-services-data-science">#</a></h3>
+    <ul>
+      <li><a target="_blank" href="https://www.r-project.org/">R Project</a> - Statistical Computing</li>
+    </ul>
+  </div>
+  <div class="wrapper">
     <h3 id="software-services-analytics-testing" class="has-permalink">Analytics &amp; Testing<a class="permalink" title="Permalink" href="#software-services-analytics-testing">#</a></h3>
     <ul>
       <li><a target="_blank" href="https://segment.com/">Segment</a> - Analytics Data Hub</li>

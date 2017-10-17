@@ -258,6 +258,7 @@ Here are my bookmarks of software and services, the essentials if you will, for 
       <li class="win"><a target="_blank" href="http://technet.microsoft.com/en-us/sysinternals/bb897434">ZoomIt</a> - Screen Zoom &amp; Annotation Tool</li>
       <li class="win"><a target="_blank" href="http://carnackeys.com/">Carnac</a> - Keyboard Utility</li>
       <li><a target="_blank" href="http://www.slideshare.net/">SlideShare</a> - Share &amp; Discover Presentations</li>
+      <li><a target="_blank" href="https://slides.com/">Slides</a> - Editor for <a target="_blank" href="https://github.com/hakimel/reveal.js">reveal.js</a> Presentations</li>
     </ul>
   </div>
   <div class="wrapper">

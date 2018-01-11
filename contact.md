@@ -8,7 +8,7 @@ redirect_from: "/hire/index.html"
 
 <h2 id="get-in-touch" class="has-permalink">Get in touch<a class="permalink" title="Permalink" href="#get-in-touch">#</a></h2>
 
-You can shoot me an email at <a href="mailto:hello@martinbuberl.com">hello@martinbuberl.com</a>, but please read [the fine print](#the-fine-print) below first.
+You can shoot me an email at <a href="mailto:hello@martinbuberl.com">hello@martinbuberl.com</a>, but please <span class="highlight">read [the fine print](#the-fine-print) below</span> first.
 
 Alternatively, feel free to get in touch with me on <a target="_blank" href="https://twitter.com/martinbuberl">Twitter</a>, <a target="_blank" href="https://github.com/martinbuberl">GitHub</a>, <a target="_blank" href="https://www.linkedin.com/in/martinbuberl/">LinkedIn</a> and <a target="_blank" href="https://martinbuberl-slackin.herokuapp.com/">Slack</a>.
 

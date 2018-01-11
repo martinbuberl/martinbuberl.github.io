@@ -6,5 +6,5 @@ url: https://martinbuberl.com
 repository: martinbuberl/martinbuberl.com
 twitter: martinbuberl
 markdown: kramdown
-gems:
+plugins:
   - jekyll-redirect-from

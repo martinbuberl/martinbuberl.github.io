@@ -524,44 +524,8 @@ ul.the-culture-test {
     margin: 40px 0 20px 0;
   }
 }
-.filter {
-  font-size: 14px;
-  color: $color-grey;
-  margin-bottom: 20px;
-
-  .info {
-    margin-right: 10px;
-  }
-  .option {
-    display: inline-block;
-    padding: 0 5px;
-    margin-right: 5px;
-    cursor: pointer;
-    @include transition(color 0.15s ease-in);
-
-    i {
-      color: $color-grey-light;
-      @include transition(color 0.15s ease-in);
-    }
-  }
-  .option.active {
-    i {
-      color: $color-grey-dark;
-    }
-  }
-  .option:hover {
-    color: $color-primary !important;
-
-    i {
-      color: $color-primary;
-    }
-  }
-}
 hr.resources {
   margin: 60px auto 0 auto;
-}
-h2#software-services {
-  margin-bottom: 20px;
 }
 
 /* responsive */

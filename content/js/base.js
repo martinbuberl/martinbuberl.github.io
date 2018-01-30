@@ -39,31 +39,4 @@
       w.open($this.attr('href'), 'share-' + network, 'width=' + width + ',height=' + height);
     }
   };
-
-  var $options = $('.filter.software-services .option');
-  $options.on('click', function () {
-    var $this = $(this);
-
-    $options.removeClass('active');
-    $this.addClass('active');
-
-    var $baseSelector = $('.resources.software-services li, .resources.software-services .wrapper');
-    var $osx = $baseSelector.find('.osx');
-    var $win = $baseSelector.find('.win');
-
-    switch ($this.data('os')) {
-      case 'osx':
-        $osx.removeClass('hide');
-        $win.addClass('hide');
-        break;
-      case 'win':
-        $osx.addClass('hide');
-        $win.removeClass('hide');
-        break;
-      default: // all
-        $osx.removeClass('hide');
-        $win.removeClass('hide');
-        break;
-    }
-  });
 })(window, document);

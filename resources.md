@@ -54,11 +54,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://github.com/creationix/nvm">nvm</a> - Node Version Manager</li>
       <li><a target="_blank" href="https://www.npmjs.com/">npm</a> - Node Package Manager (also <a target="_blank" href="https://yarnpkg.com/">Yarn</a>)</li>
       <li><a target="_blank" href="http://eslint.org/">ESLint</a> - JavaScript Linter</li>
-      <li><a target="_blank" href="http://expressjs.com/">Express</a> - Web Framework
-        <ul>
-          <li><a target="_blank" href="https://github.com/krakenjs/lusca">lusca</a> - Security for Express Apps</li>
-        </ul>
-      </li>
+      <li><a target="_blank" href="http://expressjs.com/">Express</a> - Web Framework</li>
       <li><a target="_blank" href="http://nodemon.io/">Nodemon</a> - Change Monitor</li>
       <li><a target="_blank" href="https://webpack.js.org/">Webpack</a> - Module Bundler</li>
     </ul>
@@ -72,16 +68,6 @@ Here are my bookmarks of software, services and resources, the essentials if you
     </ul>
   </div>
   <div class="wrapper">
-    <h3 id="ci-cd" class="has-permalink">CI &amp; CD<a class="permalink" title="Permalink" href="#ci-cd">#</a></h3>
-    <ul>
-      <li><a target="_blank" href="https://github.com/">GitHub</a> - SaaS for <a target="_blank" href="http://git-scm.com/">Git</a></li>
-      <li><a target="_blank" href="https://www.docker.com/">Docker</a> - Build, Ship and Run Containers</li>
-      <li><a target="_blank" href="https://travis-ci.org/">Travis CI</a> - CI Service</li>
-      <li><a target="_blank" href="https://launchdarkly.com/">LaunchDarkly</a> - Feature Management</li>
-      <li><a target="_blank" href="http://semver.org/">Semantic Versioning</a></li>
-    </ul>
-  </div>
-  <div class="wrapper">
     <h3 id="cloud" class="has-permalink">Cloud<a class="permalink" title="Permalink" href="#cloud">#</a></h3>
     <ul>
       <li><a target="_blank" href="http://aws.amazon.com/">Amazon Web Services</a> - Cloud Services</li>
@@ -89,6 +75,16 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://www.heroku.com/">Heroku</a> - Cloud PaaS for Node.js, Python, Ruby,  &amp; Go</li>
       <li><a target="_blank" href="https://newrelic.com/">New Relic</a> - Performance Management &amp; Monitoring</li>
       <li><a target="_blank" href="https://hover.com/ySqMyxoq">Hover</a> - Domain Management (also <a target="_blank" href="https://dnsimple.com/r/4e99a03af0e208">DNSimple</a>)</li>
+    </ul>
+  </div>
+  <div class="wrapper">
+    <h3 id="shipit" class="has-permalink">F**k It, Ship It<a class="permalink" title="Permalink" href="#shipit">#</a></h3>
+    <ul>
+      <li><a target="_blank" href="https://github.com/">GitHub</a> - SaaS for <a target="_blank" href="http://git-scm.com/">Git</a></li>
+      <li><a target="_blank" href="https://www.docker.com/">Docker</a> - Build, Ship and Run Containers</li>
+      <li><a target="_blank" href="https://travis-ci.org/">Travis CI</a> - CI Service</li>
+      <li><a target="_blank" href="https://launchdarkly.com/">LaunchDarkly</a> - Feature Management</li>
+      <li><a target="_blank" href="http://semver.org/">Semantic Versioning</a></li>
     </ul>
   </div>
   <div class="wrapper">

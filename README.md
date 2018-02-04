@@ -20,6 +20,12 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
+To preview the site with drafts, run jekyll serve with the `--drafts` switch:
+
+```sh
+$ bundle exec jekyll serve --drafts
+```
+
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
 
 ## License

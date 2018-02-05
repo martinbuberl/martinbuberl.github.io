@@ -1,7 +1,7 @@
 ---
 layout: post
 navigation: "blog"
-title: "Setup headless Raspberry Pi"
+title: "No jerks"
 description: "..."
 image: "og-1k3vsv7iIIc.jpg"
 ---

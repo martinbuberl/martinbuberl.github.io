@@ -3,13 +3,14 @@ layout: post
 navigation: "blog"
 title: "Setup headless Raspberry Pi"
 description: "..."
-image: "og-raspberry.jpg"
+image: "og-pJILiyPdrXI.jpg"
 ---
 
 - Raspberry Pi 3 Model B
 - SanDisk Extreme Pro Micro SD 32GB
 
-## Setup headless Raspberry Pi
+
+
 
 - [Download](https://www.raspberrypi.org/downloads/raspbian/) Raspian Stretch with Desktop *(Version: November 2017)*
 - Flash SD card with [Etcher](https://etcher.io/)

@@ -1,6 +1,9 @@
 ---
 layout: post
-navigation: "draft"
+navigation: "blog"
+title: "Small teams can do big things"
+description: "..."
+image: "og-WeYamle9fDM.jpg"
 ---
 
 Small teams can do big things

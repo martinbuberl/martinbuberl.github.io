@@ -6,7 +6,7 @@ description: "..."
 image: "og-pJILiyPdrXI.jpg"
 ---
 
-- Raspberry Pi 3 Model B
+- [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - SanDisk Extreme Pro Micro SD 32GB
 
 

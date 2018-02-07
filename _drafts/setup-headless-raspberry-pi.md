@@ -44,9 +44,12 @@ network={
 - Run `$ sudo raspi-config`, open **Interfacing Options** and enable **VNC**
 - Download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) and connect
 
+<img src="{{ site.url }}/content/img/setup-headless-raspberry-pi-03.png" />
 
-```
-- [Upate and upgrade Raspian](https://www.raspberrypi.org/documentation/raspbian/updating.md):
+<h2 id="some-housekeeping" class="has-permalink">Some housekeeping<a class="permalink" title="Permalink" href="#some-housekeeping">#</a></h2>
+
+- [Upate and upgrade Raspian](https://www.raspberrypi.org/documentation/raspbian/updating.md) running:
+
 ```
 sudo apt-get update
 sudo apt-get dist-upgrade

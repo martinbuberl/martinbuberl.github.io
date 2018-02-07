@@ -43,7 +43,7 @@ network={
 
 - [Connect to your Raspberry Pi via SSH](#connect-via-ssh)
 - Run `$ sudo raspi-config`, open **Interfacing Options** and enable **VNC**
-- Download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) and connect
+- Download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) and connect via Virtual Network Computing (VNC)
 
 <img src="{{ site.url }}/content/img/setup-headless-raspberry-pi-03.png" />
 

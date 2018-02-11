@@ -78,7 +78,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     </ul>
   </div>
   <div class="wrapper">
-    <h3 id="shipit" class="has-permalink">F**k It, Ship It<a class="permalink" title="Permalink" href="#shipit">#</a></h3>
+    <h3 id="fuckit-shipit" class="has-permalink">Fuck It, Ship It<a class="permalink" title="Permalink" href="#fuckit-shipit">#</a></h3>
     <ul>
       <li><a target="_blank" href="https://github.com/">GitHub</a> - SaaS for <a target="_blank" href="http://git-scm.com/">Git</a></li>
       <li><a target="_blank" href="https://www.docker.com/">Docker</a> - Build, Ship and Run Containers</li>
@@ -155,15 +155,15 @@ Here are my bookmarks of software, services and resources, the essentials if you
     </ul>
   </div>
   <div class="wrapper">
-    <h3 id="blogs" class="has-permalink">Blogs<a class="permalink" title="Permalink" href="#blogs">#</a></h3>
+    <h3 id="thought-leaders" class="has-permalink">Thought Leaders<a class="permalink" title="Permalink" href="#thought-leaders">#</a></h3>
     <ul>
       <li><a target="_blank" href="http://randsinrepose.com/">Michael Lopp</a></li>
       <li><a target="_blank" href="https://svpg.com/articles/">Marty Cagan</a></li>
+      <li><a target="_blank" href="https://startwithwhy.com/">Simon Sinek</a></li>
       <li><a target="_blank" href="http://blog.codinghorror.com/">Jeff Atwood</a></li>
-      <li><a target="_blank" href="http://ben.balter.com/">Ben Balter</a></li>
       <li><a target="_blank" href="https://jpattonassociates.com/blog/">Jeff Patton</a></li>
+      <li><a target="_blank" href="http://ben.balter.com/">Ben Balter</a></li>
       <li><a target="_blank" href="http://haacked.com/">Phil Haack</a></li>
-      <li><a target="_blank" href="https://medium.com/@ftrain">Paul Ford</a></li>
     </ul>
   </div>
 </div>

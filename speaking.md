@@ -11,6 +11,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
 
+**Serverless — it all started in Vegas**<br/>
 [AWS Community Day Nordics](https://awsfin.org/communityday/), Helsinki, Finland, March 21st 2018
 
 ***Testing Serverless — a paradigm shift***<br/>

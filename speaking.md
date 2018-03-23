@@ -11,22 +11,24 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
 
-**Serverless — it all started in Vegas**<br/>
-[AWS Community Day Nordics](https://awsfin.org/communityday/), Helsinki, Finland, March 21st 2018
-
 ***Testing Serverless — a paradigm shift***<br/>
 [Serverless CPH](https://serverlesscph.dk/), Copenhagen, Denmark, May 16th 2018
+
+<h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
+
+**Serverless — it all started in Vegas**<br/>
+[AWS Community Day Nordics](https://awsfin.org/communityday/), Helsinki, Finland, March 21st 2018
 
 <h2 id="2017" class="has-permalink">2017<a class="permalink" title="Permalink" href="#2017">#</a></h2>
 
 **Serverless First**<br/>
-[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/243107963/), Copenhagen, Denmark, October 2017 ([Slides](https://goo.gl/C9tAZk))
+[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/243107963/), Copenhagen, Denmark, October 3rd 2017 ([Slides](https://goo.gl/C9tAZk))
 
 **Building a Serverless Data Lake**<br/>
-[DevDays](http://devdays.lt/), Vilnius, Lithuania, May 2017 ([Slides](https://goo.gl/sCWDrR), [Video](https://youtu.be/eZcgt0XaDfI))
+[DevDays](http://devdays.lt/), Vilnius, Lithuania, May 17th 2017 ([Slides](https://goo.gl/sCWDrR), [Video](https://youtu.be/eZcgt0XaDfI))
 
 **Building your first Big Data Application on AWS**<br/>
-[AWS Summit](https://aws.amazon.com/summits/stockholm/), Stockholm, Sweden, May 2017 ([Slides](https://goo.gl/GyteT7))
+[AWS Summit](https://aws.amazon.com/summits/stockholm/), Stockholm, Sweden, May 3rd 2017 ([Slides](https://goo.gl/GyteT7))
 
 **Building a Serverless Data Lake on AWS**<br/>
-[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/236413711/), Copenhagen, Denmark, January 2017 ([Slides](https://goo.gl/aRvQMj))
+[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/236413711/), Copenhagen, Denmark, January 24th 2017 ([Slides](https://goo.gl/aRvQMj))

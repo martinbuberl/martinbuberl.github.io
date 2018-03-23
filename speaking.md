@@ -16,8 +16,8 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
-**Serverless — it all started in Vegas**<br/>
-[AWS Community Day Nordics](https://awsfin.org/communityday/), Helsinki, Finland, March 21st 2018
+**Serverless — it all started in Vegas** <span class="highlight">Keynote</span><br/>
+[AWS Community Day Nordics](https://awsfin.org/communityday/), Helsinki, Finland, March 21st 2018 ([Slides](https://goo.gl/VjKUXV))
 
 <h2 id="2017" class="has-permalink">2017<a class="permalink" title="Permalink" href="#2017">#</a></h2>
 

@@ -282,6 +282,9 @@ article {
       border: 0;
       color: $color-grey-darker;
     }
+    a:hover {
+      color: $color-fg;
+    }
     hr {
         margin: 60px auto 20px auto;
     }

@@ -168,11 +168,14 @@ header {
         color: $color-grey-darker;
         @include transition(color 0.15s ease-in, border 0.15s ease-in);
       }
+      a:hover {
+        color: $color-fg;
+      }
       a.active {
         border-bottom: 1px solid $color-grey;
       }
-      a:hover {
-        color: $color-primary;
+      a.active:hover {
+        border-bottom: 1px solid $color-fg;
       }
     }
   }
@@ -201,17 +204,8 @@ header {
     @include transition(color 0.15s ease-in, border 0.15s ease-in);
   }
   .contact:hover {
-    border: 1px solid $color-primary;
-    color: $color-primary;
-  }
-  .contact.active {
-    background-color: $color-primary;
-    border: 1px solid $color-primary;
-    color: $color-bg;
-  }
-  .contact.active:hover {
-    background-color: $color-primary;
-    color: $color-bg;
+    border: 1px solid $color-grey-darker;
+    color: $color-fg;
   }
 }
 

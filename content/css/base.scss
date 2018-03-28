@@ -255,7 +255,7 @@ article {
         @include transition(color 0.15s ease-in);
       }
       a.prev:hover, a.next:hover {
-        color: $color-primary;
+        color: $color-fg;
       }
     }
   }

@@ -28,7 +28,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 [DevDays](http://devdays.lt/), Vilnius, Lithuania, May 17th 2017 ([Slides](https://goo.gl/sCWDrR), [Video](https://youtu.be/eZcgt0XaDfI))
 
 **Building your first Big Data Application on AWS**<br/>
-[AWS Summit](https://aws.amazon.com/summits/stockholm/agenda/), Stockholm, Sweden, May 3rd 2017 ([Slides](https://goo.gl/GyteT7))
+[AWS Summit](https://aws.amazon.com/summits/stockholm/agenda/), Stockholm, Sweden, May 3rd 2017 ([Slides](https://goo.gl/GyteT7), [Jarkko's Slides](https://www.slideshare.net/AmazonWebServices/building-your-first-big-data-application-on-aws-75668907))
 
 **Building a Serverless Data Lake on AWS**<br/>
 [AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/236413711/), Copenhagen, Denmark, January 24th 2017 ([Slides](https://goo.gl/aRvQMj))

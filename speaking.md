@@ -11,12 +11,12 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
 
-**Serverless computing: Build and run applications without thinking about servers**<br/>
-[AWS Summit](https://aws.amazon.com/summits/Stockholm-2018/), Stockholm, Sweden, May 16th 2018
-
 [Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 14-16th 2018
 
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
+
+**Serverless computing: Build and run applications without thinking about servers**<br/>
+[AWS Summit](https://aws.amazon.com/summits/Stockholm-2018/), Stockholm, Sweden, May 16th 2018 ([Slides](https://goo.gl/x9Qcuj))
 
 **Serverless — it all started in Vegas**<br/>
 [AWS Community Day Nordics](https://awsfin.org/communityday/), Helsinki, Finland, March 21st 2018 ([Slides](https://goo.gl/VjKUXV))

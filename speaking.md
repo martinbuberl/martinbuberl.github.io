@@ -16,7 +16,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
 **Serverless computing: Build and run applications without thinking about servers**<br/>
-[AWS Summit](https://aws.amazon.com/summits/Stockholm-2018/), Stockholm, Sweden, May 16th 2018 ([Slides](https://goo.gl/x9Qcuj))
+[AWS Summit](https://aws.amazon.com/summits/Stockholm-2018/), Stockholm, Sweden, May 16th 2018 ([Slides](https://goo.gl/x9Qcuj), [Danilo's Slides](https://www.slideshare.net/AmazonWebServices/build-and-run-applications-without-thinking-about-servers))
 
 **Serverless — it all started in Vegas**<br/>
 [AWS Community Day Nordics](https://awsfin.org/communityday/), Helsinki, Finland, March 21st 2018 ([Slides](https://goo.gl/VjKUXV))

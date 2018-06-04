@@ -24,7 +24,7 @@ I'm only interested in speaking at conferences with an enforced Code of Conduct 
 
 I'm an LGBTQ+ <a target="_blank" href="https://en.wikipedia.org/wiki/Straight_ally">ally</a> and my preferred pronouns are he/him/his.
 
-I am currently **not looking for work**.
+I am **not looking for work**.
 
 <h2 id="the-legal-side" class="has-permalink">The legal side<a class="permalink" title="Permalink" href="#the-legal-side">#</a></h2>
 

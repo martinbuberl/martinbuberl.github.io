@@ -41,6 +41,8 @@ network={
 
 <img src="{{ site.url }}/content/img/setup-headless-raspberry-pi-02.png" />
 
+If you have been reinstalling Raspian and are using the same IP address, you will most likely get a `WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!` message. When you establish a new SSH connection, a fingerprint is created and cached on your local machine. Remove the cached key for the IP address <a target="_blank" href="https://linux.die.net/man/1/ssh-keygen">`$ ssh-keygen -R <YOUR_PI_IP_ADDRESS>`</a> and try again to connect via SSH.
+
 <h2 id="connect-via-vnc" class="has-permalink">Connect via VNC<a class="permalink" title="Permalink" href="#connect-via-vnc">#</a></h2>
 
 - [Connect to your Raspberry Pi via SSH](#connect-via-ssh)

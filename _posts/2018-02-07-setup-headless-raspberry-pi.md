@@ -35,6 +35,7 @@ network={
 
 <h2 id="connect-via-ssh" class="has-permalink">Connect via SSH<a class="permalink" title="Permalink" href="#connect-via-ssh">#</a></h2>
 
+- Insert the microSD card into your Raspberry Pi and power it up
 - <a target="_blank" href="https://raspberrypi.stackexchange.com/q/13936/80323">Get the local network IP address</a> of your Raspberry Pi `$ ping raspberrypi`
 - Connect via SSH `$ ssh pi@<YOUR_PI_IP_ADDRESS>` (default password for the `pi` user is `raspberry`)
 

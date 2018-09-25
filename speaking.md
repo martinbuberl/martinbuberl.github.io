@@ -11,7 +11,11 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
 
-[Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 14-16th 2018
+**Serverless — it all started in Vegas**<br/>
+[Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018
+
+**Serverless — it all started in Vegas**<br/>
+[AWS re:Invent](https://reinvent.awsevents.com/), Las Vegas, NV, November 26th 2018
 
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 

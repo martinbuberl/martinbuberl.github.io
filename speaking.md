@@ -11,6 +11,9 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
 
+**Show and Tell &amp; Open Space**<br/>
+[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/), Copenhagen, Denmark, October 24th 2018
+
 **Serverless — it all started in Vegas**<br/>
 [Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018
 

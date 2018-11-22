@@ -17,7 +17,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
 **Serverless — it all started in Vegas**<br/>
-[Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018 ([Video](https://www.youtube.com/watch?v=OVWmZVixOlk))
+[Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018 ([Slides](https://www.slideshare.net/MartinBuberl/serverless-it-all-started-in-vegas/), [Video](https://www.youtube.com/watch?v=OVWmZVixOlk))
 
 **Show and Tell &amp; Open Space**<br/>
 [AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/255190221/), Copenhagen, Denmark, October 24th 2018

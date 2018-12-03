@@ -9,7 +9,10 @@ permalink: /speaking/
 
 I occasionally stand in front of people and talk about the things that I'm passionate about. It's my favorite way to share knowledge.
 
-<!--h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2-->
+<h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
+
+**tbd**
+[AWS Community Day Nordics](https://awscommunitynordics.org/communityday/), Copenhagen, Denmark, February 19th 2019
 
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 

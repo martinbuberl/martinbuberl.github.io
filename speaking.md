@@ -9,12 +9,12 @@ permalink: /speaking/
 
 I occasionally stand in front of people and talk about the things that I'm passionate about. It's my favorite way to share knowledge.
 
-<h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
+<!--h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2-->
+
+<h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
 **Serverless — it all started in Vegas**<br/>
 [AWS re:Invent](https://reinvent.awsevents.com/), Las Vegas, NV, November 26th 2018
-
-<h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
 **Serverless — it all started in Vegas**<br/>
 [Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018 ([Slides](https://www.slideshare.net/MartinBuberl/serverless-it-all-started-in-vegas/), [Video](https://www.youtube.com/watch?v=OVWmZVixOlk))

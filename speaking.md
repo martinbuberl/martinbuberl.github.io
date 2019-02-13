@@ -15,6 +15,11 @@ AWS Summit, Stockholm, Sweden, May 22nd 2019
 
 [AWS Community Day Nordics](https://awscommunitynordics.org/communityday/), Copenhagen, Denmark, February 19th 2019
 
+<h2 id="2019" class="has-permalink">2019<a class="permalink" title="Permalink" href="#2019">#</a></h2>
+
+**Talking about Serverless and building AWS communities**<br/>
+[FooBar](https://www.youtube.com/watch?v=RD_byq1UNks), Interview with [Marcia Villalba](http://marciavillalba.com) 
+
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
 **Serverless — it all started in Vegas**<br/>

@@ -13,6 +13,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 [AWS Summit](https://aws.amazon.com/events/summits/), Stockholm, Sweden, May 22nd 2019
 
+**Opening Words**<br/>
 [AWS Community Day Nordics](https://awscommunitynordics.org/communityday/), Copenhagen, Denmark, February 19th 2019
 
 <h2 id="2019" class="has-permalink">2019<a class="permalink" title="Permalink" href="#2019">#</a></h2>

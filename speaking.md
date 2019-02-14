@@ -24,7 +24,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
 **Serverless — it all started in Vegas**<br/>
-[AWS re:Invent](https://reinvent.awsevents.com/), Las Vegas, NV, November 26th 2018
+[AWS re:Invent](https://reinvent.awsevents.com/), Las Vegas, NV, November 26th 2018 ([Slides](https://www.slideshare.net/AmazonWebServices/serverlessit-all-started-in-vegas-dvc306-aws-reinvent-2018), [Video](https://www.youtube.com/watch?v=6EhtbhFKHWk))
 
 **Serverless — it all started in Vegas**<br/>
 [Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018 ([Slides](https://www.slideshare.net/MartinBuberl/serverless-it-all-started-in-vegas/), [Video](https://www.youtube.com/watch?v=5eOj3eG22OE), [Video](https://www.youtube.com/watch?v=OVWmZVixOlk))

@@ -32,7 +32,7 @@ Before we move on, let’s have a quick look at some definitions of culture, sha
 
 <blockquote>“The customs, arts, social institutions, and achievements of a particular nation, people, or other social group”<footer>— <cite><a target="_blank" href="http://www.oxforddictionaries.com/us/definition/american_english/culture">Oxford Dictionary</a></cite></footer></blockquote>
 
-<blockquote>“A set of shared experiences, values, and goals that is unique to every engineering team”<footer>— <cite><a target="_blank" href="http://www.amazon.com/gp/product/1449302440/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449302440&linkCode=as2&tag=martinbuberl-20&linkId=PDRTMTTVFZ4CTJZC">Team Geek</a></cite></footer></blockquote>
+<blockquote>“A set of shared experiences, values, and goals that is unique to every engineering team”<footer>— <cite><a target="_blank" href="http://www.amazon.com/gp/product/1449302440/">Team Geek</a></cite></footer></blockquote>
 
 <blockquote>“Some bullshit that corporations like to throw around to pretend not to be either evil or incompetent.”<footer>— <cite><a target="_blank" href="http://www.urbandictionary.com/define.php?term=Culture+&defid=3294748">Urban Dictionary</a></cite></footer></blockquote>
 

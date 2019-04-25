@@ -8,7 +8,7 @@ date: 2018-02-07
 updated: 2018-07-18
 ---
 
-If you'd like to setup your Raspberry Pi <a target="_blank" href="https://en.wikipedia.org/wiki/Headless_computer">headless</a> - without a monitor (the missing &quot;head&quot;), keyboard, and mouse - look no further. This step-by-step guide will walk you through it - assuming a few things: you have a <a target="_blank" href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspberry Pi 3 Model B</a>, a <a target="_blank" href="https://www.amazon.com/Micro-SD-Memory-Cards/b?ie=UTF8&amp;node=3015433011&_encoding=UTF8&tag=martinbuberl-20&linkCode=ur2&linkId=424842274a4e6f2ef0e8211c923670d2&camp=1789&creative=9325">microSD card</a> and are reading this on a Mac.
+If you'd like to setup your Raspberry Pi <a target="_blank" href="https://en.wikipedia.org/wiki/Headless_computer">headless</a> - without a monitor (the missing &quot;head&quot;), keyboard, and mouse - look no further. This step-by-step guide will walk you through it - assuming a few things: you have a <a target="_blank" href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspberry Pi 3 Model B</a>, a <a target="_blank" href="https://www.amazon.com/b/?node=3015433011">microSD card</a> and are reading this on a Mac.
 
 <h2 id="burn-raspian-onto-microsd-card" class="has-permalink">Burn Raspian onto microSD card<a class="permalink" title="Permalink" href="#burn-raspian-onto-microsd-card">#</a></h2>
 

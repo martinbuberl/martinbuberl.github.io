@@ -11,13 +11,23 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
 
-**Serverless — it all started in Vegas**<br/>
-[AWS re:Invent](https://reinvent.awsevents.com/), Las Vegas, NV, November 26th 2018
+[AWS Summit](https://aws.amazon.com/events/summits/), Stockholm, Sweden, May 22nd 2019
+
+**Opening Words**<br/>
+[AWS Community Day Nordics](https://awscommunitynordics.org/communityday/), Copenhagen, Denmark, February 19th 2019
+
+<h2 id="2019" class="has-permalink">2019<a class="permalink" title="Permalink" href="#2019">#</a></h2>
+
+**Talking about Serverless and building AWS communities**<br/>
+[FooBar](https://www.youtube.com/watch?v=RD_byq1UNks), Interview with [Marcia Villalba](http://marciavillalba.com) 
 
 <h2 id="2018" class="has-permalink">2018<a class="permalink" title="Permalink" href="#2018">#</a></h2>
 
 **Serverless — it all started in Vegas**<br/>
-[Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018 ([Video](https://www.youtube.com/watch?v=OVWmZVixOlk))
+[AWS re:Invent](https://reinvent.awsevents.com/), Las Vegas, NV, November 26th 2018 ([Slides](https://www.slideshare.net/AmazonWebServices/serverlessit-all-started-in-vegas-dvc306-aws-reinvent-2018), [Video](https://www.youtube.com/watch?v=6EhtbhFKHWk))
+
+**Serverless — it all started in Vegas**<br/>
+[Build Stuff](https://www.buildstuff.lt/), Vilnius, Lithuania, November 15th 2018 ([Slides](https://www.slideshare.net/MartinBuberl/serverless-it-all-started-in-vegas/), [Video](https://www.youtube.com/watch?v=5eOj3eG22OE))
 
 **Show and Tell &amp; Open Space**<br/>
 [AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/255190221/), Copenhagen, Denmark, October 24th 2018

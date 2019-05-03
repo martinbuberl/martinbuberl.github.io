@@ -13,6 +13,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="editor" class="has-permalink">Editor<a class="permalink" title="Permalink" href="#editor">#</a></h3>
     <ul>
+      <li><a target="_blank" href="https://code.visualstudio.com/">Visual Studio Code</a> - Cross-platform Code Editor
       <li><a target="_blank" href="http://www.sublimetext.com/">Sublime Text</a> - Cross-platform Text Editor
         <ul>
           <li><a target="_blank" href="https://packagecontrol.io/">Package Control</a> - Package Manager</li>

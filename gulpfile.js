@@ -1,25 +1,25 @@
-'use strict';
-
-const gulp = require('gulp');
+const { parallel, src, dest } = require('gulp');
 const sass = require('gulp-sass');
 const cleancss = require('gulp-clean-css');
 const uglify = require('gulp-uglify');
 const concat = require('gulp-concat');
 
-gulp.task('scripts', () => {
-  return gulp.src(['content/js/base.js'])
+function scripts(cb) {
+  src(['content/js/base.js'])
     .pipe(concat('base.min.js'))
     .pipe(uglify({
       compress: { drop_debugger: false }
     }))
-    .pipe(gulp.dest('content'));
-});
+    .pipe(dest('content'));
 
-gulp.task('styles', () => {
-  return gulp.src([
-      'content/css/import.scss',
-      'content/normalize.css',
-      'content/css/base.scss'
+  cb();
+}
+
+function styles(cb) {
+  src([
+    'content/css/import.scss',
+    'content/normalize.css',
+    'content/css/base.scss'
     ])
     .pipe(sass())
     .pipe(concat('all.min.css'))
@@ -28,8 +28,9 @@ gulp.task('styles', () => {
       processImport: false,
       keepSpecialComments: false
     }))
-    .pipe(gulp.dest('content'));
-});
+    .pipe(dest('content'));
 
-// The default task (called when you run `gulp` from cli)
-gulp.task('default', ['scripts', 'styles']);
+  cb();
+}
+
+exports.default = parallel(scripts, styles);

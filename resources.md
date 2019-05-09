@@ -15,6 +15,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <ul>
       <li><a target="_blank" href="https://code.visualstudio.com/">Visual Studio Code</a> - Cross-platform Code Editor
         <ul>
+          <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv">DotENV</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">EditorConfig</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Python</a></li>

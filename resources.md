@@ -44,8 +44,8 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://www.google.com/chrome/browser/">Chrome</a> - Browser of Choice
         <ul>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/inbox-by-gmail/gkljgfmjocfalijkgoogmfffkhmkbgol">Inbox</a> - Save for Later</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb">Authy</a> - Two Factor Authentication</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?h1=en">Bitwarden</a> - Password Manager</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop">Postman</a> - REST/HTTP Client</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh">JSON Viewer</a> - JSON/JSONP Highlighter</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne">Save to Google Drive</a> - Browser Screenshots</li>

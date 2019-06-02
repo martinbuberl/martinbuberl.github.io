@@ -26,7 +26,7 @@
 
 <header>
   <div class="wrapper">{% assign month = 'now' | date: '%m' %}{% if month == '06' %}
-    <a href="/" class="logo"><img src="/content/img/logo-pride.svg" alt="Home" /></a>{% else %}
+    <a href="/" class="logo"><img src="/content/img/logo-pride.svg" alt="Home" title="#pridemonth" /></a>{% else %}
     <a href="/" class="logo"><img src="/content/img/logo.svg" alt="Home" /></a>{% endif %}
     <a href="/contact/"{% if page.navigation == "contact" %} class="contact active"{% else %} class="contact"{% endif %}>Contact</a>
     <ul>

@@ -4,22 +4,24 @@ const cleancss = require('gulp-clean-css')
 const uglify = require('gulp-uglify')
 const concat = require('gulp-concat')
 
+const root = 'docs/content'
+
 function scripts (cb) {
-  src(['content/js/base.js'])
+  src([`${root}/js/base.js`])
     .pipe(concat('base.min.js'))
     .pipe(uglify({
       compress: { drop_debugger: false }
     }))
-    .pipe(dest('content'))
+    .pipe(dest(root))
 
   cb()
 }
 
 function styles (cb) {
   src([
-    'content/css/import.scss',
-    'content/normalize.css',
-    'content/css/base.scss'
+    `${root}/css/import.scss`,
+    `${root}/normalize.css`,
+    `${root}/css/base.scss`
   ])
     .pipe(sass())
     .pipe(concat('all.min.css'))
@@ -28,7 +30,7 @@ function styles (cb) {
       processImport: false,
       keepSpecialComments: false
     }))
-    .pipe(dest('content'))
+    .pipe(dest(root))
 
   cb()
 }

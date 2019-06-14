@@ -21,22 +21,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Python</a></li>
         </ul>
       </li>
-      <li><a target="_blank" href="http://www.sublimetext.com/">Sublime Text</a> - Cross-platform Text Editor
-        <ul>
-          <li><a target="_blank" href="https://packagecontrol.io/">Package Control</a> - Package Manager</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/EditorConfig">EditorConfig</a> - Consistent Coding Styles</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/Babel">Babel</a> - Language definitions for ES6</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/TypeScript">TypeScript</a> - Language Services</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/Sass">Sass</a> - Syntax Highlighting</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter">SublimeLinter</a> - Linting Framework</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-contrib-eslint">SublimeLinter ESLint</a> - Linter Plugin</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/SublimeLinter-pylint">Sublime​Linter-pylint</a> - Linter Plugin</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/Emmet">Emmet</a> - High-Speed Markup</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/Markdown%20Preview">Markdown Preview</a> - Browser Preview</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/TrailingSpaces">Trailing​Spaces</a> - Highlight Trailing Spaces</li>
-          <li><a target="_blank" href="https://packagecontrol.io/packages/Theme%20-%20amCoder">am​Coder</a> - Hyperminimal UI Theme</li>
-        </ul>
-      </li>
+      <li><a target="_blank" href="https://macdown.uranusjr.com/">MacDown</a> - Markdown Editor for macOS</li>
     </ul>
   </div>
   <div class="wrapper">
@@ -46,7 +31,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
         <ul>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb">Authy</a> - Two Factor Authentication</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?h1=en">Bitwarden</a> - Password Manager</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?h1=en">Bitwarden</a> - Password Management</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop">Postman</a> - REST/HTTP Client</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh">JSON Viewer</a> - JSON/JSONP Highlighter</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne">Save to Google Drive</a> - Browser Screenshots</li>
@@ -117,18 +102,12 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <ul>
       <li><a target="_blank" href="https://slack.com/">Slack</a> - Team Communication</li>
       <li><a target="_blank" href="https://meet.google.com/">Meet</a> - Video Conferences (also <a target="_blank" href="https://www.skype.com/">Skype</a>)</li>
-      <li><a target="_blank" href="http://bufferapp.com/r/979a1b">Buffer</a> - Social Media Publishing</li>
-      <li><a target="_blank" href="https://goo.gl/">goo.gl</a> - URL Shortening</li>
     </ul>
   </div>
   <div class="wrapper">
     <h3 id="productivity" class="has-permalink">Productivity<a class="permalink" title="Permalink" href="#productivity">#</a></h3>
     <ul>
-      <li><a target="_blank" href="http://goo.gl/xfPFhk">G Suite</a> - Communicate &amp; Collaborate
-        <ul>
-          <li><a target="_blank" href="https://www.google.com/inbox/">Inbox</a> - Gmail Alternative</li>
-        </ul>
-      </li>
+      <li><a target="_blank" href="http://goo.gl/xfPFhk">G Suite</a> - Communicate &amp; Collaborate</li>
       <li><a target="_blank" href="https://db.tt/lwHYI3m">Dropbox</a> - File Sync, Anywhere</li>
       <li><a target="_blank" href="https://gist.github.com/">Gist</a> - Snippet Sharing</li>
       <li><a target="_blank" href="https://www.google.com/alerts">Google Alerts</a> - Monitor the Web</li>
@@ -137,10 +116,9 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="macos" class="has-permalink">macOS<a class="permalink" title="Permalink" href="#macos">#</a></h3>
     <ul>
-      <li><a target="_blank" href="http://brew.sh/">Homebrew</a> - OS X Package Manager</li>
-      <li><a target="_blank" href="http://www.bresink.com/osx/TinkerTool.html">Tinker Tool</a> - OS X Preferences</li>
+      <li><a target="_blank" href="http://brew.sh/">Homebrew</a> - Package Manager</li>
+      <li><a target="_blank" href="http://www.bresink.com/osx/TinkerTool.html">Tinker Tool</a> - macOS Preferences</li>
       <li><a target="_blank" href="https://github.com/direnv/direnv">direnv</a> - Unclutter .profile</li>
-      <li><a target="_blank" href="http://ohmyz.sh/">Oh My Zsh</a> - Terminal Awesomeness</li>
       <li><a target="_blank" href="http://spectacleapp.com/">Spectate</a> - Move and Resize Windows</li>
       <li><a target="_blank" href="https://etcher.io/">Etcher</a> - OS Image Flasher</li>
       <li><a target="_blank" href="https://www.realvnc.com/en/connect/download/viewer/">VNC Viewer</a> - Remote Control Raspberry Pi</li>
@@ -149,7 +127,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="security" class="has-permalink">Security<a class="permalink" title="Permalink" href="#security">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://www.safe-in-cloud.com/">SafeInCloud</a> - Password Manager</li>
+      <li><a target="_blank" href="https://bitwarden.com/">Bitwarden</a> - Password Management</li>
       <li><a target="_blank" href="https://www.authy.com/">Authy</a> - Two Factor Authentication</li>
       <li><a target="_blank" href="https://keybase.io/">Keybase</a> - Public Key Crypto</li>
       <li><a target="_blank" href="https://hackerone.com/">HackerOne</a> - Bug Bounty Program</li>
@@ -172,7 +150,6 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="http://blog.codinghorror.com/">Jeff Atwood</a></li>
       <li><a target="_blank" href="https://jpattonassociates.com/blog/">Jeff Patton</a></li>
       <li><a target="_blank" href="http://ben.balter.com/">Ben Balter</a></li>
-      <li><a target="_blank" href="http://haacked.com/">Phil Haack</a></li>
     </ul>
   </div>
 </div>

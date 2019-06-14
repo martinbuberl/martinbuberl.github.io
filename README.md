@@ -12,9 +12,7 @@ It is hosted directly from this repository as a [GitHub Pages](https://pages.git
 
 3. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages](docs/Gemfile) gem: `bundle install`.
 
-4. To preview the Jekyll site locally run `bundle exec jekyll serve`. Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
-
-To preview the site with drafts, run jekyll serve with the `--drafts` switch `bundle exec jekyll serve --drafts`.
+4. To preview the Jekyll site locally run `bundle exec jekyll serve`. Then, load [http://localhost:4000/](http://localhost:4000/) in your browser. To preview the site with drafts, run jekyll serve with the `--drafts` switch `bundle exec jekyll serve --drafts`.
 
 ## License
 

@@ -8,7 +8,7 @@ To preview the website locally:
 
 1. Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
 
-2. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the GitHub Pages gem:
+2. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages gem](docs/Gemfile):
 
 ```sh
 $ bundle install

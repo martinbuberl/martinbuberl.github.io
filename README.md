@@ -1,6 +1,8 @@
 # martinbuberl.com
 
-This is the repository of my personal website [martinbuberl.com](https://martinbuberl.com/). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) site.
+This is the repository of my personal website [martinbuberl.com](https://martinbuberl.com/).
+
+It is hosted directly from this repository as a [GitHub Pages](https://pages.github.com/) site.
 
 ## Local Setup
 

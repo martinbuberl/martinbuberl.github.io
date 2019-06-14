@@ -26,7 +26,7 @@ To preview the Jekyll site locally run:
 bundle exec jekyll serve
 ```
 
-To preview the site with drafts, enable the `--drafts` switch `bundle exec jekyll serve --drafts`.
+Enable the `--drafts` switch to preview the site with drafts `bundle exec jekyll serve --drafts`.
 
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
 

@@ -1,6 +1,6 @@
 # martinbuberl.com
 
-This is the repository of the website [martinbuberl.com](https://martinbuberl.com/). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
+This is the repository of the website [martinbuberl.com](https://martinbuberl.com/). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) site.
 
 ## Local Setup
 
@@ -8,13 +8,19 @@ To preview the website locally:
 
 1. Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
 
-2. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages gem](docs/Gemfile):
+2. Our GitHub Pages site is [configured to be published from the `/docs` folder on the `master` branch](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch). Therefore this site's root is `/docs` and you have to change to that directory:
+
+```sh
+$ cd docs
+```
+
+3. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages](docs/Gemfile) gem:
 
 ```sh
 $ bundle install
 ```
 
-3. Run Jekyll using the following command:
+4. Run Jekyll using the following command:
 
 ```sh
 $ bundle exec jekyll serve

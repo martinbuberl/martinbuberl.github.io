@@ -1,3 +1,12 @@
+---
+layout: post
+navigation: "blog"
+title: "Inner Source"
+description: ""
+image: ""
+---
+
+
 # Adopting open-source development practices within organizations
 
 ## Why are we doing it?

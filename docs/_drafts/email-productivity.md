@@ -1,3 +1,11 @@
+---
+layout: post
+navigation: "blog"
+title: "Email Productivity"
+description: ""
+image: ""
+---
+
 # How to achieve an (almost) empty inbox and keep it that way
 
 Most of us spend far too much time in our email inboxes and many of us are struggling to keep up with the constant inflow of new messages. To help you become more productive and responsive, I want to share a few simple techniques that help me to keep my inbox empty — or almost empty — at all times.
@@ -22,7 +30,7 @@ Done: Nothing to do for me. Enjoy your day.
 
 Done
 
-First, archive every email that doesn’t require any further action. For instance, I get a lot of automated emails from various systems. There’s obviously nothing to do for me here, so in most cases those go straight into my archive. Everything really that was just intenteted to inform me that is FYI I’m just CC’d on, depends on the sender if I read them at all, go straight into my archive that I labeled Done. 
+First, archive every email that doesn’t require any further action. For instance, I get a lot of automated emails from various systems. There’s obviously nothing to do for me here, so in most cases those go straight into my archive. Everything really that was just intenteted to inform me that is FYI I’m just CC’d on, depends on the sender if I read them at all, go straight into my archive that I labeled Done.
 
 Then go over each remaining email, top to bottom and if it’s something you can do in two minutes or less, do it right now. The idea is that as you’ve already started doing something — by reading and thinking about the email — it’s easier to just continue doing it rather to revisit that email later. This usually includes task like delegating larger tasks or quick responses to messages.
 
@@ -33,7 +41,7 @@ There are five possible actions for each email: delete, delegate, respond, defer
 
 ## Don’t use email (for that)
 
-Email isn’t supposed to be answered immediately. 
+Email isn’t supposed to be answered immediately.
 
  is [asynchronous communication](https://en.wikipedia.org/wiki/Asynchronous_communication) and. If you have a “why-haven’t-you-answered-me-yet?!?” culture at your workplace, you’re doing it wrong.
 
@@ -50,7 +58,7 @@ Never reply to CC’ed
 
 
 
-- 
+-
 
 Only reply if you really need to. If you’re just cc’ed - never reply
 

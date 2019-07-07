@@ -36,7 +36,6 @@ Here are my bookmarks of software, services and resources, the essentials if you
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh">JSON Viewer</a> - JSON/JSONP Highlighter</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne">Save to Google Drive</a> - Browser Screenshots</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk">Video Speed Controller</a> - Speed Watching</li>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a> - Show GitHub Code Tree</li>
         </ul>
       </li>
     </ul>

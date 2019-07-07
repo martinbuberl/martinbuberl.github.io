@@ -108,6 +108,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <h3 id="productivity" class="has-permalink">Productivity<a class="permalink" title="Permalink" href="#productivity">#</a></h3>
     <ul>
       <li><a target="_blank" href="http://goo.gl/xfPFhk">G Suite</a> - Communicate &amp; Collaborate</li>
+      <li><a target="_blank" href="https://www.notion.so/">Notion</a> - Write, Plan, Collaborate</li>
       <li><a target="_blank" href="https://db.tt/lwHYI3m">Dropbox</a> - File Sync, Anywhere</li>
       <li><a target="_blank" href="https://gist.github.com/">Gist</a> - Snippet Sharing</li>
       <li><a target="_blank" href="https://www.google.com/alerts">Google Alerts</a> - Monitor the Web</li>

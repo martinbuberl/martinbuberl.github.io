@@ -19,7 +19,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">EditorConfig</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Python</a></li>
-          <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode">AWS Toolkit</a></li>
+          <li><a target="_blank" href="https://aws.amazon.com/visualstudiocode/">AWS Toolkit</a></li>
         </ul>
       </li>
       <li><a target="_blank" href="https://macdown.uranusjr.com/">MacDown</a> - Markdown Editor for macOS</li>

@@ -30,21 +30,21 @@ permalink: /pace/
 #slider {
   -webkit-appearance: none;
   width: 100%;
-  height: 20px;
+  height: 40px;
   background: #BDBDBD;
   outline: none;
 }
 #slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: 20px;
-  height: 20px;
+  width: 40px;
+  height: 40px;
   background: #03A9F4;
   cursor: pointer;
 }
 #slider::-moz-range-thumb {
-  width: 20px;
-  height: 20px;
+  width: 40px;
+  height: 40px;
   background: #03A9F4;
   cursor: pointer;
 }
@@ -53,13 +53,14 @@ permalink: /pace/
   font-size: 80px;
   font-weight: bold;
   align: center;
-  padding: 20px;
+  padding-top: 40px;
 }
 #uiPace {
   color: #9E9E9E;
   font-size: 40px;
   font-weight: bold;
   align: center;
+  padding-top: 20px;
 }
 
 </style>

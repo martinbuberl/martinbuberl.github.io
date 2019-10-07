@@ -14,7 +14,6 @@ permalink: /pace/
 .pace button {
   background-color: #E0E0E0;
   float: left;
-  width: 20%;
   border: none;
   outline: none;
   cursor: pointer;
@@ -66,11 +65,11 @@ permalink: /pace/
 </style>
 
 <div class="pace">
-  <button class="distanceTab" onclick="setDistance(event, '5')">5K</button>
-  <button class="distanceTab" onclick="setDistance(event, '10')">10K</button>
-  <button class="distanceTab" onclick="setDistance(event, '15')">15K</button>
-  <button class="distanceTab" onclick="setDistance(event, '21.0975')">Half</button>
-  <button class="distanceTab active" onclick="setDistance(event, '42.195')">Marathon</button>
+  <button class="distanceTab" style="width: 17.5%;" onclick="setDistance(event, '5')">5K</button>
+  <button class="distanceTab" style="width: 17.5%;" onclick="setDistance(event, '10')">10K</button>
+  <button class="distanceTab" style="width: 17.5%;" onclick="setDistance(event, '15')">15K</button>
+  <button class="distanceTab" style="width: 17.5%;" onclick="setDistance(event, '21.0975')">Half</button>
+  <button class="distanceTab active" style="width: 30%;" onclick="setDistance(event, '42.195')">Marathon</button>
 
   <!-- min pace 2:20 (140s) to max pace 10:00 (600s) -->
   <input type="range" min="140" max="600" value="370" id="slider">
@@ -108,7 +107,7 @@ permalink: /pace/
     uiTime.innerHTML = formatToHHMMSS(totalSeconds);
 
     var uiPace = document.getElementById('uiPace');
-    uiPace.innerHTML = `${formatToHHMMSS(totalSeconds)} min/km`;
+    uiPace.innerHTML = `${formatToHHMMSS(pace)} min/km`;
   }
 
   function formatToHHMMSS(seconds) {

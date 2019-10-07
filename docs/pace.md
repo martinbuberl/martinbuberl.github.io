@@ -80,9 +80,9 @@ permalink: /pace/
 </div>
 
 <script>
-  var distance = 42.195; // default
+  var distance = 42.195; // marathon as default
   var slider = document.getElementById('slider');
-  var pace = slider.value; // in seconds
+  var pace = slider.value;
 
   slider.oninput = function() {
     pace = this.value;
@@ -94,6 +94,7 @@ permalink: /pace/
     for (var i = 0; i < distanceTab.length; i++) {
       distanceTab[i].className = distanceTab[i].className.replace(" active", "");
     }
+
     evt.currentTarget.className += " active";
     distance = meters;
 

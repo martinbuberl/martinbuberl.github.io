@@ -82,11 +82,11 @@ permalink: /pace/
 <script>
   var distance = 42.195; // default
   var slider = document.getElementById('slider');
-  var pace = slider.value;
+  var pace = slider.value; // in seconds
 
   slider.oninput = function() {
     pace = this.value;
-    updateUI();
+    update();
   }
 
   function setDistance(evt, meters) {
@@ -97,18 +97,22 @@ permalink: /pace/
     evt.currentTarget.className += " active";
     distance = meters;
 
-    updateUI();
+    update();
   }
 
-  function updateUI() {
-    var time = distance * pace;
+  function update() {
+    var totalSeconds = distance * pace; // total time in seconds = distance in km * pace in seconds
 
     var uiTime = document.getElementById('uiTime');
-    uiTime.innerHTML = new Date(time * 1000).toISOString().substr(11, 8);
+    uiTime.innerHTML = formatToHHMMSS(totalSeconds);
 
     var uiPace = document.getElementById('uiPace');
-    uiPace.innerHTML = new Date(pace * 1000).toISOString().substr(11, 8) + ' min/km';
+    uiPace.innerHTML = `${formatToHHMMSS(totalSeconds)} min/km`;
   }
 
-  updateUI();
+  function formatToHHMMSS(seconds) {
+    return new Date(seconds * 1000).toISOString().substr(11, 8)
+  }
+
+  update();
 </script>

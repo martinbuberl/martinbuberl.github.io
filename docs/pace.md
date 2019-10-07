@@ -79,6 +79,13 @@ permalink: /pace/
   <p id="uiPace"></p>
 </div>
 
+<article>
+  <div class="social">
+    <hr>
+    Follow me on <a href="https://www.strava.com/athletes/martinbuberl" target="_blank">Strava</a> or edit on <a href="https://github.com/{{ site.repository }}/edit/master/docs/{{ page.path }}" target="_blank">GitHub</a>.
+  </div>
+</article>
+
 <script>
   var distance = 42.195; // marathon as default
   var slider = document.getElementById('slider');

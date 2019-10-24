@@ -19,6 +19,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">EditorConfig</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Python</a></li>
+          <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh">Remote SSH</a> (see <a target="_blank" href="https://code.visualstudio.com/blogs/2019/07/25/remote-ssh">tutorial</a>)</li>
           <li><a target="_blank" href="https://aws.amazon.com/visualstudiocode/">AWS Toolkit</a></li>
         </ul>
       </li>

@@ -8,7 +8,7 @@ date: 2016-08-20
 updated: 2019-10-24
 ---
 
-Working with international startups, I often find myself having to deal with diacritics, umlauts and friends on a keyboard with a US layout (particularly a US QWERTY Apple keyboard). Here's my personal cheat sheet:
+Working with international startups I often find myself having to deal with diacritics, umlauts and friends on a keyboard with a US layout (particularly a US QWERTY Apple keyboard). Here's my personal cheat sheet:
 
 | ------------------------------------------------ | -- | ---------------------------------------------------------------------------- |
 | Character                                 | [Digraph](https://en.wikipedia.org/wiki/Digraph_(orthography)) | Key Combination (macOS) |

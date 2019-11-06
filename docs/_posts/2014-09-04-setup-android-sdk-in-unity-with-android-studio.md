@@ -7,7 +7,7 @@ image: "og-QP1dUyQ8WsI.jpg"
 date: 2014-09-04
 ---
 
-To build <a target="_blank" href="http://unity3d.com/">Unity</a> projects for Android the <a target="_blank" href="http://developer.android.com/sdk/">Android SDK</a> (Software Development Kit) needs to be installed. If you're using <a target="_blank" href="http://developer.android.com/sdk/installing/studio.html">Android Studio</a> the SDK will be already part of that installation.
+To build <a target="_blank" href="https://unity.com/">Unity</a> projects for Android the <a target="_blank" href="http://developer.android.com/sdk/">Android SDK</a> (Software Development Kit) needs to be installed. If you're using <a target="_blank" href="http://developer.android.com/sdk/installing/studio.html">Android Studio</a> the SDK will be already part of that installation.
 
 So far so good, but when Unity asks you to select the Android SDK root folder you'll have a problem because it is part of the Android Studio package and therefore isn't accessible to Unity.
 

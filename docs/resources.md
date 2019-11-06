@@ -69,7 +69,8 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://cloud.google.com/">Google Cloud Platform</a> - Cloud Services</li>
       <li><a target="_blank" href="https://www.heroku.com/">Heroku</a> - Cloud PaaS for Node.js, Python, Ruby,  &amp; Go</li>
       <li><a target="_blank" href="https://newrelic.com/">New Relic</a> - Performance Management &amp; Monitoring</li>
-      <li><a target="_blank" href="https://hover.com/ySqMyxoq">Hover</a> - Domain Management (also <a target="_blank" href="https://dnsimple.com/r/4e99a03af0e208">DNSimple</a>)</li>
+      <li><a target="_blank" class="affiliate" href="https://hover.com/ySqMyxoq">Hover</a> - Domain Management</li>
+      <li><a target="_blank" class="affiliate" href="https://dnsimple.com/r/4e99a03af0e208">DNSimple</a> - DNS Management</li>
     </ul>
   </div>
   <div class="wrapper">
@@ -108,9 +109,9 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="productivity" class="has-permalink">Productivity<a class="permalink" title="Permalink" href="#productivity">#</a></h3>
     <ul>
-      <li><a target="_blank" href="http://goo.gl/xfPFhk">G Suite</a> - Communicate &amp; Collaborate</li>
+      <li><a target="_blank" class="affiliate" href="http://goo.gl/xfPFhk">G Suite</a> - Communicate &amp; Collaborate</li>
       <li><a target="_blank" href="https://www.notion.so/">Notion</a> - Write, Plan, Collaborate</li>
-      <li><a target="_blank" href="https://db.tt/lwHYI3m">Dropbox</a> - File Sync, Anywhere</li>
+      <li><a target="_blank" class="affiliate" href="https://db.tt/lwHYI3m">Dropbox</a> - File Sync, Anywhere</li>
       <li><a target="_blank" href="https://gist.github.com/">Gist</a> - Snippet Sharing</li>
       <li><a target="_blank" href="https://www.google.com/alerts">Google Alerts</a> - Monitor the Web</li>
     </ul>

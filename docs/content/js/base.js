@@ -39,5 +39,7 @@
       w.open($this.attr('href'), 'share-' + network, 'width=' + width + ',height=' + height)
     }
   }
+
+  $('.affiliate').after(' <a href="/contact/#the-legal-side">Affiliate</a>')
 // eslint-disable-next-line no-undef
 })(window, document, jQuery)

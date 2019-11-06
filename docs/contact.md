@@ -28,6 +28,8 @@ I am **not looking for work**.
 
 This is my personal website. The opinions expressed herein represent my own, and not those of any employer, group, or organization.
 
+Affiliate links are clearly marked with <a class="affiliate"></a>. These links do not influence my decisions or make me favor some products or companies over others. Clicking an affiliate link supports me.
+
 All original content on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a> attributable to <a rel="cc:attributionName" href="https://martinbuberl.com">Martin Buberl</a>.<br/>
 All code samples on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> are licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.<br/>
 All code available on <a target="_blank" href="https://github.com/martinbuberl/martinbuberl.com">GitHub</a> is licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.<br/>

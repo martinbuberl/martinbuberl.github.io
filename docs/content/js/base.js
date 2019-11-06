@@ -40,6 +40,8 @@
     }
   }
 
-  $('.affiliate').after(' <a href="/contact/#the-legal-side">Affiliate</a>')
+  $('.affiliate')
+    .prop('rel', 'nofollow')
+    .after(' <a href="/contact/#the-legal-side">Affiliate</a>')
 // eslint-disable-next-line no-undef
 })(window, document, jQuery)

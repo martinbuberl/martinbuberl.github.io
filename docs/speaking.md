@@ -11,10 +11,10 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
 
-**AWS re:Invent Recap - Nordics**<br/>
-[AWS User Group](https://www.meetup.com/aws-stockholm/), Stockholm, Sweden, December 11th 2019<br/>
-[AWS User Group](https://www.meetup.com/awsfin/), Helsinki, Finland, December 12th 2019<br/>
-[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/), Copenhagen, Denmark, December 16th 2019
+**AWS re:Invent Community Recap Tour - Nordics**<br/>
+[AWS User Group](https://www.meetup.com/aws-stockholm/events/266072139/), Stockholm, Sweden, December 11th 2019<br/>
+[AWS User Group](https://www.meetup.com/awsfin/events/266078485/), Helsinki, Finland, December 12th 2019<br/>
+[AWS User Group](https://www.meetup.com/Copenhagen-AWS-User-Group/events/265770231/), Copenhagen, Denmark, December 16th 2019
 
 <h2 id="2019" class="has-permalink">2019<a class="permalink" title="Permalink" href="#2019">#</a></h2>
 

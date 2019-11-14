@@ -7,11 +7,11 @@ image: "og-X7dy114KWs4.jpg"
 date: 2013-08-01
 ---
 
-<a target="_blank" href="http://www.ruby-lang.org/">Ruby</a> is a dynamic, <a target="_blank" href="https://github.com/ruby/ruby">open source</a> programming language with a focus on simplicity and productivity and probably best known for its excellent web application framework <a target="_blank" href="http://rubyonrails.org/">Ruby on Rails</a>.
+<a target="_blank" href="https://www.ruby-lang.org/">Ruby</a> is a dynamic, <a target="_blank" href="https://github.com/ruby/ruby">open source</a> programming language with a focus on simplicity and productivity and probably best known for its excellent web application framework <a target="_blank" href="https://rubyonrails.org/">Ruby on Rails</a>.
 
 If you're a web developer who's always been curious about Ruby and RoR but didn't know where to start (especially because you have a Windows background) this hopefully gets you started.
 
-Head over to <a target="_blank" href="http://rubyinstaller.org/">RubyInstaller for Windows</a> and download the installer <a target="_blank" href="http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p448.exe?direct">**Ruby 1.9.3-p448**</a>. Choose a folder to install (for me that's `D:\App\Ruby`), check all boxes and install it.
+Head over to <a target="_blank" href="https://rubyinstaller.org/">RubyInstaller for Windows</a> and download the installer <a target="_blank" href="http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p448.exe?direct">**Ruby 1.9.3-p448**</a>. Choose a folder to install (for me that's `D:\App\Ruby`), check all boxes and install it.
 
 <img src="{{ site.url }}/content/img/install-ruby-for-windows-01.png"/>
 

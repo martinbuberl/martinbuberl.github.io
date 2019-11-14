@@ -141,7 +141,7 @@ Note that <a target="_blank" href="https://help.github.com/en/github/working-wit
 
 While the solution above using A records is working in general for apex domains - it can cause redirect issues - <a target="_blank" href="https://news.ycombinator.com/item?id=7738293">resulting in slow load times</a>.
 
-Personally, I ended up using <a target="_blank" class="affiliate" href="https://dnsimple.com/r/4e99a03af0e208">DNSimple</a> which supports <a target="_blank" href="https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider#configuring-an-alias-or-aname-record-with-your-dns-provider">**ALIAS records**</a> to be able using an apex domain without the hiccups.
+Personally, I ended up using <a target="_blank" href="https://dnsimple.com/">DNSimple</a> which supports <a target="_blank" href="https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider#configuring-an-alias-or-aname-record-with-your-dns-provider">**ALIAS records**</a> to be able using an apex domain without the hiccups.
 
 <h2 id="keeping-jekyll-up-to-date" class="has-permalink">Keeping Jekyll up to date<a class="permalink" title="Permalink" href="#keeping-jekyll-up-to-date">#</a></h2>
 

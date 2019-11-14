@@ -8,9 +8,9 @@ date: 2013-08-09
 updated: 2013-12-28
 ---
 
-<a target="_blank" href="http://www.ubuntu.com/">Ubuntu</a> is an operating system based on Linux and is distributed as free and open source software. <a target="_blank" href="http://aws.amazon.com/ec2/">Amazon Elastic Compute Cloud</a> (EC2) is part of Amazon.com's cloud computing platform, <a target="_blank" href="http://aws.amazon.com/">Amazon Web Services</a> (AWS). EC2 allows you to rent virtual computers on which to run your own applications.
+<a target="_blank" href="https://ubuntu.com/">Ubuntu</a> is an operating system based on Linux and is distributed as free and open source software. <a target="_blank" href="https://aws.amazon.com/ec2/">Amazon Elastic Compute Cloud</a> (EC2) is part of Amazon.com's cloud computing platform, <a target="_blank" href="https://aws.amazon.com/">Amazon Web Services</a> (AWS). EC2 allows you to rent virtual computers on which to run your own applications.
 
-If you don't already have an AWS account, go ahead and <a target="_blank" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html">sign up</a>. Amazon offers a <a target="_blank" href="http://aws.amazon.com/free/">Free Usage Tier</a> to get you started in the cloud, which includes 750 hours of Linux Micro Instances on EC2 each month for one year.
+If you don't already have an AWS account, go ahead and <a target="_blank" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html">sign up</a>. Amazon offers a <a target="_blank" href="https://aws.amazon.com/free/">Free Usage Tier</a> to get you started in the cloud, which includes 750 hours of Linux Micro Instances on EC2 each month for one year.
 
 <h2 id="create-ec2-instance" class="has-permalink">Create EC2 instance<a class="permalink" title="Permalink" href="#create-ec2-instance">#</a></h2>
 
@@ -29,15 +29,15 @@ Review the information and click **Launch**. You should get a confirmation *"You
 
 <h3 id="setup-elastic-ip-address" class="has-permalink">Setup Elastic IP address<a class="permalink" title="Permalink" href="#setup-elastic-ip-address">#</a></h3>
 
-An <a target="_blank" href="http://aws.amazon.com/articles/1346">Elastic IP address</a> is a static IP address designed for dynamic cloud computing. We wouldn't necessarily need it for this tutorial but it's nice to have and easy to setup.
+An <a target="_blank" href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html">Elastic IP address</a> is a static IP address designed for dynamic cloud computing. We wouldn't necessarily need it for this tutorial but it's nice to have and easy to setup.
 
 In the <a target="_blank" href="https://console.aws.amazon.com/ec2">EC2 Management Console</a>, go to the **Network & Security** group and choose **Elastic IPs**. **Allocate** a new IP address and **Associate** it with your new EC2 instance. It might take a minute or two until your instance is reachable under that new IP address.
 
 <h2 id="connect-to-ubuntu-via-ssh-on-windows" class="has-permalink">Connect to Ubuntu via SSH on Windows<a class="permalink" title="Permalink" href="#connect-to-ubuntu-via-ssh-on-windows">#</a></h2>
 
-To connect to your EC2 instance you'll need a <a target="_blank" href="http://en.wikipedia.org/wiki/Secure_Shell">Secure Shell (SSH)</a> client for Windows. There are a bunch of different clients out there, but the most popular one is probably <a target="_blank" href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY</a>.
+To connect to your EC2 instance you'll need a <a target="_blank" href="https://en.wikipedia.org/wiki/Secure_Shell">Secure Shell (SSH)</a> client for Windows. There are a bunch of different clients out there, but the most popular one is probably <a target="_blank" href="https://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY</a>.
 
-So go ahead and <a target="_blank" href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">download</a> the **PuTTY** `putty.exe` and the **PuTTYgen** `puttygen.exe` binaries for **Windows** on **Intel x86** and save them together with your key pair file you created earlier `ec2-martinbuberl.pem`.
+So go ahead and <a target="_blank" href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">download</a> the **PuTTY** `putty.exe` and the **PuTTYgen** `puttygen.exe` binaries for **Windows** on **Intel x86** and save them together with your key pair file you created earlier `ec2-martinbuberl.pem`.
 
 <h3 id="convert-your-private-key" class="has-permalink">Convert your private key<a class="permalink" title="Permalink" href="#convert-your-private-key">#</a></h3>
 

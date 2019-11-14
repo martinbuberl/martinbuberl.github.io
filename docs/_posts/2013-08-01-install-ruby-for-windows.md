@@ -34,9 +34,9 @@ PS D:\App\DevKit> ruby dk.rb init
 PS D:\App\DevKit> ruby dk.rb install
 ```
 
-Finally check that your Ruby environment is using the DevKit correctly by running `gem install json --platform=ruby`. This command will install the <a target="_blank" href="http://rubygems.org/">RubyGems</a> library <a target="_blank" href="http://rubygems.org/gems/json">JSON</a>, or gem like the Ruby folks call it.
+Finally check that your Ruby environment is using the DevKit correctly by running `gem install json --platform=ruby`. This command will install the <a target="_blank" href="https://rubygems.org/">RubyGems</a> library <a target="_blank" href="https://rubygems.org/gems/json">JSON</a>, or gem like the Ruby folks call it.
 
-If you have a .NET background think about RubyGems as something similar to <a target="_blank" href="http://www.nuget.org/">NuGet</a>, or <a target="_blank" href="http://maven.apache.org/">Maven</a> for the Java fanboy.
+If you have a .NET background think about RubyGems as something similar to <a target="_blank" href="https://www.nuget.org/">NuGet</a>, or <a target="_blank" href="https://maven.apache.org/">Maven</a> for the Java fanboy.
 
 After JSON installed correctly run `ruby -rubygems -e "require 'json'; puts JSON.load('[42]').inspect"` to confirm that the JSON gem is working. This should show you <a target="_blank" href="https://www.google.com/search?q=the+answer+to+life%2C+the+universe%2C+and+everything">the answer to life, the universe, and everything</a>.
 

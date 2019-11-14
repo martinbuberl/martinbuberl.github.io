@@ -10,9 +10,9 @@ updated: 2014-11-19
 
 Chocolatey sounds yummy and just like the real deal it can be addictive. But what is it?
 
-<a target="_blank" href="http://chocolatey.org/">Chocolatey</a> is a package manager, somewhat like <a target="_blank" href="http://en.wikipedia.org/wiki/Advanced_Packaging_Tool">apt-get</a>, but built with Windows in mind. It makes it extremely easy to install Windows applications from a central catalog of installation scripts. With more than 1,300 <a target="_blank" href="http://chocolatey.org/packages">packages</a> and growing all you have to do is type one line in your console and let Chocolatey do the rest for you.
+<a target="_blank" href="https://chocolatey.org/">Chocolatey</a> is a package manager, somewhat like <a target="_blank" href="https://en.wikipedia.org/wiki/APT_(software)">apt-get</a>, but built with Windows in mind. It makes it extremely easy to install Windows applications from a central catalog of installation scripts. With more than 1,300 <a target="_blank" href="https://chocolatey.org/packages">packages</a> and growing all you have to do is type one line in your console and let Chocolatey do the rest for you.
 
-Let me give you an example of what I mean. If you would like to install the latest <a target="_blank" href="http://chocolatey.org/packages/ruby">Ruby</a> package via Chocolatey just type `cinst ruby` in your command line. Yum.
+Let me give you an example of what I mean. If you would like to install the latest <a target="_blank" href="https://chocolatey.org/packages/ruby">Ruby</a> package via Chocolatey just type `cinst ruby` in your command line. Yum.
 
 <h2 id="install-chocolatey" class="has-permalink">Install Chocolatey<a class="permalink" title="Permalink" href="#install-chocolatey">#</a></h2>
 
@@ -20,7 +20,7 @@ There are a <a target="_blank" href="https://github.com/chocolatey/chocolatey/wi
 
 ```
 @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%systemdrive%\chocolatey\bin
-````
+```
 
 So what does that scary line do? Excellent question.
 
@@ -28,7 +28,7 @@ Well, basically it utilizes PowerShell, sets your execution policy to unrestrict
 
 <h2 id="install-a-package" class="has-permalink">Install a package<a class="permalink" title="Permalink" href="#install-a-package">#</a></h2>
 
-Let's install a package. I like <a target="_blank" href="http://redis.io/">Redis</a> so let's do that. Open a command line and execute the command `cinst redis`. Chocolatey should now work its magic and install the <a target="_blank" href="http://chocolatey.org/packages/redis">Redis package</a> for you.
+Let's install a package. I like <a target="_blank" href="https://redis.io/">Redis</a> so let's do that. Open a command line and execute the command `cinst redis`. Chocolatey should now work its magic and install the <a target="_blank" href="https://chocolatey.org/packages/redis">Redis package</a> for you.
 
 <img src="{{ site.url }}/content/img/getting-started-with-chocolatey-01.gif"/>
 

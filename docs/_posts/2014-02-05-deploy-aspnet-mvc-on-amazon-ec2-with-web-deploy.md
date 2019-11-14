@@ -8,21 +8,21 @@ date: 2014-02-05
 updated: 2014-09-12
 ---
 
-If you're still using FTP to deploy your web application or site to IIS (Internet Information Services) - <a target="_blank" href="http://imgur.com/UowWBQA">you're doing it wrong</a>.
+If you're still using FTP to deploy your web application or site to IIS (Internet Information Services) - <a target="_blank" href="https://imgur.com/UowWBQA">you're doing it wrong</a>.
 
-I thought that every .NET developer would know about <a target="_blank" href="http://www.iis.net/downloads/microsoft/web-deploy">Web Deploy</a>, but I just recently learned that's not necessarily true. So what exactly is Web Deploy and how does it work?
+I thought that every .NET developer would know about <a target="_blank" href="https://www.iis.net/downloads/microsoft/web-deploy">Web Deploy</a>, but I just recently learned that's not necessarily true. So what exactly is Web Deploy and how does it work?
 
 In a nutshell, Web Deploy simplifies the deployment of web applications to an IIS web server by synchronizing it with your local version.
 
 Note that it is an extension on top of IIS and not the technology stack you're using (ASP.NET, PHP etc.). That means it will help you to streamline your deployment process no matter what you're developing in as long as the web server you want to deploy to is IIS.
 
-In this post I'll run you through a step-by-step example of deploying a standard <a target="_blank" href="http://www.asp.net/mvc">ASP.NET MVC</a> application with Web Deploy from <a target="_blank" href="http://www.visualstudio.com/">Visual Studio</a> to an IIS web server running on <a target="_blank" href="http://aws.amazon.com/ec2/">Amazon EC2</a>.
+In this post I'll run you through a step-by-step example of deploying a standard <a target="_blank" href="https://dotnet.microsoft.com/apps/aspnet/mvc">ASP.NET MVC</a> application with Web Deploy from <a target="_blank" href="https://visualstudio.microsoft.com/">Visual Studio</a> to an IIS web server running on <a target="_blank" href="https://aws.amazon.com/ec2/">Amazon EC2</a>.
 
 Sounds good? Let's get started then.
 
 <h2 id="create-ec2-instance" class="has-permalink">Create EC2 instance<a class="permalink" title="Permalink" href="#create-ec2-instance">#</a></h2>
 
-If you don't already have an AWS account, go ahead and <a target="_blank" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html">sign up</a>. Amazon offers a <a target="_blank" href="http://aws.amazon.com/free/">Free Usage Tier</a> to get you started in the cloud, which includes 750 hours of Windows Micro Instances on EC2 each month for one year.
+If you don't already have an AWS account, go ahead and <a target="_blank" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html">sign up</a>. Amazon offers a <a target="_blank" href="https://aws.amazon.com/free/">Free Usage Tier</a> to get you started in the cloud, which includes 750 hours of Windows Micro Instances on EC2 each month for one year.
 
 Once you're signed in, open the <a target="_blank" href="https://console.aws.amazon.com/ec2">EC2 Management Console</a>, go to **Instances** and select **Launch Instance**. In the **Quick Start** tab select **Microsoft Windows Server 2012 Base** as the Amazon Machine Image (AMI).
 
@@ -46,15 +46,15 @@ Remote connect to the server instance using that `.rdp` file and enter your cred
 
 On a fresh Windows Server instance **Internet Explorer** is the only installed browser, and furthermore it's configured by default with **Enhanced Security Configuration** enabled, so you can't just browse ahead and download something.
 
-Don't get me wrong - that's generally a good thing for various security reasons - but it's a <a target="_blank" href="http://imgur.com/gallery/1VIbP">pain in the butt</a> if you want to write a step-by-step tutorial.
+Don't get me wrong - that's generally a good thing for various security reasons - but it's a <a target="_blank" href="https://imgur.com/gallery/1VIbP">pain in the butt</a> if you want to write a step-by-step tutorial.
 
-Thankfully there are plenty of ways to <a target="_blank" href="http://superuser.com/q/387501">download or share files on a Windows Server</a>. Personally I prefer to download first to my local machine and just copy and paste the files via Remote Desktop's clipboard sharing, but do whatever suits you best.
+Thankfully there are plenty of ways to <a target="_blank" href="https://superuser.com/q/387501">download or share files on a Windows Server</a>. Personally I prefer to download first to my local machine and just copy and paste the files via Remote Desktop's clipboard sharing, but do whatever suits you best.
 
 <h3 id="install-web-platform-installer" class="has-permalink">Install Web Platform Installer<a class="permalink" title="Permalink" href="#install-web-platform-installer">#</a></h3>
 
 We're going to install Web Deploy via Microsoft's Web Platform Installer. The Web PI is a simple tool that automates the installation of Microsoft's entire Web Platform.
 
-Browse to `http://www.microsoft.com/web/downloads/platform.aspx` and download the <a target="_blank" href="http://www.microsoft.com/web/downloads/platform.aspx">Microsoft Web Platform Installer</a>.
+Browse to `https://www.microsoft.com/web/downloads/platform.aspx` and download the <a target="_blank" href="https://www.microsoft.com/web/downloads/platform.aspx">Microsoft Web Platform Installer</a>.
 
 Run the `wpilauncher.exe` file to install the Web Platform Installer on your server.
 
@@ -68,7 +68,7 @@ This will take a few minutes and most likely also install some depending product
 
 <h2 id="setup-web-server-(iis)" class="has-permalink">Setup web server (IIS)<a class="permalink" title="Permalink" href="#setup-web-server-(iis)">#</a></h2>
 
-We're going to deploy an <a target="_blank" href="http://www.asp.net/mvc/mvc4">ASP.NET MVC 4</a> project, so we need to additionally install the **.NET Framework 4.5 Features** on this web server.
+We're going to deploy an <a target="_blank" href="https://www.asp.net/mvc/mvc4">ASP.NET MVC 4</a> project, so we need to additionally install the **.NET Framework 4.5 Features** on this web server.
 
 Otherwise you'll end up with a `500 Internal Server Error` or to be specific:
 
@@ -146,7 +146,7 @@ Publish Succeeded.
 
 As you can see, first the project gets built as `Release`. You can change the configuration in Web Deploy's **Settings** screen.
 
-Then it transforms your `Web.config` file with the transformation actions defined in your `Web.Release.config`. You can read more about Web.config file transformations and how they work <a target="_blank" href="http://www.asp.net/mvc/tutorials/deployment/visual-studio-web-deployment/web-config-transformations">here</a>.
+Then it transforms your `Web.config` file with the transformation actions defined in your `Web.Release.config`. You can read more about Web.config file transformations and how they work <a target="_blank" href="https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/visual-studio-web-deployment/web-config-transformations">here</a>.
 
 The next line `Auto ConnectionString Transformed.` isn't really relevant in our scenario, but Web Deploy offers an additional process of changing the connection string in your `Web.config` file along the file transformations. Again, you can play around with it in Web Deploy's **Settings** screen under **Databases**.
 
@@ -156,7 +156,7 @@ Finally it starts the **Web Deploy Publish** process and deploys the project to 
 
 <h2 id="wrapping-it-up" class="has-permalink">Wrapping it up<a class="permalink" title="Permalink" href="#wrapping-it-up">#</a></h2>
 
-So why is <a target="_blank" href="http://www.iis.net/downloads/microsoft/web-deploy">Web Deploy</a> so much more convenient than using good old <a target="_blank" href="http://en.wikipedia.org/wiki/File_Transfer_Protocol">FTP</a>?
+So why is <a target="_blank" href="https://www.iis.net/downloads/microsoft/web-deploy">Web Deploy</a> so much more convenient than using good old <a target="_blank" href="https://en.wikipedia.org/wiki/File_Transfer_Protocol">FTP</a>?
 
 Well, it's actually really easy to setup and once it is, you can build and deploy your web application with a single click. Whereby Web Deploy does all the heavy lifting by taking care of your automation process and file transformations. It also makes sure that all of your files on the web server are in sync with your local version and only relevant files are getting deployed.
 

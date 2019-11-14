@@ -11,7 +11,7 @@ date: 2013-08-01
 
 If you're a web developer who's always been curious about Ruby and RoR but didn't know where to start (especially because you have a Windows background) this hopefully gets you started.
 
-Head over to <a target="_blank" href="https://rubyinstaller.org/">RubyInstaller for Windows</a> and download the installer <a target="_blank" href="http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p448.exe?direct">**Ruby 1.9.3-p448**</a>. Choose a folder to install (for me that's `D:\App\Ruby`), check all boxes and install it.
+Head over to <a target="_blank" href="https://rubyinstaller.org/">RubyInstaller for Windows</a> and download the installer <a target="_blank" href="https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p448.exe?direct">**Ruby 1.9.3-p448**</a>. Choose a folder to install (for me that's `D:\App\Ruby`), check all boxes and install it.
 
 <img src="{{ site.url }}/content/img/install-ruby-for-windows-01.png"/>
 

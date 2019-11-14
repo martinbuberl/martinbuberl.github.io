@@ -8,13 +8,13 @@ date: 2013-08-02
 updated: 2015-02-27
 ---
 
-<a target="_blank" href="http://jekyllrb.com/">Jekyll</a> is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through converters like <a target="_blank" href="http://daringfireball.net/projects/markdown/">Markdown</a> and <a target="_blank" href="http://wiki.shopify.com/Liquid">Liquid</a>, and spits out a complete, ready-to-publish static website for your favorite web server.
+<a target="_blank" href="https://jekyllrb.com/">Jekyll</a> is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through converters like <a target="_blank" href="https://daringfireball.net/projects/markdown/">Markdown</a> and <a target="_blank" href="https://github.com/Shopify/liquid/wiki">Liquid</a>, and spits out a complete, ready-to-publish static website for your favorite web server.
 
-Jekyll also happens to be the engine behind <a target="_blank" href="http://pages.github.com/">GitHub Pages</a>, which means you can host your project's page, blog, or website from GitHub's servers for free. <a target="_blank" href="http://imgur.com/1ZOdv">Rawr!!!</a>
+Jekyll also happens to be the engine behind <a target="_blank" href="https://pages.github.com/">GitHub Pages</a>, which means you can host your project's page, blog, or website from GitHub's servers for free. <a target="_blank" href="https://imgur.com/1ZOdv">Rawr!!!</a>
 
 <h2 id="install-jekyll" class="has-permalink">Install Jekyll<a class="permalink" title="Permalink" href="#install-jekyll">#</a></h2>
 
-Before you start, make sure that [Ruby and the DevKit are installed]({{ site.url }}/blog/install-ruby-for-windows/) on your Windows machine. Also check the <a target="_blank" href="https://help.github.com/articles/using-jekyll-with-pages#troubleshooting">Jekyll version GitHub Pages is running</a>. Currently that's version 1.0.3.
+Before you start, make sure that [Ruby and the DevKit are installed]({{ site.url }}/blog/install-ruby-for-windows/) on your Windows machine. Also check the <a target="_blank" href="https://pages.github.com/versions/">Jekyll version GitHub Pages is running</a>. Currently that's version 1.0.3.
 
 Open PowerShell (`Windows Key` + `R` and type `powershell`) and install Jekyll by running the command `gem install jekyll -v 1.0.3`.
 
@@ -29,11 +29,11 @@ Installing RDoc documentation for jekyll-1.0.3...
 
 <h2 id="create-github-repository" class="has-permalink">Create GitHub repository<a class="permalink" title="Permalink" href="#create-github-repository">#</a></h2>
 
-Open GitHub and <a target="_blank" href="https://help.github.com/articles/creating-a-new-repository/">create a new repository</a> named `username.github.io`. Note that `username` must be your own account's username or <a target="_blank" href="https://help.github.com/articles/user-organization-and-project-pages">Pages will not build</a>. Make sure you don't initialize your repository with a README file.
+Open GitHub and <a target="_blank" href="https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository">create a new repository</a> named `username.github.io`. Note that `username` must be your own account's username or <a target="_blank" href="https://help.github.com/en/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites">Pages will not build</a>. Make sure you don't initialize your repository with a README file.
 
 <img src="{{ site.url }}/content/img/setup-jekyll-on-windows-and-host-it-on-github-pages-01.png" />
 
-Next change to your desired working directory (e.g `cd D:\Work`) and <a target="_blank" href="http://gitref.org/creating/#clone">clone</a> your new GitHub repository locally `git clone https://github.com/martinbuberl/martinbuberl.github.io.git`.
+Next change to your desired working directory (e.g `cd D:\Work`) and <a target="_blank" href="https://git-scm.com/docs/git-clone">clone</a> your new GitHub repository locally `git clone https://github.com/martinbuberl/martinbuberl.github.io.git`.
 
 ```
 PS > cd D:\Work
@@ -54,7 +54,7 @@ New jekyll site installed in D:/Work/martinbuberl.github.io.
 
 <img src="{{ site.url }}/content/img/setup-jekyll-on-windows-and-host-it-on-github-pages-02.png" />
 
-Next open the file `_config.yml` and change the line `pygments: true` to `pygments: false`. <a target="_blank" href="http://pygments.org/">Pygments</a> is a <a target="_blank" href="http://www.python.org/">Python</a> syntax highlighter and for the sake of simplicity we'll ignore it for now.
+Next open the file `_config.yml` and change the line `pygments: true` to `pygments: false`. <a target="_blank" href="https://pygments.org/">Pygments</a> is a <a target="_blank" href="https://www.python.org/">Python</a> syntax highlighter and for the sake of simplicity we'll ignore it for now.
 
 ```
 name: Your New Jekyll Site
@@ -80,7 +80,7 @@ Now open a browser, go to **http://<i></i>localhost:4000/** and check out your n
 
 <h2 id="publish-jekyll-on-github-pages" class="has-permalink">Publish Jekyll on GitHub Pages<a class="permalink" title="Permalink" href="#publish-jekyll-on-github-pages">#</a></h2>
 
-Switch to your repository directory `cd D:\Work\martinbuberl.github.io` and run the Git commands to <a target="_blank" href="http://gitref.org/basic/#add">add</a> `git add --all`, <a target="_blank" href="http://gitref.org/basic/#commit">commit</a> `git commit -m "Initial commit"` and <a target="_blank" href="http://gitref.org/remotes/#push">push</a> everything to your GitHub's repository master branch `git push "origin" master:master`.
+Switch to your repository directory `cd D:\Work\martinbuberl.github.io` and run the Git commands to <a target="_blank" href="https://git-scm.com/docs/git-add">add</a> `git add --all`, <a target="_blank" href="https://git-scm.com/docs/git-commit">commit</a> `git commit -m "Initial commit"` and <a target="_blank" href="https://git-scm.com/docs/git-push">push</a> everything to your GitHub's repository master branch `git push "origin" master:master`.
 
 ```
 PS > cd D:\Work\martinbuberl.github.io
@@ -112,7 +112,7 @@ That's it! Open your browser, go to **http://martinbuberl.github.io/** and check
 
 <h2 id="setting-up-a-custom-domain" class="has-permalink">Setting up a custom domain<a class="permalink" title="Permalink" href="#setting-up-a-custom-domain">#</a></h2>
 
-Let's say you own the domain **martinbuberl.com** and would like to use it for your GitHub Pages. All you have to do are two easy steps to tell <a target="_blank" href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages">GitHub's server</a> to serve from this domain.
+Let's say you own the domain **martinbuberl.com** and would like to use it for your GitHub Pages. All you have to do are two easy steps to tell <a target="_blank" href="https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site">GitHub's server</a> to serve from this domain.
 
 First create a file named `CNAME` in the root of your repository and put the domain in it:
 
@@ -122,7 +122,7 @@ martinbuberl.com
 
 Next <a target="_blank" href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages#step-2-configure-dns-records">change the DNS settings</a> for your domain so that its **A records** are pointing to the IP addresses `192.30.252.153` and `192.30.252.154`. Piece of cake.
 
-It may take a while until the changes are propagated through the DNS system. You can check the status of the A record using <a target="_blank" href="http://support.microsoft.com/kb/200525">NSlookup</a>:
+It may take a while until the changes are propagated through the DNS system. You can check the status of the A record using <a target="_blank" href="https://support.microsoft.com/kb/200525">NSlookup</a>:
 
 ```
 PS > nslookup -type=A martinbuberl.com
@@ -137,7 +137,7 @@ Addresses:  192.30.252.153
 
 <h3 id="apex-domains" class="has-permalink">Apex domains<a class="permalink" title="Permalink" href="#apex-domains">#</a></h3>
 
-Note that <a target="_blank" href="https://help.github.com/articles/about-custom-domains-for-github-pages-sites#apex-domains">GitHub recommends using a custom subdomain</a> instead of an apex (or naked) domain for your GitHub Pages site.
+Note that <a target="_blank" href="https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain">GitHub recommends using a custom subdomain</a> instead of an apex (or naked) domain for your GitHub Pages site.
 
 While the solution above using A records is working in general for apex domains - it can cause redirect issues - <a target="_blank" href="https://news.ycombinator.com/item?id=7738293">resulting in slow load times</a>.
 

@@ -8,7 +8,7 @@ date: 2014-09-06
 updated: 2014-09-18
 ---
 
-You might call me stubborn - coming from a strong Windows background - but I find it annoying that **OS X's Terminal** is case sensitive if it comes to <a target="_blank" href="http://en.wikipedia.org/wiki/Command-line_completion">command-line completion</a>.
+You might call me stubborn - coming from a strong Windows background - but I find it annoying that **OS X's Terminal** is case sensitive if it comes to <a target="_blank" href="https://en.wikipedia.org/wiki/Command-line_completion">command-line completion</a>.
 
 You can change its behavior to case insensitive by putting the following line into a file `.inputrc` in your home directory `~/`:
 

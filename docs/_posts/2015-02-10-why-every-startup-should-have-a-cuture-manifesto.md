@@ -28,13 +28,13 @@ I get it, if Google has a slide and a Play-Doh room your startup needs some quir
 
 Before we move on, let’s have a quick look at some definitions of culture, shall we?
 
-<blockquote>“A way of thinking, behaving, or working that exists in a place or organization (such as a business)”<footer>— <cite><a target="_blank" href="http://www.merriam-webster.com/dictionary/culture">Merriam-Webster</a></cite></footer></blockquote>
+<blockquote>“A way of thinking, behaving, or working that exists in a place or organization (such as a business)”<footer>— <cite><a target="_blank" href="https://www.merriam-webster.com/dictionary/culture">Merriam-Webster</a></cite></footer></blockquote>
 
-<blockquote>“The customs, arts, social institutions, and achievements of a particular nation, people, or other social group”<footer>— <cite><a target="_blank" href="http://www.oxforddictionaries.com/us/definition/american_english/culture">Oxford Dictionary</a></cite></footer></blockquote>
+<blockquote>“The customs, arts, social institutions, and achievements of a particular nation, people, or other social group”<footer>— <cite><a target="_blank" href="https://www.oxforddictionaries.com/us/definition/american_english/culture">Oxford Dictionary</a></cite></footer></blockquote>
 
-<blockquote>“A set of shared experiences, values, and goals that is unique to every engineering team”<footer>— <cite><a target="_blank" href="http://www.amazon.com/gp/product/1449302440/">Team Geek</a></cite></footer></blockquote>
+<blockquote>“A set of shared experiences, values, and goals that is unique to every engineering team”<footer>— <cite><a target="_blank" href="https://www.amazon.com/gp/product/1449302440/">Team Geek</a></cite></footer></blockquote>
 
-<blockquote>“Some bullshit that corporations like to throw around to pretend not to be either evil or incompetent.”<footer>— <cite><a target="_blank" href="http://www.urbandictionary.com/define.php?term=Culture+&defid=3294748">Urban Dictionary</a></cite></footer></blockquote>
+<blockquote>“Some bullshit that corporations like to throw around to pretend not to be either evil or incompetent.”<footer>— <cite><a target="_blank" href="https://www.urbandictionary.com/define.php?term=Culture+&defid=3294748">Urban Dictionary</a></cite></footer></blockquote>
 
 Well, personally I would describe culture as a set of collective values over time.
 
@@ -56,7 +56,7 @@ I’ve created an Open Culture Manifesto as a conversation starter for founders 
 
 **<a target="_blank" href="https://openculturemanifesto.org">openculturemanifesto.org</a>**
 
-The <a target="_blank" href="https://openculturemanifesto.org">Open Culture Manifesto</a> is licensed under a <a target="_blank" href="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a> and you can <a target="_blank" href="https://github.com/martinbuberl/openculturemanifesto">fork it on GitHub</a>.
+The <a target="_blank" href="https://openculturemanifesto.org">Open Culture Manifesto</a> is licensed under a <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a> and you can <a target="_blank" href="https://github.com/martinbuberl/openculturemanifesto">fork it on GitHub</a>.
 
 It’s not too important that you agree or disagree with the points in the open culture manifesto. No two companies are the same, and I strongly encourage you to write your own version.
 Think about it as your company’s backbone, a set of values people can look up to. If you keep that in mind, you and your company are off to a great start with shaping meaningful culture your employees will love, not just the developers.

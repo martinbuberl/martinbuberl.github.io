@@ -14,7 +14,7 @@ Alternatively, feel free to get in touch with me on <a target="_blank" href="htt
 
 <h2 id="the-fine-print" class="has-permalink">The fine print<a class="permalink" title="Permalink" href="#the-fine-print">#</a></h2>
 
-Please don't directly send me your code or issues. Instead, ask a question on <a target="_blank" href="http://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
+Please don't directly send me your code or issues. Instead, ask a question on <a target="_blank" href="https://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
 
 If you prefer to contact me securely, feel free to verify my identity on <a target="_blank" href="https://keybase.io/martinbuberl">Keybase</a> and encrypt your communications using my <a target="_blank" href="https://keybase.io/martinbuberl/key.asc">public key `3599 2D7D C0F6 F082`</a>.
 
@@ -30,12 +30,12 @@ This is my personal website. The opinions expressed herein represent my own, and
 
 Affiliate links are clearly marked with <a class="affiliate"></a>. These links do not influence my decisions or make me favor some products or companies over others. Clicking an affiliate link supports me.
 
-All original content on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a> attributable to <a rel="cc:attributionName" href="https://martinbuberl.com">Martin Buberl</a>.<br/>
+All original content on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> is licensed under a <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a> attributable to <a rel="cc:attributionName" href="https://martinbuberl.com">Martin Buberl</a>.<br/>
 All code samples on <a rel="cc:attributionURL" href="https://martinbuberl.com">martinbuberl.com</a> are licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.<br/>
 All code available on <a target="_blank" href="https://github.com/martinbuberl/martinbuberl.com">GitHub</a> is licensed under the <a target="_blank" rel="license" href="https://opensource.org/licenses/MIT">MIT license</a>.<br/>
 
 [Speaking](/speaking) photo courtesy of <a target="_blank" href="http://camsty.se/">Camilla Styrstr&ouml;m</a>, &copy; 2017.<br/>
-<a target="_blank" href="http://ogp.me/">Open Graph</a> photos by <a
+<a target="_blank" href="https://ogp.me/">Open Graph</a> photos by <a
 target="_blank" href="https://unsplash.com/photos/ypVM8PnygUo">Mika Ruusunen</a>, <a
 target="_blank" href="https://unsplash.com/photos/X7dy114KWs4">Kelly Sikkema</a>, <a
 target="_blank" href="https://unsplash.com/photos/xiTFENI0dMY">Patrik Göthe</a>, <a

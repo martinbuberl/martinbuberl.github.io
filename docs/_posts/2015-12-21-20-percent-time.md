@@ -53,5 +53,5 @@ Note that this is a suggestion, and never let it inhibit your creativity. Aftera
 Enjoy your 20 percent time.
 
 <ol class="reference">
-  <li id="cite_note-1">The term “smart creatives” was coined in a book, called <a target="_blank" href="http://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/">How Google Works</a>, by former Google CEO Eric Schmidt and Jonathan Rosenberg.</li>
+  <li id="cite_note-1">The term “smart creatives” was coined in a book, called <a target="_blank" href="https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/">How Google Works</a>, by former Google CEO Eric Schmidt and Jonathan Rosenberg.</li>
 <ol>

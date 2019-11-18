@@ -11,7 +11,7 @@ I love moving fast. Living in New York City only seems to strengthen this habit.
 
 The worst thing is if something is stuck - not moving anywhere - like a tourist blocking the subway entrance during rush hour. Things need to be in motion, constantly.
 
-I feel the same way about software projects. Mark Zuckerberg once said “<a target="_blank" href="http://startupquote.com/post/1624569753">Move fast and break things. Unless you are breaking stuff, you are not moving fast enough</a>,” and I couldn’t agree more. For me, developing new features in short iterations and rapidly shipping them is an integral part of a modern software development lifecycle.
+I feel the same way about software projects. Mark Zuckerberg once said “<a target="_blank" href="https://startupquote.com/post/1624569753">Move fast and break things. Unless you are breaking stuff, you are not moving fast enough</a>,” and I couldn’t agree more. For me, developing new features in short iterations and rapidly shipping them is an integral part of a modern software development lifecycle.
 
 I made it a custom that every new developer writes code and ships it on their first day of work. That’s the speed I desire, and my team loves it <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>.
 

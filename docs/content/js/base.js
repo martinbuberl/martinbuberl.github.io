@@ -32,8 +32,11 @@
     var $this = $(this)
 
     if ($this.hasClass(network)) {
-      if (typeof w.ga !== 'undefined') {
-        w.ga('send', 'event', 'share', network)
+      if (typeof w.gtag !== 'undefined') {
+        w.gtag('event', 'share', {
+          'event_category': 'social',
+          'event_label': network
+        })
       }
 
       w.open($this.attr('href'), 'share-' + network, 'width=' + width + ',height=' + height)

@@ -1,3 +1,3 @@
 - Securely and easily encrypt files on a Mac
-- caffeinate -t 3600
+  - Keybase?
 - Disable Bluetooth https://twitter.com/MerrittBaer/status/1184637149402021888?s=19

@@ -29,3 +29,7 @@ Working with international startups I often find myself having to deal with diac
 | [**€**](https://en.wikipedia.org/wiki/Euro_sign) |    | <kbd>option</kbd> + <kbd>shift</kbd> + <kbd>2</kbd>                          |
 
 Of course this isn't supposed to be a complete list of all non-ASCII characters and their key combinations on all different OSs, but it certainly helps me to remember — maybe it's usefull for you as well.
+
+Another key combination I couldn't live without is brings up the **emoji picker**. Just position your cursor anywhere you'd like to insert an emoji, press <kbd>command</kbd> + <kbd>control</kbd> + <kbd>space</kbd> and voilà!
+
+<img src="{{ site.url }}/content/img/diacritics-umlauts-and-friends-01.jpg" />

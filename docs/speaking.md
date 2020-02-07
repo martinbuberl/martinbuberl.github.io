@@ -11,6 +11,11 @@ I occasionally stand in front of people and talk about the things that I'm passi
 
 <!--h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2-->
 
+<h2 id="2020" class="has-permalink">2020<a class="permalink" title="Permalink" href="#2020">#</a></h2>
+
+**Avrios' Engineering Focus**<br/>
+[Avrios HQ](https://www.youtube.com/watch?v=PeN3AIkiMbQ), Zurich, Switzerland, February 4th 2020 ([Slides](https://docs.google.com/presentation/d/1T_kGQ7pU9O71exlPSwmFiWYJQajm1PWr6DIm4GBRDZc/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=PeN3AIkiMbQ))<br/>
+
 <h2 id="2019" class="has-permalink">2019<a class="permalink" title="Permalink" href="#2019">#</a></h2>
 
 **AWS re:Invent Community Recap Tour - Nordics**<br/>

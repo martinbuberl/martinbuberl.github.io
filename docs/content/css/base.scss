@@ -329,7 +329,7 @@ article {
     width: 54px;
   }
   .avatar {
-    background: url("/content/img/avatar.jpg");
+    background: url("/content/img/avatar.png");
     background-size: auto 54px;
     width: 54px;
     height: 54px;
@@ -507,7 +507,7 @@ ul.the-culture-test {
 .hero.about {
   background: url("/content/img/about.jpg");
   background-size: auto 200px;
-  background-position: right;
+  background-position: center;
   height: 200px;
   -webkit-print-color-adjust: exact;
 }
@@ -598,7 +598,7 @@ hr.resources {
 
 @media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
   .author .avatar {
-    background-image: url("/content/img/avatar@2x.jpg");
+    background-image: url("/content/img/avatar@2x.png");
   }
   .hero.about {
     background-image: url("/content/img/about@2x.jpg");

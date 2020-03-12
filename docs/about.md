@@ -13,4 +13,4 @@ As CTO at <a target="_blank" href="https://www.avrios.com/">Avrios</a> I’m <sp
 
 In the analog world I enjoy <a href="https://www.strava.com/athletes/martinbuberl">running</a> and cooking for friends. When I want to get away from it all I love to globe trot, especially when snorkeling or outdoor adventure is involved.
 
-Follow me on <a target="_blank" href="https://twitter.com/martinbuberl">Twitter</a> and see my <a target="_blank" href="https://github.com/martinbuberl">GitHub</a>, <a target="_blank" href="https://stackoverflow.com/users/135441/martin-buberl">Stack Overflow</a> or <a target="_blank" href="https://www.linkedin.com/in/martinbuberl/">LinkedIn</a> profiles to see what I'm up to.
+ Follow me on <a target="_blank" href="https://twitter.com/martinbuberl">Twitter</a>, connect with me on <a target="_blank" href="https://www.linkedin.com/in/martinbuberl/">LinkedIn</a>, and see my <a target="_blank" href="https://github.com/martinbuberl">GitHub</a> and <a target="_blank" href="https://stackoverflow.com/users/135441/martin-buberl">Stack Overflow</a> profiles to find out what I'm up to.

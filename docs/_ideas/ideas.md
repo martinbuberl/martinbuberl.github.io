@@ -1,5 +1,3 @@
----
-
 - Securely and easily encrypt files on a Mac
   - Keybase?
 

@@ -6,7 +6,6 @@ description: "..."
 image: "og-1k3vsv7iIIc.jpg"
 ---
 
-
 -> see https://martinbuberl.com/blog/the-culture-test-eight-steps-to-better-company-culture/#are-you-diverse
 Have a “<a target="_blank" href="http://en.wikipedia.org/wiki/The_No_Asshole_Rule">no jerks!</a>“ policy in place and enforce it. Always be intolerant of intolerance. This can be particularly important with external people your team has to work with like clients, vendors and partners. Don’t allow bullying behavior in your workplace. It worsens morale and productivity.
 

@@ -28,7 +28,7 @@ You can expect clear and honest communication from me. I promise not to leave yo
 
 If you have any feedback for me, please give it. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Your feedback helps me to grow and is always appreciated.
 
-I prefer getting feedback in-person, but if it’s easier for you, feel free to kick off a discussion with an email or a message. If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone else so they can anonymously relay it to me and I can work on it.
+I prefer getting feedback in-person, but if it’s easier for you, feel free to kick off a discussion with an email or a message. If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone else so they can anonymously relay it to me and I can work on it <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>.
 
 <h3 id="dont-hesitate-to-reach-out" class="has-permalink">Don't hesitate to reach out<a class="permalink" title="Permalink" href="#dont-hesitate-to-reach-out">#</a></h3>
 
@@ -59,3 +59,7 @@ I follow a green, yellow, red performance assessment and communication model. My
 </ul>
 
 Going yellow can sound scary, but  don't worry. It is absolutely recoverable! Even going red is recoverable. Recovering builds trust and proves that you can accept feedback, acknowledge your role in the situation, and are willing and capable of changing, growing, and improving.
+
+<ol class="reference">
+  <li id="cite_note-1">You can also give me anonymous feedback via <a target="_blank" href="https://forms.gle/fXq6sNPcX3UmNrXy9">this form</a> or our company's employee engagement software.</li>
+<ol>

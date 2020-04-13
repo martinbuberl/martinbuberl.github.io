@@ -5,19 +5,19 @@ title: "Setup headless Raspberry Pi"
 description: "If you'd like to setup your Raspberry Pi headless - without a monitor (the missing &quot;head&quot;), keyboard, and mouse - look no further. This step-by-step guide will walk you through it."
 image: "og-pJILiyPdrXI.jpg"
 date: 2018-02-07
-updated: 2019-10-24
+updated: 2020-04-13
 ---
 
 If you'd like to setup your Raspberry Pi <a target="_blank" href="https://en.wikipedia.org/wiki/Headless_computer">headless</a> - without a monitor (the missing &quot;head&quot;), keyboard, and mouse - look no further. This step-by-step guide will walk you through it - assuming a few things: you have a <a target="_blank" href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspberry Pi 3 Model B</a>, a <a target="_blank" href="https://www.amazon.com/b/?node=3015433011">microSD card</a> and are reading this on a Mac.
 
 <h2 id="burn-raspian-onto-microsd-card" class="has-permalink">Burn Raspian onto microSD card<a class="permalink" title="Permalink" href="#burn-raspian-onto-microsd-card">#</a></h2>
 
-- Download the latest <a target="_blank" href="https://www.raspberrypi.org/downloads/raspbian/">Raspian with Desktop</a> image *(currently, that's Raspian Buster version: September 2019)*
-- Expand the `2019-09-26-raspbian-buster.img` file from `2019-09-26-raspbian-buster.zip`
+- Download the latest <a target="_blank" href="https://www.raspberrypi.org/downloads/raspbian/">Raspian with Desktop</a> image *(currently, that's Raspian Buster version: February 2020)*
+- Expand the `2020-02-13-raspbian-buster.img` file from `2020-02-13-raspbian-buster.zip`
 - Flash the microSD card with <a target="_blank" href="https://https://www.balena.io/etcher/">balenaEtcher</a>
 <!-- Etcher broken on macOS Catalina https://github.com/balena-io/etcher/issues/2833#issuecomment-511152047 -->
 
-<img src="{{ site.url }}/content/img/setup-headless-raspberry-pi-01-3.png" />
+<img src="{{ site.url }}/content/img/setup-headless-raspberry-pi-01-4.png" />
 
 <h2 id="configure-for-headless-operation" class="has-permalink">Configure for headless operation<a class="permalink" title="Permalink" href="#configure-for-headless-operation">#</a></h2>
 

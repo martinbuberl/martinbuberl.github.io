@@ -7,7 +7,8 @@ image: "og-c3YpscwJb04.jpg"
 date: 2020-04-13
 ---
 
-At the end of this tutorial you'll be able to video stream from your Raspberry Pi to Amazon Kinesis.
+At the end of this tutorial you'll be able to video stream from your Raspberry Pi to <a target="_blank" href="https://aws.amazon.com/kinesis/video-streams/">Amazon Kinesis</a>.
+
 
 If you haven't already, [setup a headless Raspberry Pi]({{ site.url }}/blog/setup-headless-raspberry-pi/). For this tutorial I'm using a <a target="_blank" href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspberry Pi 3 Model B</a> with the <a target="_blank" href="https://www.raspberrypi.org/products/camera-module-v2/">Camera Module V2</a> running <a target="_blank" href="https://www.raspberrypi.org/downloads/raspbian/">Raspian with Desktop</a> *(currently, that's Raspian Buster version: February 2020)*.
 
@@ -119,7 +120,9 @@ $ ./min-install-script
 
 <h3 id="setup-kvssink" class="has-permalink">Setup kvssink<a class="permalink" title="Permalink" href="#setup-kvssink">#</a></h3>
 
-- We need to adjust the path so that Gstreamer can refer to `libgstkvssink.so`, which is the actual kvssin (final destination of the pipeline) to send video to the Producer SDK:
+We need to adjust the path so that Gstreamer can refer to `libgstkvssink.so`. **kvssink** is the sink (final destination of the pipeline) to send video to the Producer SDK.
+
+- You can do that by running the following commands:
 
 ```
 $ export LD_LIBRARY_PATH=/home/pi/Downloads/amazon-kinesis-video-streams-producer-sdk-cpp/kinesis-video-native-build/downloads/local/lib:$LD_LIBRARY_PATH

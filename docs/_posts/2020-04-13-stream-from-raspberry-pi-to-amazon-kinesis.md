@@ -2,12 +2,14 @@
 layout: post
 navigation: "blog"
 title: "Stream from Raspberry Pi to Amazon Kinesis"
-description: ""
-image: ""
-date: 2019-11-24
+description: "At the end of this tutorial you'll be able to video stream from your Raspberry Pi to Amazon Kinesis."
+image: "og-c3YpscwJb04.jpg"
+date: 2020-04-13
 ---
 
-If you haven't already, [setup a headless Raspberry Pi]({{ site.url }}/blog/setup-headless-raspberry-pi/). For this tutorial I'm using a <a target="_blank" href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspberry Pi 3 Model B</a> with the <a target="_blank" href="https://www.raspberrypi.org/products/camera-module-v2/">Camera Module V2</a> running <a target="_blank" href="https://www.raspberrypi.org/downloads/raspbian/">Raspian with Desktop</a> *(currently, that's Raspian Buster version: September 2019)*.
+At the end of this tutorial you'll be able to video stream from your Raspberry Pi to Amazon Kinesis.
+
+If you haven't already, [setup a headless Raspberry Pi]({{ site.url }}/blog/setup-headless-raspberry-pi/). For this tutorial I'm using a <a target="_blank" href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">Raspberry Pi 3 Model B</a> with the <a target="_blank" href="https://www.raspberrypi.org/products/camera-module-v2/">Camera Module V2</a> running <a target="_blank" href="https://www.raspberrypi.org/downloads/raspbian/">Raspian with Desktop</a> *(currently, that's Raspian Buster version: February 2020)*.
 
 <h2 id="configure-the-raspberry-pi-camera" class="has-permalink">Configure the Raspberry Pi camera<a class="permalink" title="Permalink" href="#configure-the-raspberry-pi-camera">#</a></h2>
 
@@ -45,11 +47,11 @@ Congratulations! This is propably the first photo you've ever taken with your Ra
 
 <h2 id="build-the-amazon-kinesis-video-streams-producer-sdk" class="has-permalink">Build the Amazon Kinesis Video Streams Producer SDK<a class="permalink" title="Permalink" href="#build-the-amazon-kinesis-video-streams-producer-sdk">#</a></h2>
 
-You'll be using the <a target="_blank" href="https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp">Amazon Kinesis Video Streams Producer SDK for C++</a> to stream the Raspberry Pi's video to <a target="_blank" href="https://aws.amazon.com/kinesis/video-streams/">Amazon Kinesis Video Streams</a>. In order to that we need to build it first.
+You'll be using the <a target="_blank" href="https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp">Amazon Kinesis Video Streams Producer SDK for C++</a> to stream the Raspberry Pi's video to <a target="_blank" href="https://aws.amazon.com/kinesis/video-streams/">Amazon Kinesis Video Streams</a>. In order to do that we need to build it first.
 
 <h3 id="install-prerequisites" class="has-permalink">Install prerequisites<a class="permalink" title="Permalink" href="#install-prerequisites">#</a></h3>
 
-There are few build-time tools/dependencies which need to be installed on your Raspberry Pi in order to build the core producer SDK libraries.
+There are a few build-time tools/dependencies which need to be installed on your Raspberry Pi in order to build the core producer SDK libraries.
 
 - Reconnect to your Raspberry Pi via SSH `$ ssh pi@<YOUR_PI_IP_ADDRESS>`
 - Update your package lists and upgrade them to their newest version by running:
@@ -115,5 +117,46 @@ $ ./min-install-script
 
 <a target="_blank" href="https://giphy.com/gifs/mrw-week-job-4xpB3eE00FfBm/fullscreen">Success!!!</a>
 
+<h3 id="setup-kvssink" class="has-permalink">Setup kvssink<a class="permalink" title="Permalink" href="#setup-kvssink">#</a></h3>
+
+- We need to adjust the path so that Gstreamer can refer to `libgstkvssink.so`, which is the actual kvssin (final destination of the pipeline) to send video to the Producer SDK:
+
+```
+$ export LD_LIBRARY_PATH=/home/pi/Downloads/amazon-kinesis-video-streams-producer-sdk-cpp/kinesis-video-native-build/downloads/local/lib:$LD_LIBRARY_PATH
+$ export GST_PLUGIN_PATH=/home/pi/Downloads/amazon-kinesis-video-streams-producer-sdk-cpp/kinesis-video-native-build/downloads/local/lib:$GST_PLUGIN_PATH
+$ mkdir /home/pi/Downloads/amazon-kinesis-video-streams-producer-sdk-cpp/kinesis-video-native-build/downloads/local/lib/gstreamer-1.0/
+$ cp -p /home/pi/Downloads/amazon-kinesis-video-streams-producer-sdk-cpp/kinesis-video-native-build/libgstkvssink.so /home/pi/Downloads/amazon-kinesis-video-streams-producer-sdk-cpp/kinesis-video-native-build/downloads/local/lib/gstreamer-1.0/
+```
+
+
 <h2 id="stream-to-amazon-kinesis-video-streams" class="has-permalink">Stream to Amazon Kinesis Video Streams<a class="permalink" title="Permalink" href="#stream-to-amazon-kinesis-video-streams">#</a></h2>
 
+<a target="_blank" href="https://console.aws.amazon.com/kinesisvideo/streams/create?region=us-east-1">Create a Kinesis video stream</a> in your AWS Management Console in the region **US East (N. Virginia)** `us-east-1` with the name `raspberry` using the **Default configuration**.
+
+<img src="{{ site.url }}/content/img/stream-from-your-raspberry-pi-to-amazon-kinesis-06.jpg" />
+
+Create an IAM user `raspberry` with the access type **programmatic access** and attach the **AmazonKinesisVideoStreamsFullAccess** policy (or the appropriate privileges for your AWS account).
+
+Store this user's **access key ID** and **secret access key** in a safe place as we'll need those later.
+
+<h3 id="setup-kvssink" class="has-permalink">Stream using Gstreamer<a class="permalink" title="Permalink" href="#setup-kvssink">#</a></h3>
+
+Run `gst-launch-1.0` with the following options, but make sure to replace `YOUR_ACCESS_KEY` and `YOUR_SECRET_KEY` with your actual keys:
+
+```
+gst-launch-1.0 v4l2src device=/dev/video0 \
+! videoconvert \
+! video/x-raw,format=I420,width=640,height=480 \
+! omxh264enc control-rate=2 target-bitrate=512000 periodicity-idr=45 inline-header=FALSE \
+! h264parse ! video/x-h264,stream-format=avc,alignment=au,profile=baseline \
+! kvssink stream-name="raspberry" \
+access-key="YOUR_ACCESS_KEY" \
+secret-key="YOUR_SECRET_KEY" \
+aws-region="us-east-1"
+```
+
+<h3 id="verify-the-stream" class="has-permalink">Verify the stream<a class="permalink" title="Permalink" href="#verify-the-stream">#</a></h3>
+
+Open the **Media playback** section of your Kinesis Video Streams' stream `raspberry` in the <a target="_blank" href="https://console.aws.amazon.com/kinesisvideo/streams/streamName/raspberry?region=us-east-1">AWS Management Console</a> to verify that the camera input is successfully sent to Amazon Kinesis.
+
+<img src="{{ site.url }}/content/img/stream-from-your-raspberry-pi-to-amazon-kinesis-07.jpg" />

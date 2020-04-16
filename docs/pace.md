@@ -33,6 +33,8 @@ permalink: /pace/
   height: 40px;
   background: #BDBDBD;
   outline: none;
+  -webkit-border-radius:0;
+  border-radius:0;
 }
 #slider::-webkit-slider-thumb {
   -webkit-appearance: none;

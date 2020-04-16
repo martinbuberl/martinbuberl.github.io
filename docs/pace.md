@@ -52,15 +52,17 @@ permalink: /pace/
 #uiTime {
   font-size: 80px;
   font-weight: bold;
+  line-height: normal;
   align: center;
-  padding-top: 40px;
+  margin-bottom: 0;
 }
 #uiPace {
   color: #9E9E9E;
   font-size: 40px;
   font-weight: bold;
+  line-height: normal;
   align: center;
-  padding-top: 20px;
+  margin-top: 0;
 }
 
 </style>

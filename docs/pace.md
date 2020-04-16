@@ -41,14 +41,14 @@ permalink: /pace/
   appearance: none;
   width: 40px;
   height: 40px;
-  outline: none;
+  border: 1px solid #03A9F4;
   background: #03A9F4;
   cursor: pointer;
 }
 #slider::-moz-range-thumb {
   width: 40px;
   height: 40px;
-  outline: none;
+  border: 1px solid #03A9F4;
   background: #03A9F4;
   cursor: pointer;
 }

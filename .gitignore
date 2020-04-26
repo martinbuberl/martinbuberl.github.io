@@ -3,6 +3,7 @@
 
 _site/
 .bundle/
+docs/vendor/bundle/
 node_modules/
 
 *.log

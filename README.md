@@ -7,7 +7,7 @@ It is hosted directly from this repository as a [GitHub Pages](https://pages.git
 ## Prerequisites
 
 Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
- 
+
 ## Installation
 
 This GitHub Pages site is [configured to be published from the `/docs` folder on the `master` branch](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch). Change directory to that folder `cd docs`.
@@ -17,6 +17,8 @@ Install Jekyll and other [dependencies](https://pages.github.com/versions/) from
 ```
 bundle install
 ```
+
+If your user account isn't allowed to install to the system RubyGems you can run `bundle install --path vendor/bundle` to install the gems locally.
 
 ## Serve
 

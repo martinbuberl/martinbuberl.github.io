@@ -26,4 +26,7 @@ To put the controller into pairing mode, press and hold the *Share* button then 
 <!-- make this pic smaller -->
 <img src="{{ site.url }}/content/img/control-raspberry-pi-with-a-playstation-4-controller-01.png" />
 
-
+<!--
+https://github.com/martinbuberl/pi/tree/master/controller
+https://github.com/chrippa/ds4drv
+-->

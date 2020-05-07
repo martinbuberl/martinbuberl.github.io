@@ -132,6 +132,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://bitwarden.com/">Bitwarden</a> - Password Management</li>
       <li><a target="_blank" href="https://www.authy.com/">Authy</a> - Two Factor Authentication</li>
       <li><a target="_blank" href="https://keybase.io/">Keybase</a> - Public Key Crypto</li>
+      <li><a target="_blank" href="https://github.com/SAP/macOS-enterprise-privileges">Privileges</a> - Administrator Rights</li>
       <li><a target="_blank" href="https://hackerone.com/">HackerOne</a> - Bug Bounty Program</li>
     </ul>
   </div>

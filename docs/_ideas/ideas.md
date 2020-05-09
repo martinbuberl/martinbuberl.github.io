@@ -1,6 +1,3 @@
-- Securely and easily encrypt files on a Mac
-  - Keybase?
-
 --- Serverless Twitter Bot ---
 
 https://docs.google.com/spreadsheets/d/1ouXBKjdgBHQ1okKtt5v6w63sxz5VGT6UT5KXRd3GE9Q/edit#gid=0

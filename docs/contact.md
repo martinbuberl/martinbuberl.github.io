@@ -16,8 +16,6 @@ Alternatively, feel free to get in touch with me on <a target="_blank" href="htt
 
 Please don't directly send me your code or issues. Instead, ask a question on <a target="_blank" href="https://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
 
-If you prefer to contact me securely, feel free to verify my identity on <a target="_blank" href="https://keybase.io/martinbuberl">Keybase</a> and encrypt your communications using my <a target="_blank" href="https://keybase.io/martinbuberl/key.asc">public key `3599 2D7D C0F6 F082`</a>.
-
 I'm only interested in speaking at conferences with an enforced Code of Conduct in place. I prefer to speak at conferences that promote inclusivity and are actively working towards improving diversity amongst both attendees and speakers.
 
 I'm an LGBTQ+ <a target="_blank" href="https://en.wikipedia.org/wiki/Straight_ally">ally</a> and my preferred pronouns are he/him/his.

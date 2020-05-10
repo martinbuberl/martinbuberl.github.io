@@ -1,41 +1,39 @@
-(function (w, d, $) {
-  $(d).on('keydown', function (e) {
+(function (w, d) {
+  d.addEventListener('keydown', function (e) {
     switch (e.keyCode) {
       case 37:
-        var $prev = $('article a.prev')
-        var $prevHidden = $('article a.prev.hidden')
+        var prev = d.querySelector('article a.prev')
+        var prevHidden = d.querySelector('article a.prev.hidden')
 
-        if ($prev.length && $prevHidden.length === 0) {
-          w.location.href = $prev.attr('href')
+        if (!!prev && prevHidden === null) {
+          w.location.href = prev.getAttribute('href')
         }
         break
       case 39:
-        var $next = $('article a.next')
-        var $nextHidden = $('article a.next.hidden')
+        var next = d.querySelector('article a.next')
+        var nextHidden = d.querySelector('article a.next.hidden')
 
-        if ($next.length && $nextHidden.length === 0) {
-          w.location.href = $next.attr('href')
+        if (!!next && nextHidden === null) {
+          w.location.href = next.getAttribute('href')
         }
         break
     }
   })
 
-  $('.share').on('click', function (e) {
-    e.preventDefault()
+  const shares = d.querySelectorAll('.share')
+  shares.forEach((share) => {
+    share.addEventListener('click', function (e) {
+      e.preventDefault()
 
-    share.apply(this, ['twitter', 550, 250])
-  })
-  var share = function (network, width, height) {
-    var $this = $(this)
+      popup.apply(this, ['twitter', 550, 250])
+    })
 
-    if ($this.hasClass(network)) {
-      w.open($this.attr('href'), 'share-' + network, 'width=' + width + ',height=' + height)
+    var popup = function (network, width, height) {
+      if (this.classList.contains(network)) {
+        w.open(this.getAttribute('href'), 'share-' + network, 'width=' + width + ',height=' + height)
+      }
     }
-  }
-
-  $('.affiliate')
-    .prop('rel', 'nofollow')
-    .after(' <a href="/contact/#the-legal-side">Affiliate</a>')
+  })
 
   // dark mode
   const darkModeMediaQuery = w.matchMedia('(prefers-color-scheme: dark)')
@@ -46,10 +44,8 @@
     // <link rel="alternate icon" class="favicon" type="image/png" href="/content/img/favicon.png" />
     // <link rel="icon" class="favicon" type="image/svg+xml" href="/content/img/favicon.svg" />
     const favicons = d.querySelectorAll('link.favicon')
-    const darkModeOn = darkModeMediaQuery.matches
-
     favicons.forEach((favicon) => {
-      if (darkModeOn) {
+      if (darkModeMediaQuery.matches) {
         favicon.href = favicon.href.replace('/favicon.', '/favicon-dark.')
       } else {
         favicon.href = favicon.href.replace('/favicon-dark.', '/favicon.')
@@ -58,4 +54,4 @@
   }
 
 // eslint-disable-next-line no-undef
-})(window, document, jQuery)
+})(window, document)

@@ -1,7 +1,7 @@
 const { parallel, src, dest } = require('gulp')
 const sass = require('gulp-sass')
 const cleancss = require('gulp-clean-css')
-const terser = require("gulp-terser")
+const terser = require('gulp-terser')
 const concat = require('gulp-concat')
 
 const root = 'docs/content'

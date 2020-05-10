@@ -46,5 +46,26 @@
   $('.affiliate')
     .prop('rel', 'nofollow')
     .after(' <a href="/contact/#the-legal-side">Affiliate</a>')
+
+  // detect if the browser is using dark mode and change favicon
+  const darkModeMediaQuery = w.matchMedia('(prefers-color-scheme: dark)')
+  darkModeMediaQuery.addListener(onColorSchemeUpdate)
+  onColorSchemeUpdate()
+
+  function onColorSchemeUpdate () {
+    // <link rel="alternate icon" class="favicon" type="image/png" href="/content/img/favicon.png" />
+    // <link rel="icon" class="favicon" type="image/svg+xml" href="/content/img/favicon.svg" />
+    const favicons = d.querySelectorAll('link.favicon') // <link class="favicon" />
+    const darkModeOn = darkModeMediaQuery.matches
+
+    favicons.forEach((favicon) => {
+      if (darkModeOn) {
+        favicon.href = favicon.href.replace('/favicon.', '/favicon-dark.')
+      } else {
+        favicon.href = favicon.href.replace('/favicon-dark.', '/favicon.')
+      }
+    })
+  }
+
 // eslint-disable-next-line no-undef
 })(window, document, jQuery)

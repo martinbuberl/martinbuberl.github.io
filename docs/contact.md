@@ -16,6 +16,8 @@ Alternatively, feel free to get in touch with me on <a target="_blank" href="htt
 
 Please don't directly send me your code or issues. Instead, ask a question on <a target="_blank" href="https://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
 
+If you prefer to contact me securely, encrypt your communication using my <a target="_blank" href="https://keys.pub/">keys.pub</a> identidy <a target="_blank" href="https://keys.pub/user/kex1sxs2vmvu3etwuualqhkwsk6t88qd7wsxzsaczaulwn6xwhhsptrqehq72l">`kex1sxs2vmvu3etwuualqhkwsk6t88qd7wsxzsaczaulwn6xwhhsptrqehq72l`</a>.
+
 I'm only interested in speaking at conferences with an enforced Code of Conduct in place. I prefer to speak at conferences that promote inclusivity and are actively working towards improving diversity amongst both attendees and speakers.
 
 I'm an LGBTQ+ <a target="_blank" href="https://en.wikipedia.org/wiki/Straight_ally">ally</a> and my preferred pronouns are he/him/his.
@@ -62,6 +64,7 @@ target="_blank" href="https://unsplash.com/photos/1k3vsv7iIIc">Kai Pilger</a>, <
 target="_blank" href="https://unsplash.com/photos/WeYamle9fDM">Ashim D’Silva</a>, <a
 target="_blank" href="https://unsplash.com/photos/MdexOj4D-MU">Stanislav Kondratiev</a>, <a
 target="_blank" href="https://unsplash.com/photos/c3YpscwJb04">Harrison Broadbent</a>, <a
+target="_blank" href="https://unsplash.com/photos/8fs1X0JFgFE">Chunlea Ju</a>, <a
 target="_blank" href="https://unsplash.com/photos/1_0KyvVdtP4">Jakob Owens</a> on Unsplash on <a target="_blank" rel="license" href="https://unsplash.com/license">Unsplash</a>.
 
 

@@ -1,7 +1,7 @@
 const { parallel, src, dest } = require('gulp')
 const sass = require('gulp-sass')
 const cleancss = require('gulp-clean-css')
-const uglify = require('gulp-uglify')
+const terser = require("gulp-terser")
 const concat = require('gulp-concat')
 
 const root = 'docs/content'
@@ -9,9 +9,7 @@ const root = 'docs/content'
 function scripts (cb) {
   src([`${root}/js/base.js`])
     .pipe(concat('base.min.js'))
-    .pipe(uglify({
-      compress: { drop_debugger: false }
-    }))
+    .pipe(terser())
     .pipe(dest(root))
 
   cb()

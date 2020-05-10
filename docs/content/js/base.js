@@ -24,21 +24,11 @@
     e.preventDefault()
 
     share.apply(this, ['twitter', 550, 250])
-    share.apply(this, ['facebook', 550, 300])
-    share.apply(this, ['google', 500, 550])
-    share.apply(this, ['hackernews', 500, 250])
   })
   var share = function (network, width, height) {
     var $this = $(this)
 
     if ($this.hasClass(network)) {
-      if (typeof w.gtag !== 'undefined') {
-        w.gtag('event', 'share', {
-          'event_category': 'social',
-          'event_label': network
-        })
-      }
-
       w.open($this.attr('href'), 'share-' + network, 'width=' + width + ',height=' + height)
     }
   }
@@ -47,7 +37,7 @@
     .prop('rel', 'nofollow')
     .after(' <a href="/contact/#the-legal-side">Affiliate</a>')
 
-  // detect if the browser is using dark mode and change favicon
+  // dark mode
   const darkModeMediaQuery = w.matchMedia('(prefers-color-scheme: dark)')
   darkModeMediaQuery.addListener(onColorSchemeUpdate)
   onColorSchemeUpdate()
@@ -55,7 +45,7 @@
   function onColorSchemeUpdate () {
     // <link rel="alternate icon" class="favicon" type="image/png" href="/content/img/favicon.png" />
     // <link rel="icon" class="favicon" type="image/svg+xml" href="/content/img/favicon.svg" />
-    const favicons = d.querySelectorAll('link.favicon') // <link class="favicon" />
+    const favicons = d.querySelectorAll('link.favicon')
     const darkModeOn = darkModeMediaQuery.matches
 
     favicons.forEach((favicon) => {

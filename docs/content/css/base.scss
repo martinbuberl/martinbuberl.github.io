@@ -404,28 +404,6 @@ pre {
   }
 }
 
-/* affiliate */
-
-a.affiliate + a {
-  background-color: $color-grey-light;
-  color: $color-bg;
-  font-size: 10px;
-  padding: 4px 8px 4px 8px;
-  border: 0;
-  border-radius: 999em;
-}
-a.affiliate + a:hover {
-  background-color: $color-grey;
-  color: $color-bg;
-}
-
-.resources {
-  a.affiliate + a {
-    font-size: 9px;
-    padding: 3px 6px 3px 6px;
-  }
-}
-
 /* highlight */
 .highlight {
   background-color: $color-highlight-bg;

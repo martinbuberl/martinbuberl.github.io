@@ -1,22 +1,24 @@
 (function (w, d) {
   d.addEventListener('keydown', function (e) {
     switch (e.keyCode) {
-      case 37:
-        var prev = d.querySelector('article a.prev')
-        var prevHidden = d.querySelector('article a.prev.hidden')
+      case 37: { // arrow left
+        const prev = d.querySelector('article a.prev')
+        const prevHidden = d.querySelector('article a.prev.hidden')
 
         if (!!prev && prevHidden === null) {
           w.location.href = prev.getAttribute('href')
         }
         break
-      case 39:
-        var next = d.querySelector('article a.next')
-        var nextHidden = d.querySelector('article a.next.hidden')
+      }
+      case 39: { // arrow right
+        const next = d.querySelector('article a.next')
+        const nextHidden = d.querySelector('article a.next.hidden')
 
         if (!!next && nextHidden === null) {
           w.location.href = next.getAttribute('href')
         }
         break
+      }
     }
   })
 
@@ -28,7 +30,7 @@
       popup.apply(this, ['twitter', 550, 250])
     })
 
-    var popup = function (network, width, height) {
+    const popup = function (network, width, height) {
       if (this.classList.contains(network)) {
         w.open(this.getAttribute('href'), 'share-' + network, 'width=' + width + ',height=' + height)
       }

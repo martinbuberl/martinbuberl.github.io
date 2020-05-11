@@ -20,11 +20,11 @@
     }
   })
 
+  // share
   const shares = d.querySelectorAll('.share')
   shares.forEach((share) => {
     share.addEventListener('click', function (e) {
       e.preventDefault()
-
       popup.apply(this, ['twitter', 550, 250])
     })
 
@@ -41,8 +41,9 @@
   onColorSchemeUpdate()
 
   function onColorSchemeUpdate () {
-    // <link rel="alternate icon" class="favicon" type="image/png" href="/content/img/favicon.png" />
-    // <link rel="icon" class="favicon" type="image/svg+xml" href="/content/img/favicon.svg" />
+    // Updates the href attributes for link tags with `class="favicon"` based on the browser's
+    // current color schema (light or dark mode), to either `/favicon.png` or `/favicon-dark.png`.
+    // Implementation is file extension agnostic to work with `/favicon.png` and `/favicon.svg` etc.
     const favicons = d.querySelectorAll('link.favicon')
     favicons.forEach((favicon) => {
       if (darkModeMediaQuery.matches) {
@@ -52,6 +53,4 @@
       }
     })
   }
-
-// eslint-disable-next-line no-undef
 })(window, document)

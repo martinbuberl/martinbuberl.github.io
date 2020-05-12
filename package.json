@@ -9,14 +9,14 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "gulp": "^4.0.2",
-    "gulp-clean-css": "^3.3.1",
-    "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.0.2",
-    "gulp-terser": "^1.2.0"
+    "terser": "^4.6.13",
+    "node-sass": "^4.14.1"
   },
   "scripts": {
-    "build": "gulp"
+    "build": "npm run build:js && npm run build:css",
+    "build:js": "terser docs/content/js/base.js --output docs/content/base.min.js --compress --mangle",
+    "build:css": "node-sass --output-style=compressed docs/content/css/base.scss docs/content/base.min.css"
+
   },
   "private": true
 }

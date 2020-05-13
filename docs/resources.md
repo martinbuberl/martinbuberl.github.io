@@ -95,7 +95,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <h3 id="management" class="has-permalink">Management<a class="permalink" title="Permalink" href="#management">#</a></h3>
     <ul>
       <li><a target="_blank" href="https://trello.com/martinbuberl/recommend">Trello</a> - Project Management</li>
-      <li><a target="_blank" href="https://peakon.com/">Peakon</a> - Employee Engagement</li>
+      <li><a target="_blank" href="https://peakon.com/">Peakon</a> - Employee Engagement (also <a target="_blank" href="https://officevibe.com/">Officevibe</a>)</li>
       <li><a target="_blank" href="https://doodle.com/">Doodle</a> - Easy Scheduling</li>
     </ul>
   </div>

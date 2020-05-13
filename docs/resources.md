@@ -39,6 +39,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk">Video Speed Controller</a> - Speed Watching</li>
         </ul>
       </li>
+      <li><a target="_blank" href="https://brave.com/">Brave</a> - Private and Secure Browser</li>
     </ul>
   </div>
   <div class="wrapper">

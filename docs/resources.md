@@ -68,7 +68,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://aws.amazon.com/">Amazon Web Services</a> - Cloud Services</li>
       <li><a target="_blank" href="https://cloud.google.com/">Google Cloud Platform</a> - Cloud Services</li>
       <li><a target="_blank" href="https://www.heroku.com/">Heroku</a> - Cloud PaaS for Node.js, Python, Ruby,  &amp; Go</li>
-      <li><a target="_blank" href="https://newrelic.com/">New Relic</a> - Performance Management &amp; Monitoring</li>
+      <li><a target="_blank" href="https://newrelic.com/">New Relic</a> - Monitoring Service (also <a target="_blank" href="https://www.datadoghq.com/">Datadog</a>)</li>
       <li><a target="_blank" href="https://hover.com/">Hover</a> - Domain Management</li>
       <li><a target="_blank" href="https://dnsimple.com/">DNSimple</a> - DNS Management</li>
     </ul>

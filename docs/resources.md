@@ -13,7 +13,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="editor" class="has-permalink">Editor<a class="permalink" title="Permalink" href="#editor">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://code.visualstudio.com/">Visual Studio Code</a> - Cross-platform Code Editor
+      <li><a target="_blank" href="https://code.visualstudio.com/">Visual Studio Code</a> (<a  target="_blank" href="https://code.visualstudio.com/insiders/">Insiders</a>) - Cross-platform Code Editor
         <ul>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv">DotENV</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">EditorConfig</a></li>
@@ -29,7 +29,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="browser" class="has-permalink">Browser<a class="permalink" title="Permalink" href="#browser">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://www.google.com/chrome/">Chrome</a> - Browser of Choice
+      <li><a target="_blank" href="https://www.google.com/chrome/">Chrome</a> (<a target="_blank" href="https://www.google.com/chrome/canary/">Canary</a>) - Browser of Choice
         <ul>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?h1=en">Bitwarden</a> - Password Management</li>

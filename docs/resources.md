@@ -150,9 +150,10 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <ul>
       <li><a target="_blank" href="https://randsinrepose.com/">Michael Lopp</a></li>
       <li><a target="_blank" href="https://svpg.com/articles/">Marty Cagan</a></li>
-      <li><a target="_blank" href="https://startwithwhy.com/">Simon Sinek</a></li>
-      <li><a target="_blank" href="https://blog.codinghorror.com/">Jeff Atwood</a></li>
       <li><a target="_blank" href="https://jpattonassociates.com/blog/">Jeff Patton</a></li>
+      <li><a target="_blank" href="https://startwithwhy.com/">Simon Sinek</a></li>
+      <li><a target="_blank" href="https://a16z.com/author/ben-horowitz/">Ben Horowitz</a></li>
+      <li><a target="_blank" href="https://blog.codinghorror.com/">Jeff Atwood</a></li>
       <li><a target="_blank" href="https://ben.balter.com/">Ben Balter</a></li>
     </ul>
   </div>

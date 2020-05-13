@@ -78,7 +78,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <ul>
       <li><a target="_blank" href="https://github.com/">GitHub</a> - SaaS for <a target="_blank" href="https://git-scm.com/">Git</a></li>
       <li><a target="_blank" href="https://www.docker.com/">Docker</a> - Build, Ship and Run Containers</li>
-      <li><a target="_blank" href="https://travis-ci.org/">Travis CI</a> - CI Service</li>
+      <li><a target="_blank" href="https://travis-ci.org/">Travis CI</a> - CI Service (also <a target="_blank" href="https://circleci.com/">CircleCI</a>)</li>
       <li><a target="_blank" href="https://launchdarkly.com/">LaunchDarkly</a> - Feature Management</li>
       <li><a target="_blank" href="https://semver.org/">Semantic Versioning</a></li>
     </ul>

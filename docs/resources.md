@@ -13,7 +13,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="editor" class="has-permalink">Editor<a class="permalink" title="Permalink" href="#editor">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://code.visualstudio.com/">Visual Studio Code</a> - Cross-platform Code Editor
+      <li><a target="_blank" href="https://code.visualstudio.com/">Visual Studio Code</a> (<a  target="_blank" href="https://code.visualstudio.com/insiders/">Insiders</a>) - Cross-platform Code Editor
         <ul>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv">DotENV</a></li>
           <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig">EditorConfig</a></li>
@@ -29,7 +29,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
   <div class="wrapper">
     <h3 id="browser" class="has-permalink">Browser<a class="permalink" title="Permalink" href="#browser">#</a></h3>
     <ul>
-      <li><a target="_blank" href="https://www.google.com/chrome/">Chrome</a> - Browser of Choice
+      <li><a target="_blank" href="https://www.google.com/chrome/">Chrome</a> (<a target="_blank" href="https://www.google.com/chrome/canary/">Canary</a>) - Browser of Choice
         <ul>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?h1=en">Bitwarden</a> - Password Management</li>
@@ -39,6 +39,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk">Video Speed Controller</a> - Speed Watching</li>
         </ul>
       </li>
+      <li><a target="_blank" href="https://brave.com/">Brave</a> - Private and Secure Browser</li>
     </ul>
   </div>
   <div class="wrapper">
@@ -67,7 +68,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://aws.amazon.com/">Amazon Web Services</a> - Cloud Services</li>
       <li><a target="_blank" href="https://cloud.google.com/">Google Cloud Platform</a> - Cloud Services</li>
       <li><a target="_blank" href="https://www.heroku.com/">Heroku</a> - Cloud PaaS for Node.js, Python, Ruby,  &amp; Go</li>
-      <li><a target="_blank" href="https://newrelic.com/">New Relic</a> - Performance Management &amp; Monitoring</li>
+      <li><a target="_blank" href="https://newrelic.com/">New Relic</a> - Monitoring Service (also <a target="_blank" href="https://www.datadoghq.com/">Datadog</a>)</li>
       <li><a target="_blank" href="https://hover.com/">Hover</a> - Domain Management</li>
       <li><a target="_blank" href="https://dnsimple.com/">DNSimple</a> - DNS Management</li>
     </ul>
@@ -77,7 +78,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <ul>
       <li><a target="_blank" href="https://github.com/">GitHub</a> - SaaS for <a target="_blank" href="https://git-scm.com/">Git</a></li>
       <li><a target="_blank" href="https://www.docker.com/">Docker</a> - Build, Ship and Run Containers</li>
-      <li><a target="_blank" href="https://travis-ci.org/">Travis CI</a> - CI Service</li>
+      <li><a target="_blank" href="https://travis-ci.org/">Travis CI</a> - CI Service (also <a target="_blank" href="https://circleci.com/">CircleCI</a>)</li>
       <li><a target="_blank" href="https://launchdarkly.com/">LaunchDarkly</a> - Feature Management</li>
       <li><a target="_blank" href="https://semver.org/">Semantic Versioning</a></li>
     </ul>
@@ -94,7 +95,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <h3 id="management" class="has-permalink">Management<a class="permalink" title="Permalink" href="#management">#</a></h3>
     <ul>
       <li><a target="_blank" href="https://trello.com/martinbuberl/recommend">Trello</a> - Project Management</li>
-      <li><a target="_blank" href="https://peakon.com/">Peakon</a> - Employee Engagement</li>
+      <li><a target="_blank" href="https://peakon.com/">Peakon</a> - Employee Engagement (also <a target="_blank" href="https://officevibe.com/">Officevibe</a>)</li>
       <li><a target="_blank" href="https://doodle.com/">Doodle</a> - Easy Scheduling</li>
     </ul>
   </div>
@@ -149,9 +150,10 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <ul>
       <li><a target="_blank" href="https://randsinrepose.com/">Michael Lopp</a></li>
       <li><a target="_blank" href="https://svpg.com/articles/">Marty Cagan</a></li>
-      <li><a target="_blank" href="https://startwithwhy.com/">Simon Sinek</a></li>
-      <li><a target="_blank" href="https://blog.codinghorror.com/">Jeff Atwood</a></li>
       <li><a target="_blank" href="https://jpattonassociates.com/blog/">Jeff Patton</a></li>
+      <li><a target="_blank" href="https://startwithwhy.com/">Simon Sinek</a></li>
+      <li><a target="_blank" href="https://a16z.com/author/ben-horowitz/">Ben Horowitz</a></li>
+      <li><a target="_blank" href="https://blog.codinghorror.com/">Jeff Atwood</a></li>
       <li><a target="_blank" href="https://ben.balter.com/">Ben Balter</a></li>
     </ul>
   </div>

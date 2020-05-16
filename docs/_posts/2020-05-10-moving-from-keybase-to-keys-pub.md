@@ -13,7 +13,7 @@ My personal reasons why I decided to not use Keybase anymore are:
 
 - The lack of any “We're committed to keeping Keybase alive” statement.
 - The vast majority of Zoom's software development team is based out of companies in China and <a target="_blank" href="https://www.theguardian.com/uk-news/2020/apr/24/uk-government-told-not-to-use-zoom-because-of-china-fears">this arrangement may make them responsive to pressure from Chinese authorities</a>.
-- The popularity of Zoom technologies made it of high priority interest to multiple governments and a high priority target for signals intelligence gathering and targeted intrusion operations.
+- The popularity of Zoom technologies made it a high priority interest and target for multiple governments for signals intelligence gathering and targeted intrusion operations.
 - The track record of Zoom to <a target="_blank" href="https://hn.algolia.com/?q=zoom">repeatedly prioritise ease-of-use over security and privacy</a>.
 
 What's going to replace Keybase for me long-term is unclear, but right now the best alternative seems to be <a target="_blank" href="https://keys.pub/">keys.pub</a>. It's free and open-source software and despite its early stage it looks promising enough for me to give it a shot.

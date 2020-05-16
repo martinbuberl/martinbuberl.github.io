@@ -10,13 +10,13 @@ redirect_from: "/hire/index.html"
 
 You can shoot me an email at <a href="mailto:hello@martinbuberl.com">hello@martinbuberl.com</a>, but <span class="highlight">please read the fine print below first</span>.
 
+If you prefer to contact me securely, encrypt your communication using my <a target="_blank" href="https://keys.pub/">keys.pub</a> identidy <a target="_blank" href="https://keys.pub/user/kex1sxs2vmvu3etwuualqhkwsk6t88qd7wsxzsaczaulwn6xwhhsptrqehq72l">`kex1sxs2vmvu3etwuualqhkwsk6t88qd7wsxzsaczaulwn6xwhhsptrqehq72l`</a>.
+
 Alternatively, feel free to get in touch with me on <a target="_blank" href="https://twitter.com/martinbuberl">Twitter</a> or <a target="_blank" href="https://www.linkedin.com/in/martinbuberl/">LinkedIn</a>.
 
 <h2 id="the-fine-print" class="has-permalink">The fine print<a class="permalink" title="Permalink" href="#the-fine-print">#</a></h2>
 
 Please don't directly send me your code or issues. Instead, ask a question on <a target="_blank" href="https://stackoverflow.com/questions/ask">Stack Overflow</a> (or similar) and let me know about it. I'll try my best to answer it there, but if not, there's a good chance somebody else can help you.
-
-If you prefer to contact me securely, encrypt your communication using my <a target="_blank" href="https://keys.pub/">keys.pub</a> identidy <a target="_blank" href="https://keys.pub/user/kex1sxs2vmvu3etwuualqhkwsk6t88qd7wsxzsaczaulwn6xwhhsptrqehq72l">`kex1sxs2vmvu3etwuualqhkwsk6t88qd7wsxzsaczaulwn6xwhhsptrqehq72l`</a>.
 
 I'm only interested in speaking at conferences with an enforced Code of Conduct in place. I prefer to speak at conferences that promote inclusivity and are actively working towards improving diversity amongst both attendees and speakers.
 

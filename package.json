@@ -16,7 +16,6 @@
     "build": "npm run build:js && npm run build:css",
     "build:js": "terser docs/content/js/base.js --output docs/content/base.min.js --compress --mangle",
     "build:css": "node-sass --output-style=compressed docs/content/css/base.scss docs/content/base.min.css"
-
   },
   "private": true
 }

@@ -270,7 +270,7 @@ article {
       display: table;
     }
   }
-  .reference {
+  .reference, .disclaimer {
     color: $color-grey;
     font-size: 14px;
 
@@ -278,6 +278,9 @@ article {
       color: $color-grey-darker;
       border: 0;
     }
+  }
+  .disclaimer {
+    margin: 20px auto 60px auto;
   }
   .social {
     color: $color-grey;

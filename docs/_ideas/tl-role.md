@@ -1,6 +1,7 @@
 Expectations
 
 Agile
+- Agile Manifesto
 - Must Standup
 - Must Retrospective
 - everything else is optional
@@ -13,3 +14,4 @@ OKRs
 - Must participate in the Weekly (and help filling it out)
 - Must look at other teams weeks high-level to spot/raise issues etc.
 
+Is accountable for Delivery

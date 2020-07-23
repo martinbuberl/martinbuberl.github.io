@@ -114,6 +114,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://www.dropbox.com/">Dropbox</a> - File Sync, Anywhere</li>
       <li><a target="_blank" href="https://gist.github.com/">Gist</a> - Snippet Sharing</li>
       <li><a target="_blank" href="https://www.google.com/alerts">Google Alerts</a> - Monitor the Web</li>
+      <li><a target="_blank" href="https://carbon.now.sh/">carbon</a> - Beautiful Images of Code</li>
     </ul>
   </div>
   <div class="wrapper">

@@ -18,4 +18,4 @@ My personal reasons why I decided to not use Keybase anymore are:
 
 What's going to replace Keybase for me long-term is unclear, but right now the best alternative seems to be <a target="_blank" href="https://keys.pub/">keys.pub</a>. It's free and open-source software and despite its early stage it looks promising enough for me to give it a shot.
 
-Are you planning to keep using Keybase? Found another alternative? Let me know!
+Are you planning to keep using Keybase? Found another alternative? [Let me know](/contact)!

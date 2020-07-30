@@ -2,8 +2,8 @@ Expectations
 
 Agile
 - Agile Manifesto
-- Must Standup
-- Must Retrospective
+- Must Standup -> WHAT
+- Must Retrospective -> HOW
 - everything else is optional
 - as long as the team is productive
 

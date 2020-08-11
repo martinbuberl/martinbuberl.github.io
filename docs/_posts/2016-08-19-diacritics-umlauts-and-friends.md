@@ -27,7 +27,7 @@ Working with international startups I often find myself having to deal with diac
 | [**å**](https://en.wikipedia.org/wiki/%C3%85) | aa | <kbd>option</kbd> + <kbd>a</kbd>                                             |
 | [**Å**](https://en.wikipedia.org/wiki/%C3%85) | Aa | <kbd>option</kbd> + <kbd>shift</kbd> + <kbd>a</kbd>                          |
 | [**€**](https://en.wikipedia.org/wiki/Euro_sign) |    | <kbd>option</kbd> + <kbd>shift</kbd> + <kbd>2</kbd>                          |
-| [**—**](https://en.wikipedia.org/wiki/Dash#Em_dash) (Em Dash) |    | <kbd>option</kbd> + <kbd>shift</kbd> + <kbd>-</kbd> (minus)                  |
+| [**—**](https://en.wikipedia.org/wiki/Dash#Em_dash) (em dash) |    | <kbd>option</kbd> + <kbd>shift</kbd> + <kbd>-</kbd> (minus)                  |
 
 Of course this isn't supposed to be a complete list of all non-ASCII characters and their key combinations on all different OSs, but it certainly helps me to remember — maybe it's usefull for you as well.
 

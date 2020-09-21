@@ -9,10 +9,9 @@ permalink: /speaking/
 
 I occasionally stand in front of people and talk about the things that I'm passionate about. It's my favorite way to share knowledge.
 
-<!--
 <h2 id="coming-up" class="has-permalink">Coming up<a class="permalink" title="Permalink" href="#coming-up">#</a></h2>
--->
 
+[Nordic Cloud Strategy 2020](https://cloudstrategy2020.com/), September 29th 2020<br/>
 
 <h2 id="2020" class="has-permalink">2020<a class="permalink" title="Permalink" href="#2020">#</a></h2>
 

@@ -30,6 +30,8 @@ bundle exec jekyll serve
 
 Enable the `--drafts` switch to preview the site with drafts `bundle exec jekyll serve --drafts`.
 
+Run `bundle exec jekyll serve 2>&1 | egrep -v 'deprecated'` to [disable deprecation build warnings](https://github.com/mmistakes/minimal-mistakes/issues/2458).
+
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
 
 

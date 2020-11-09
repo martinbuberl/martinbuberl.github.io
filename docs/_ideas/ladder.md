@@ -43,3 +43,8 @@ Articles
 /ladder/Management - Career Path v.8 - via Rands.pdf
 
 https://rands-leadership.slack.com/files/U04T4TH8Y/F3WCGS7CY/draft-_management_career_path_v.8_-_via_rands.pdf?origin_team=T04T4TH8W&origin_channel=C077A86F8
+
+
+Compare career levels across companies
+https://www.levels.fyi/
+

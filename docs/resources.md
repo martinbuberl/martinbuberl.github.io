@@ -126,6 +126,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
       <li><a target="_blank" href="https://www.spectacleapp.com/">Spectate</a> - Move and Resize Windows</li>
       <li><a target="_blank" href="https://www.balena.io/etcher/">Etcher</a> - OS Image Flasher</li>
       <li><a target="_blank" href="https://www.realvnc.com/en/connect/download/viewer/">VNC Viewer</a> - Remote Control Raspberry Pi</li>
+      <li><a target="_blank" href="https://apps.apple.com/us/app/the-unarchiver/id425424353">The Unarchiver</a> - Zip, RAR, Tar and friends</li>
     </ul>
   </div>
   <div class="wrapper">

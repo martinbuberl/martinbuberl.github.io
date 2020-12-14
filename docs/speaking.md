@@ -18,7 +18,7 @@ I occasionally stand in front of people and talk about the things that I'm passi
 <h2 id="2020" class="has-permalink">2020<a class="permalink" title="Permalink" href="#2020">#</a></h2>
 
 **Staying Continuously Ingenious: Business Resilience with Technology**<br/>
-[TechBBQ Digital](https://techbbq.dk/), Copenhagen, Denmark, September 18th 2020<br/>
+[TechBBQ Digital](https://techbbq.dk/), Copenhagen, Denmark, September 18th 2020 ([Video](https://www.youtube.com/watch?v=T6QRihPcgIE))<br/>
 
 **Avrios' Engineering Focus**<br/>
 [Avrios](https://www.youtube.com/watch?v=PeN3AIkiMbQ), Zurich, Switzerland, February 4th 2020 ([Slides](https://docs.google.com/presentation/d/1T_kGQ7pU9O71exlPSwmFiWYJQajm1PWr6DIm4GBRDZc/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=PeN3AIkiMbQ))<br/>

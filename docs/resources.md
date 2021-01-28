@@ -31,7 +31,7 @@ Here are my bookmarks of software, services and resources, the essentials if you
     <ul>
       <li><a target="_blank" href="https://www.google.com/chrome/">Chrome</a> (<a target="_blank" href="https://www.google.com/chrome/canary/">Canary</a>) - Browser of Choice
         <ul>
-          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a> - Ad Blocker</li>
+          <li><a target="_blank" href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related">uBlock Origin</a> - Ad Blocker</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?h1=en">Bitwarden</a> - Password Management</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop">Postman</a> - REST/HTTP Client</li>
           <li><a target="_blank" href="https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh">JSON Viewer</a> - JSON/JSONP Highlighter</li>

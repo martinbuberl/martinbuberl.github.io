@@ -104,8 +104,9 @@ $ sudo apt-get install gstreamer1.0-plugins-base-apps gstreamer1.0-plugins-bad g
 
 ```
 $ cd /home/pi/Downloads
-$ git clone https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp
+$ git clone --branch '2.1.0' https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp
 ```
+(you should take version 2.1.0 to make it work since there is a new folders' structure and build tactics since version 3.0)
 
 - Change your current working directory to the install directory and run the `min-install-script` script to build the Producer SDK:
 
